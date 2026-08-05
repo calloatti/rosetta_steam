@@ -1,0 +1,11 @@
+PublishedFileID:3276346858
+Id:DisablePathMeshWarning
+Directory_Name:version-1.0
+Name:Disable Path Mesh Warning
+Title:Steam title
+Version:1.2.3
+MinimumGameVersion:1.0.0.0
+RequiredMods_Id:Harmony
+RequiredMods_MinimumVersion:1.2.3
+OptionalMods_Id:
+OptionalMods_MinimumVersion:
