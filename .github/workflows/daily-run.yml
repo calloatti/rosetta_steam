@@ -27,6 +27,16 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
 
+    - name: Cache downloaded manifests
+      uses: actions/cache@v4
+      with:
+        # Caches the specific directory where SteamDepotDownload saves the files
+        path: bin/Release/net10.0/data/
+        # Creates a new cache every day, but falls back to the most recent one available
+        key: steam-manifests-${{ github.run_number }}
+        restore-keys: |
+          steam-manifests-
+
     - name: Build and Run
       # Executes your Main method and generates the files
       run: dotnet run --configuration Release
