@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11828.311 oobstable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RosettaGenerator", "RosettaGenerator.csproj", "{1608B702-2BEB-5849-77D3-C91A160C6880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1608B702-2BEB-5849-77D3-C91A160C6880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1608B702-2BEB-5849-77D3-C91A160C6880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1608B702-2BEB-5849-77D3-C91A160C6880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1608B702-2BEB-5849-77D3-C91A160C6880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F69241C-36D6-4401-A636-1E346DEBBF7B}
+	EndGlobalSection
+EndGlobal
