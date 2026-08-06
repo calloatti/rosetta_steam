@@ -62,7 +62,7 @@ dotnet run
 
 ## Known issues / gotchas
 
-- `ModDownloaderService` hardcodes app id `"1062090"` for Workshop/UGC operations while `SteamCrawlerService` reads it from `steam_appid.txt`. Keep them in sync if the target game changes.
+- Only `SteamCrawlerService` reads the app id (from `steam_appid.txt`); `ModDownloaderService` never configures one — `DownloadPubfileAsync` resolves the published file's app context internally in the SteamDepotDownload library.
 - The crawler's `Creator` metadata is the numeric SteamID64, not a profile name (anonymous CM queries cannot resolve persona names).
 - Export only processes folders whose ID appears in the current crawl response; cached folders not in the crawl are preserved on disk but skipped (see the bypass log message).
 - Root-level `manifest.json` is skipped when a mod folder also contains subfolder manifests (only the version-specific manifests are exported).
