@@ -375,7 +375,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3341210959	Hytone.SimpleFloodgateTriggers	version-1.0	SimpleFloodgateTriggers	SimpleFloodgateTriggers	10.0.4	1.0.0.0	Harmony	2.3.3		
 3341210959	Hytone.SimpleFloodgateTriggers	version-1.0	SimpleFloodgateTriggers	SimpleFloodgateTriggers	10.0.4	1.0.0.0	TimberApi.UIBuilder	1.0.0.0		
 3341274783	Tobbert.DutchWindmill		Dutch Windmill	[To be updated] Dutch Windmill	2.0.1	0.6.0.0				
-3341374073	Tobbert.MorePlatforms	Version-1.0	More Platforms	More Platforms	3.1.3	1.0.0.0	Harmony			
+3341374073	Tobbert.MorePlatforms	Version-1.0	More Platforms	More Platforms	3.1.4	1.0.0.0	Harmony			
 3343029129	Cordial.Mods.PlantingOverride	version-0.6	Planting Override	Planting Override	0.5.0	0.6.7.0	TimberApi	0.7.8.0		
 3343029129	Cordial.Mods.PlantingOverride	version-0.6	Planting Override	Planting Override	0.5.0	0.6.7.0	Harmony	0.0.0.1		
 3343029129	Cordial.Mods.PlantingOverride	version-0.7.4.2	Planting Override	Planting Override	0.7.3.1	0.7.4.2	TimberApi	0.7.12.1		
@@ -578,6 +578,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3410576524	BobPlatforms	version-1.0	Bobingabout	Bob Platforms Extended	1.0.10.0	1.0.7.0				
 3412229216	ToggleAllMods	version-0.6	Toggle All Mods & Profiles	Toggle All Mods & Profiles [U6 + U7 ✅]	7.2.0	0.6.0.0	eMka.ModSettings	0.6.0.0		
 3412229216	ToggleAllMods	version-0.7	Toggle All Mods & Profiles	Toggle All Mods & Profiles [U6 + U7 ✅]	7.2.0	0.6.0.0	eMka.ModSettings	0.6.0.0		
+3413493458	Timberborn.ModExamples.YearOfTheSnakeBeaverTails	version-0.6	Year of the Snake Beaver Tails	Year of the Snake Beaver Tails	1.0	0.6.9.3				
+3413493458	Timberborn.ModExamples.YearOfTheSnakeBeaverTails	version-0.7	Year of the Snake Beaver Tails	Year of the Snake Beaver Tails	1.1	0.7.6.0				
+3413493458	Timberborn.ModExamples.YearOfTheSnakeBeaverTails	version-1.0	Year of the Snake Beaver Tails	Year of the Snake Beaver Tails	1.0.5.0	1.0.0.0				
 3414042910	MarkAllTrees	version-0.6	Mark All Trees	Mark All Trees	1.3.0	0.6.0.0	eMka.ModSettings	0.6.0.0		
 3414042910	MarkAllTrees	version-0.7	Mark All Trees	Mark All Trees	7.0.2	0.6.0.0	eMka.ModSettings	0.6.0.0		
 3414359638	AlwaysConnected	version-0.6	Always Connected (Power)	Always Connected (Power)	1.0.0	0.6.0.0	Harmony	0.6.0.0		
@@ -968,6 +971,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3480668755	MoreNaming	version-0.7	More Naming	More Naming	7.0.0	0.7.0.0				
 3480668755	MoreNaming	version-1.0	More Naming	More Naming	10.0.1	1.0.0	Harmony			
 3481116192	Omnibar	version-0.7	Omni Bar & Todo List	Omni Bar & Todo List [U7 ✅]	7.1.5	0.7.0.0	TimberUi	7.3.0		
+3482868732	Hats	version-0.7	Hats [U7]	Hats	0.6	0.7.8.1	Harmony			
+3482868732	Hats	version-1.0	Hats [V1.0]	Hats	0.8	1.0.0.0				
+3482868732	Hats	version-1.0.7.0	Hats	Hats	1.0	1.0.5.0				
+3482868732	Hats	version-1.0.5.0	Hats [V1.0]	Hats	0.9	1.0.5.0				
 3483256520	DeeperBombs	version-0.7.1	zxuiji -m- Deeper Bombs	zxuiji -m- Deeper Bombs	0.7.7.00	0.7.7.0	ModdablePrefab	7.1.2		
 3483256520	DeeperBombs	version-0.7.1	zxuiji -m- Deeper Bombs	zxuiji -m- Deeper Bombs	0.7.7.00	0.7.7.0	ConfigurableExplosives	7.0.0		
 3483256520	DeeperBombs	version-0.7.1	zxuiji -m- Deeper Bombs	zxuiji -m- Deeper Bombs	0.7.7.00	0.7.7.0			ZxuijiModsGroupHeader	
@@ -1108,6 +1115,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3543155128	PoweredTubeway	version-0.7	Powered Tubeway	Powered Tubeway	7.0.0	0.7.0.0	ModdablePrefab			
 3543155128	PoweredTubeway	version-1.1	Powered Tubeway	Powered Tubeway	11.0.0	1.1.1				
 3543155128	PoweredTubeway	version-1.0	Powered Tubeway	Powered Tubeway	10.2.0	1.0.0				
+3543201946	AirlockChamber	version-0.7	Airlock Chamber	Airlock Chamber	7.1.1	0.7.0.0				
+3543201946	AirlockChamber	version-1.0	Airlock Chamber	Airlock Chamber	10.0.2	1.0.0				
 3547764728	TImprove4UX	version-0.7	TImprove 4 UX	TImprove 4 UX	7.4.0	0.7.0.0	eMka.ModSettings			
 3547764728	TImprove4UX	version-0.7	TImprove 4 UX	TImprove 4 UX	7.4.0	0.7.0.0	Harmony			
 3547764728	TImprove4UX	version-0.7	TImprove 4 UX	TImprove 4 UX	7.4.0	0.7.0.0	TimberUi			
@@ -1209,6 +1218,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3598374010	Zerak.PoweredRoofs	version-1.0	Powered Roofs	Powered Roofs	1.1.3	1.0.9	Nerro.HalfRoofs	1.0		
 3599536734	scja.cheapstairs	version-1.0	Cheaper Spiral Stairs	Cheaper Spiral Stairs	1.0.1	1.0.0.0				
 3599536799	scja.fasthealing	version-1.0	Fast Healing	Fast Healing	1.0.1	1.0.0.0				
+3599536863	scja.fastscience	version-0.6	Fast Science	Fast Science	1.0	0.6.0.0				
+3599536863	scja.fastscience	version-0.7	Fast Science	Fast Science	1.0	0.7.0.0				
+3599536863	scja.fastscience	version-1.0	Fast Science	Fast Science	1.0.1	1.0.0.0				
 3600096738	Pin	version-0.7	Pin	Pin	7.0.0	0.7.0.0	TimberUi			
 3600096738	Pin	version-0.7	Pin	Pin	7.0.0	0.7.0.0	eMka.ModSettings			
 3600096738	Pin	version-1.1	Pin	Pin	11.0.0	1.1.0	TimberUi			
@@ -1492,7 +1504,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3681478321	ExampleBuilding.BerryBanners		Berry Banners	Berry Banners	0.1	1.0.0.0				
 3682012904	Calloatti.HoomanStairs	Version-1.0	Hooman Stairs	Hooman Stairs	2.0.1	1.0.12.5	Harmony			
 3682304469	Calloatti.DevNoCtrl	Version-1.1	DevNoCtrl	DevNoCtrl (Dev Tool)	1.1.1	1.1.0.0	Harmony			
-3682304469	Calloatti.DevNoCtrl	Version-1.0	DevNoCtrl	DevNoCtrl (Dev Tool)	1.1.0	1.0.12.5	Harmony			
+3682304469	Calloatti.DevNoCtrl	Version-1.0	DevNoCtrl	DevNoCtrl (Dev Tool)	1.1.1	1.0.12.5	Harmony			
 3682669754	Agroqirax.RemoteApiAccess		Remote Api Access	Remote Api Access	1.0.12.6	1.0.11.0	Harmony			
 3682782515	Justin848.TransmitterHide		Hide Transmitter	Hide Transmitter	0.2.0	1.0.0.0	Harmony	2.4.1		
 3682782515	Justin848.TransmitterHide		Hide Transmitter	Hide Transmitter	0.2.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
@@ -1863,7 +1875,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3757263480	PopPerf.Profiler		Population Performance Profiler	Population Performance Profiler	1.0.0	1.0.0.0	eMka.ModSettings			
 3759045354	BeaverChroniclesWaterfallEventPack	version-1.1	Beaver Chronicles Waterfall Event Pack	Beaver Chronicles Waterfall Event Pack	11.0.0	1.1.0	BeaverChronicles	11.0.0		
 3759045354	BeaverChroniclesWaterfallEventPack	version-1.0	Beaver Chronicles Waterfall Event Pack	Beaver Chronicles Waterfall Event Pack	10.0.0	1.0.0	BeaverChronicles	10.1.0		
-3760187852	calloatti.syncmodspro	Version-1.0	Sync Mods Pro	Sync Mods Pro (Dev Tool)	1.1.8	1.0.0.0	Harmony			
+3760187852	calloatti.syncmodspro	Version-1.0	Sync Mods Pro	Sync Mods Pro (Dev Tool)	1.1.9	1.0.0.0	Harmony			
 3760937316	DisableHauling	version-1.1	Disable Hauling	Disable Hauling	11.0.0	1.1.0	ModdableTimberborn			
 3761295060	ConveyorBelt	version-1.1	Conveyor Belts	Conveyor Belts	11.1.1	1.1.0	ModdableTimberborn			
 3762391401	AllBuildingsTransferPower	version-1.1	All Buildings Transfer Power	All Buildings Transfer Power	11.0.1	1.1.0	ModdableTimberborn			
@@ -1946,9 +1958,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.07	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.07	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 3777224955	Calloatti.OmniFactionDevTool	Version-1.0	OmniFaction Dev Tool	OmniFaction (Dev Tool)	1.1.3	1.0.12.5	Harmony			
-3777308041	Calloatti.HoomanStairsBuildings	Version-1.0	Hooman Stairs Buildings	Hooman Stairs Buildings	1.0.0	1.0.12.5	Calloatti.HoomanStairs			
-3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.0	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.0	1.0.12.5	Calloatti.HoomanStairs			
-3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.0	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.0	1.0.12.5	Redic.NewStyles			
+3777308041	Calloatti.HoomanStairsBuildings	Version-1.1	Hooman Stairs Buildings	Hooman Stairs Buildings	1.0.1	1.1.0.0	Calloatti.HoomanStairs			
+3777308041	Calloatti.HoomanStairsBuildings	Version-1.0	Hooman Stairs Buildings	Hooman Stairs Buildings	1.0.1	1.0.12.5	Calloatti.HoomanStairs			
+3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.1	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.1.0.0	Calloatti.HoomanStairs			
+3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.1	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.1.0.0	Redic.NewStyles			
+3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.0	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.0.12.5	Calloatti.HoomanStairs			
+3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.0	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.0.12.5	Redic.NewStyles			
 3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0	XtraPlzNoCrashes	10.2.0		
 3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
 3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0	List-a-Mole	1.0.9.07		
