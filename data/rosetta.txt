@@ -477,7 +477,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3360465660	WebUI	version-1.0.10	Web UI	Web UI	0.2.3	1.0.10.0	eMka.ModSettings	0.7.10.0		
 3360466655	MoreModLogs	version-0.6	More Mod Logs	More Mod Logs	0.0.11	0.6.7.0	Harmony	2.3.3		
 3360466655	MoreModLogs	version-0.7	More Mod Logs	More Mod Logs	0.1.12	0.7.1.0	Harmony	2.3.3		
-3360466655	MoreModLogs	version-1.0	More Mod Logs (requires Harmony)	More Mod Logs	0.2.33	1.0.0.0				
+3360466655	MoreModLogs	version-1.0	More Mod Logs (requires Harmony)	More Mod Logs	0.2.34	1.0.0.0				
 3361074929	kulesz.FPPCamera	version-0.7	FPP Camera	FPP Camera	0.7.0.2	0.7.8.0	eMka.ModSettings	0.7.2.0		
 3361074929	kulesz.FPPCamera	version-1.0	FPP Camera	FPP Camera	1.0.2.0	1.0.0.0	eMka.ModSettings	1.0.7.0		
 3361074929	kulesz.FPPCamera	version-0.6.9.2	FPP Camera	FPP Camera	0.6.4.2	0.6.9.0	eMka.ModSettings	0.6.3.5		
@@ -525,7 +525,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3374011054	eMka.Minimap	version-0.7.9	Minimap	Minimap	0.7.9.2	0.7.9.2	eMka.ModSettings	0.7.0.0		
 3374011054	eMka.Minimap	version-1.1	Minimap	Minimap	1.1.1.0	1.1.1.0	eMka.ModSettings	1.0.7.0		
 3374011054	eMka.Minimap	version-1.0	Minimap	Minimap	1.0.7.0	1.0.6.0	eMka.ModSettings	1.0.7.0		
-3375031297	EmploymentManager		Employment Manager	Employment Manager	0.0.6	0.6.0.0	TimberApi	0.7.4.0		
 3376054351	Darquaise.pineresin_is_fluid		Pine Resin is a fluid	Pine Resin is a fluid	0.1.0	0.6.6.1				
 3376086227	Darquaise.bots_also_eat		Bots also Eat	Bots also Eat	0.1.0	0.6.6.1				
 3377422105	Cordial.Mods.DeleteThatThing	version-0.6	Delete That Thing	Delete That Thing	0.1.0	0.6.7.0	TimberApi	0.7.8.0		
@@ -1362,7 +1361,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3645758178	tangbohu.jzcpjz	version-1.0	建筑成片建造	Buildings are constructed in clusters	1.1.1.1	1.0.0			alin.undergroundpath	
 3646029809	TailsAndBanners.MoonTail		Moon Tail	Moon Tail	0.1	1.0.0.0				
 3646193252	tangbohu.kzxt	version-1.0	扩展悬挑	Expand overhang	1.1.1.1	1.0.7	ModularPlatform			
-3647584961	Lapantoufleagic.WhitepawsFaction	version-1.1	Whitepaws Faction 1.1	Whitepaws Faction 1.1	6.4.0	1.1.0.2				
+3647584961	Lapantoufleagic.WhitepawsFaction	version-1.1	Whitepaws Faction 1.1	Whitepaws Faction 1.1	6.4.1	1.1.0.2				
 3647584961	Lapantoufleagic.WhitepawsFaction	version-1.0	Whitepaws Faction 1.0	Whitepaws Faction 1.1	6.3.4.1	1.0.12.5				
 3649621558	TailsAndBanners.C001gu1		c001gu1	c001gu1	0.1	1.0.0.0				
 3650638364	BlueprintRelics	version-1.0	Blueprint Relics	Blueprint Relics	10.0.2	1.0.0	TimberUi	10.1.0		
@@ -1833,11 +1832,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3744169776	Metally.0.2.1		Metally	Metally	0.2.3	1.0.0.0				
 3744280602	MrFallBoy.TimberMover		TimberMover	TimberMover	0.3.6.0	1.0.0.0				
 3744824510	MrFallBoy.TimberPlanner		TimberPlanner	TimberPlanner	0.2.1.0	1.0.0.0				
-3745059551	97cweb.CurrentAffectsPlants		Current Affects Plants	Current Affects Plants	1.0.1.0	1.0.0.0	Harmony	2.4.1		
+3745059551	97cweb.CurrentAffectsPlants	version-1.1	Current Affects Plants	Current Affects Plants	1.0.1.0	1.0.0.0	Harmony	2.4.1		
+3745059551	97cweb.CurrentAffectsPlants	version-1.0	Current Affects Plants	Current Affects Plants	1.0.1.0	1.0.0.0	Harmony	2.4.1		
 3745305712	Codex.AdjustableMechanicalPump		Adjustable Mechanical Pump / 可调机械液体泵	Adjustable Mechanical Pump / 可调机械液体泵	1.0.1	1.0.13.1	Harmony	2.4.1		
 3745338077	Codex.AdjustableWaterSource		Adjustable Water Sources / 可调水源	Adjustable Water Sources / 可调水源	1.0.1	1.0.13.1	Harmony	2.4.1		
 3746114393	jamesjacko.PatternPlanting		Pattern Planting	Pattern Planting	0.1.0	1.0.0.0				
-3746249952	97cweb.FracturedAquifers		Fractured Aquifers	Fractured Aquifers	1.0.1.0	1.0.0.0	Harmony	2.4.1		
+3746249952	97cweb.FracturedAquifers	version-1.1	Fractured Aquifers	Fractured Aquifers	1.0.1.0	1.0.0.0	Harmony	2.4.1		
+3746249952	97cweb.FracturedAquifers	version-1.0	Fractured Aquifers	Fractured Aquifers	1.0.1.0	1.0.0.0	Harmony	2.4.1		
 3746633680	ExampleBuilding.Moreziplineconnections		MoreZiplineConnections	MoreZiplineConnections	1.1.0.1	1.0.0.0				
 3746635833	ExampleBuilding.LongerZiplines		LongerZiplines	LongerZiplines	1.1.0.1	1.0.0.0				
 3747440589	BobingaboutNewGameModes	version-1.1	Bobingabout	Bobingabout New Game Modes	1.1.1.0	1.1.0.0				
@@ -1869,7 +1870,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3755853313	Calloatti.PausableStorage	Version-1.0	Pausable Storage	Pausable Storage	1.1.0	1.0.0.0	Harmony			
 3756400405	Calloatti.StoragePanelTweaks	Version-1.0	Storage Panel Tweaks	Storage Panel Tweaks	1.1.0	1.0.13.0	Harmony			
 3756402916	Kerst.TaskPriorities		[TTM] Timberborn Task Manager	[TTM] Timberborn Task Manager	0.7.2	1.0.0.0				
-3756656421	T3MP		More More More Performance! (T3MP)	More More More Performance! (T3MP)	1.1.5	1.0.13.1	Harmony	2.4.1		
+3756656421	T3MP		More More More Performance! (T3MP)	More More More Performance! (T3MP)	1.1.6	1.0.13.1	Harmony	2.4.1		
 3757116911	Cholleville.CasthordeExperimental		Casthorde (Experimental)	Casthorde (Experimental)	2.0.3	1.0.0.0	Harmony	2.4.1		
 3757263480	PopPerf.Profiler		Population Performance Profiler	Population Performance Profiler	1.0.0	1.0.0.0	Harmony			
 3757263480	PopPerf.Profiler		Population Performance Profiler	Population Performance Profiler	1.0.0	1.0.0.0	eMka.ModSettings			
@@ -1957,20 +1958,26 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.07	1.0.8.0			LeafCoats	
 3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.07	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.07	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-3777224955	Calloatti.OmniFactionDevTool	Version-1.0	OmniFaction Dev Tool	OmniFaction (Dev Tool)	1.1.3	1.0.12.5	Harmony			
+3777224955	Calloatti.OmniFactionDevTool	Version-1.0	OmniFaction Dev Tool	OmniFaction (Dev Tool)	1.1.4	1.0.12.5	Harmony			
 3777308041	Calloatti.HoomanStairsBuildings	Version-1.1	Hooman Stairs Buildings	Hooman Stairs Buildings	1.0.1	1.1.0.0	Calloatti.HoomanStairs			
 3777308041	Calloatti.HoomanStairsBuildings	Version-1.0	Hooman Stairs Buildings	Hooman Stairs Buildings	1.0.1	1.0.12.5	Calloatti.HoomanStairs			
 3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.1	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.1.0.0	Calloatti.HoomanStairs			
 3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.1	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.1.0.0	Redic.NewStyles			
 3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.0	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.0.12.5	Calloatti.HoomanStairs			
 3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.0	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.1	1.0.12.5	Redic.NewStyles			
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0	XtraPlzNoCrashes	10.2.0		
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0	List-a-Mole	1.0.9.07		
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0			Emberpelts	
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0			LeafCoats	
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.07	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.08	1.0.12.0	XtraPlzNoCrashes	10.2.0		
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.08	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.08	1.0.12.0	List-a-Mole	1.0.9.07		
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.08	1.0.12.0			Emberpelts	
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.08	1.0.12.0			LeafCoats	
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.08	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.08	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.08	1.0.12.0	ModdableToolGroups	10.4.4		
 3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.08	1.0.12.0	List-a-Mole			
 3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.08	1.0.12.0	Wack-a-Mole			
+3778617600	ModManager	version-0.6	Mod Manager	Mod Manager	3.0.3	0.6.0.0				
+3778617600	ModManager	version-1.0.11	Mod Manager	Mod Manager	3.0.11	1.0.11.0				
+3778617600	ModManager	version-0.7	Mod Manager	Mod Manager	3.0.8	0.7.0.0				
+3778617600	ModManager	version-1.0.6	Mod Manager	Mod Manager	3.0.8	1.0.6.0				
+3778617600	ModManager	version-1.1	Mod Manager	Mod Manager	3.0.12	1.1.0.0				
+3778617600	ModManager	version-1.1.1	Mod Manager	Mod Manager	3.0.13	1.1.0.0				

@@ -6,9 +6,9 @@ PublishedFileID	Id	Creator	Title
 3455892854	ConfigurableFaction	76561198010623560	Configurable Faction (legacy)
 3497318480	ConfigurableFaction	76561198010623560	Configurable Faction (Faction Mixer) [U7 ✅]
 3656686888	ConfigurableFaction	76561198010623560	Configurable Faction (Faction Mixer)
-3375031297	EmploymentManager	76561199351979618	Employment Manager
-3430228682	EmploymentManager	76561198010623560	Employment Manager
 3283819933	GreedyBuilders	76561198258895594	zxuiji -m- Greedy Builders
 3617839503	GreedyBuilders	76561198834211160	Greedy Builders
 3508401248	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction U7
 3647584961	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction 1.1
+3286370025	ModManager	76561198255235758	Mod Manager
+3778617600	ModManager	76561198321014808	Mod Manager
