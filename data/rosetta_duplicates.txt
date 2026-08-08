@@ -10,5 +10,3 @@ PublishedFileID	Id	Creator	Title
 3617839503	GreedyBuilders	76561198834211160	Greedy Builders
 3508401248	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction U7
 3647584961	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction 1.1
-3286370025	ModManager	76561198255235758	Mod Manager
-3778617600	ModManager	76561198321014808	Mod Manager
