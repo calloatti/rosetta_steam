@@ -339,7 +339,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.9	1.0.12.0	Harmony	2.3.3		
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.9	1.0.12.0	eMka.ModSettings	1.0.6.0		
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.9	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
-3331500753	Tobbert.FerrisWheel		Ferris Wheel	[To be updated] Ferris Wheel	2.0.1	0.6.0.0				
+3331500753	Tobbert.FerrisWheel		Ferris Wheel	Ferris Wheel	3.0.0	1.0.0.0				
 3334584916	Cordial.Mods.CutterTool	version-0.6	Cutter Tool	Cutter Tool	0.1.6	0.6.7.0	TimberApi	0.7.8.0		
 3334584916	Cordial.Mods.CutterTool	version-0.7.4.2	Cutter Tool	Cutter Tool	0.7.1.2	0.7.4.2	TimberApi	0.7.12.1		
 3334584916	Cordial.Mods.CutterTool	version-0.7.4.2	Cutter Tool	Cutter Tool	0.7.1.2	0.7.4.2	TimberApi.UIBuilder	1.0.0.1		
@@ -477,7 +477,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3360465660	WebUI	version-1.0.10	Web UI	Web UI	0.2.3	1.0.10.0	eMka.ModSettings	0.7.10.0		
 3360466655	MoreModLogs	version-0.6	More Mod Logs	More Mod Logs	0.0.11	0.6.7.0	Harmony	2.3.3		
 3360466655	MoreModLogs	version-0.7	More Mod Logs	More Mod Logs	0.1.12	0.7.1.0	Harmony	2.3.3		
-3360466655	MoreModLogs	version-1.0	More Mod Logs (requires Harmony)	More Mod Logs	0.2.34	1.0.0.0				
+3360466655	MoreModLogs	version-1.0	More Mod Logs (requires Harmony)	More Mod Logs	0.2.35	1.0.0.0				
 3361074929	kulesz.FPPCamera	version-0.7	FPP Camera	FPP Camera	0.7.0.2	0.7.8.0	eMka.ModSettings	0.7.2.0		
 3361074929	kulesz.FPPCamera	version-1.0	FPP Camera	FPP Camera	1.0.2.0	1.0.0.0	eMka.ModSettings	1.0.7.0		
 3361074929	kulesz.FPPCamera	version-0.6.9.2	FPP Camera	FPP Camera	0.6.4.2	0.6.9.0	eMka.ModSettings	0.6.3.5		
@@ -1976,3 +1976,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.08	1.0.12.0	List-a-Mole			
 3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.08	1.0.12.0	Wack-a-Mole			
 3779332547	ConstructionSiteHauler	version-1.1	Construction Site Hauler	Construction Site Hauler	11.0.0	1.1.1	ModdableTimberborn	11.1.0		
+3779772581	Calloatti.BreedingPodTweaks	Version-1.0	Breeding Pod Tweaks	Breeding Pod Tweaks	1.0.0	1.0.0.0	Harmony			
