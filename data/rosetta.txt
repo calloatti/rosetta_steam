@@ -302,8 +302,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3302215152	AppendVanillaMaterials	version-1.0.8.1	zxuiji -m- Append Vanilla Resources	zxuiji -m- Append Vanilla Resources	1.0.8.60	1.0.12.0				
 3302215152	AppendVanillaMaterials	version-0.7	zxuiji -m- Append Vanilla Resources	zxuiji -m- Append Vanilla Resources	0.7.0.01	0.7.0.0				
 3302215152	AppendVanillaMaterials	version-0.6.5	zxuiji -m- Append Vanilla Resources	zxuiji -m- Append Vanilla Resources	0.6.5.01	0.6.1.0				
-3305038022	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	SmartPower	1.17.1	1.1.1.1	Harmony	2.3.3		
-3305038022	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	SmartPower	1.17.1	1.1.1.1	eMka.ModSettings	1.0.5.0		
+3305038022	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	SmartPower	1.18.0	1.1.1.1	Harmony	2.3.3		
+3305038022	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	SmartPower	1.18.0	1.1.1.1	eMka.ModSettings	1.0.5.0		
 3305038022	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	SmartPower	1.16.3	1.0.12.7	Harmony	2.3.3		
 3305038022	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	SmartPower	1.16.3	1.0.12.7	eMka.ModSettings	1.0.5.0		
 3306148996	Timberborn.IgorZ.LogConsole		LogConsole	LogConsole	1.2.0	0.6.4.0				
@@ -423,10 +423,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346279334	Tobbert.ChooChoo	version-0.7	Choo!Choo!	Choo!Choo! [U7]	0.11.0	0.7.10.0	TimberApi	0.7.0.1		
 3346279334	Tobbert.ChooChoo	version-0.7	Choo!Choo!	Choo!Choo! [U7]	0.11.0	0.7.10.0	TimberApi.UIBuilder	1.0.0.1		
 3346279334	Tobbert.ChooChoo	version-0.7	Choo!Choo!	Choo!Choo! [U7]	0.11.0	0.7.10.0	Tobbert.TobbyTools	3.0.0		
-3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.0	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
-3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.0	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.1	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
-3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.1	1.0.12.0			Lapantouflemagic.1x1x2Storage	
+3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.1	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
+3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.1	1.1.1.0			Lapantouflemagic.1x1x2Storage	
+3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
+3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.7.300	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	KnatteAnka.Materials	2.1.0		
@@ -481,7 +481,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3360466655	MoreModLogs	version-0.6	More Mod Logs	More Mod Logs	0.0.11	0.6.7.0	Harmony	2.3.3		
 3361074929	kulesz.FPPCamera	version-0.6.9.2	FPP Camera	FPP Camera	0.6.4.2	0.6.9.0	eMka.ModSettings	0.6.3.5		
 3361074929	kulesz.FPPCamera	version-0.7	FPP Camera	FPP Camera	0.7.0.2	0.7.8.0	eMka.ModSettings	0.7.2.0		
-3361074929	kulesz.FPPCamera	version-1.0	FPP Camera	FPP Camera	1.0.2.0	1.0.0.0	eMka.ModSettings	1.0.7.0		
+3361074929	kulesz.FPPCamera	version-1.0	FPP Camera	FPP Camera	1.1.0.0	1.0.0.0	eMka.ModSettings	1.0.7.0		
+3361074929	kulesz.FPPCamera	version-1.1.2	FPP Camera	FPP Camera	1.0.3.1	1.1.2.0	eMka.ModSettings	1.0.5.0		
 3362952283	BotKits	version-1.0.8.1	zxuiji -m- BotKits	zxuiji -m- BotKits	1.0.8.60	1.0.12.0	AppendVanillaMaterials			
 3362952283	BotKits	version-1.0.8.1	zxuiji -m- BotKits	zxuiji -m- BotKits	1.0.8.60	1.0.12.0	BotBlocks	1.0.8.60		
 3362952283	BotKits	version-1.0.8.1	zxuiji -m- BotKits	zxuiji -m- BotKits	1.0.8.60	1.0.12.0	Emberpelts			
@@ -670,10 +671,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3428021889	ConfigurablePumps	version-0.6	Configurable Pumps	Configurable Pumps	7.1.0	0.6.0.0	eMka.ModSettings	0.0.0.0		
 3428021889	ConfigurablePumps	version-0.6	Configurable Pumps	Configurable Pumps	7.1.0	0.6.0.0	Harmony	0.0.0.0		
 3428770317	MaterialPlzNoCrashes	version-0.7	MaterialPlzNoCrashes	MaterialPlzNoCrashes	7.0.1	0.7.0.0	Harmony	0.0.0		
-3428836080	BobingaboutTubewayLevee	version-1.1	Tubeway Levee	Tubeway Levee	1.1.1.0	1.1.0.0			GreedyBuilders	
+3428836080	BobingaboutTubewayLevee	version-1.1	Tubeway Levee	Tubeway Levee	1.1.1.1	1.1.0.0			GreedyBuilders	
 3428836080	BobingaboutTubewayLevee	version-0.7	Tubeway Levee	Tubeway Levee	0.7.9.0	0.7.9.0				
 3428836080	BobingaboutTubewayLevee	version-1.0	Tubeway Levee	Tubeway Levee	1.0.13.0	1.0.7.0			GreedyBuilders	
-3428936016	BobingaboutZiplineLevee	version-1.1	Zipline Levee	Zipline Levee	1.1.1.0	1.1.1.0			GreedyBuilders	
+3428936016	BobingaboutZiplineLevee	version-1.1	Zipline Levee	Zipline Levee	1.1.1.1	1.1.1.0			GreedyBuilders	
 3428936016	BobingaboutZiplineLevee	version-0.7	Zipline Levee	Zipline Levee	0.7.9.0	0.7.9.0				
 3428936016	BobingaboutZiplineLevee	version-1.0	Zipline Levee	Zipline Levee	1.0.11.1	1.0.11.0			GreedyBuilders	
 3430040592	SuperCursor	version-0.7	Super Cursor	Super Cursor	7.1.5	0.7.0.0				
@@ -1131,11 +1132,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3548617753	TimberModBuilder	version-0.7	TimberMod Builder	TimberMod Builder	7.0.1	0.7.0.0				
 3549979810	WirelessCoil	version-0.7	Wireless Coil	Wireless Coil	7.0.0	0.7.0.0	Harmony			
 3549979810	WirelessCoil	version-0.7	Wireless Coil	Wireless Coil	7.0.0	0.7.0.0	TimberUi			
-3552203634	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.0	1.1.0.0	BobingaboutScriptPack	1.1.1.0		
-3552203634	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.0	1.1.0.0	Vertical Nav Mesh			
+3552203634	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.1	1.1.0.0	BobingaboutScriptPack	1.1.2.0		
+3552203634	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.1	1.1.0.0	Vertical Nav Mesh			
 3552203634	LeafCoats	version-0.7	Leaf Coats (Early Access)	Leaf Coats	0.7.10.20	0.7.10.0	BobingaboutScriptPack	0.7.10.0		
-3552203634	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.5	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
-3552203634	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.5	1.0.12.0	Vertical Nav Mesh			
+3552203634	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.6	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
+3552203634	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.6	1.0.12.0	Vertical Nav Mesh			
 3556403458	LeafCoatsBadwater	version-1.1	Leaf Coats: Badwater	Leaf Coats: Badwater	1.1.1.0	1.1.0.0	LeafCoats	1.1.0.0		
 3556403458	LeafCoatsBadwater	version-0.7	Leaf Coats: Badwater	Leaf Coats: Badwater	0.7.10.0	0.7.10.0	LeafCoats	0.7.10.1		
 3556403458	LeafCoatsBadwater	version-1.0	Leaf Coats: Badwater	Leaf Coats: Badwater	1.0.13.1	1.0.7.0	LeafCoats	1.0.7.0		
@@ -1941,9 +1942,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3772751248	EmberpeltsAmenitiesExtension	version-1.1	Emberpelts: Amenities Extension	Emberpelts: Amenities Extension	1.1.1.0	1.1.1.0			BobingaboutBeaverFactionSplitNeeds	
 3772751248	EmberpeltsAmenitiesExtension	version-1.0	Emberpelts: Amenities Extension	Emberpelts: Amenities Extension	1.0.13.0	1.0.13.0	Emberpelts	1.0.12.0		
 3772751248	EmberpeltsAmenitiesExtension	version-1.0	Emberpelts: Amenities Extension	Emberpelts: Amenities Extension	1.0.13.0	1.0.13.0			BobingaboutBeaverFactionSplitNeeds	
-3772752503	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.1.1	1.1.1.0	Emberpelts	1.1.1.0		
-3772752503	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.1.1	1.1.1.0	EmberpeltsFoodExtension	1.1.1.0		
-3772752503	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.1.1	1.1.1.0	EmberpeltsAmenitiesExtension	1.1.1.0		
+3772752503	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.2.0	1.1.1.0	Emberpelts	1.1.1.0		
+3772752503	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.2.0	1.1.1.0	EmberpeltsFoodExtension	1.1.1.0		
+3772752503	CharcoalBeavers	version-1.1	Charcoal Beavers	Charcoal Beavers	1.1.2.0	1.1.1.0	EmberpeltsAmenitiesExtension	1.1.1.0		
 3772752503	CharcoalBeavers	version-1.0	Charcoal Beavers	Charcoal Beavers	1.0.13.1	1.0.13.0	Emberpelts	1.0.12.0		
 3772752503	CharcoalBeavers	version-1.0	Charcoal Beavers	Charcoal Beavers	1.0.13.1	1.0.13.0	EmberpeltsFoodExtension	1.0.10.0		
 3772752503	CharcoalBeavers	version-1.0	Charcoal Beavers	Charcoal Beavers	1.0.13.1	1.0.13.0	EmberpeltsAmenitiesExtension	1.0.12.0		
@@ -1957,7 +1958,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3773909459	Defog.DevSpeeds		Dev Speeds	Dev Speeds	0.1	1.0.0.0				
 3775445468	calloatti.saverestartload	Version-1.0	Save Restart Load	Save Restart Load (Dev Tool)	1.0.0	1.0.0.0	Harmony			
 3775544925	TheWarmaster.GoodsTracing	version-1.0	Goods Tracing (v1x Compatibility Fork)	Goods Tracing (v1x Compatibility Fork)	1.0	1.0.0.0			Battery.Pantry	0.0.2.1
-3775554216	Fourpillars	version-1.1	Fourpillars	Fourpillars	11.0.0	1.1.1	ModdableTimberborn			
+3775554216	Fourpillars	version-1.1	Fourpillars	Fourpillars	11.0.1	1.1.1	ModdableTimberborn			
 3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.10	1.0.12.0	XtraPlzNoCrashes	10.2.0		
 3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.10	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
 3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
