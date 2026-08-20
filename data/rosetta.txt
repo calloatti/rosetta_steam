@@ -1418,6 +1418,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3672613005	DecorativePlants	version-1.0	Decorative Plants	Decorative Plants	10.1.1	1.0.0	ModdableToolGroups			
 3672613005	DecorativePlants	version-1.0	Decorative Plants	Decorative Plants	10.1.1	1.0.0	eMka.ModSettings			
 3672765274	Calloatti.Grid	Version-1.0	Grid	Grid	3.16.1	1.0.12.5	Harmony			
+3672765274	Calloatti.Grid	version-1.0	Grid	Grid	3.17.0	1.0.12.5	Harmony			
 3673165946	HueAndTurnX	version-1.0	Hue & Turn X	Hue & Turn X [Works with Map Editor]	10.0.0	1.0.0	ModdableTimberborn			
 3673165946	HueAndTurnX	version-1.0	Hue & Turn X	Hue & Turn X [Works with Map Editor]	10.0.0	1.0.0	eMka.ModSettings			
 3673165946	HueAndTurnX	version-1.0	Hue & Turn X	Hue & Turn X [Works with Map Editor]	10.0.0	1.0.0	TransparentShaders			
@@ -1548,7 +1549,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3688658376	Robin.OverhaulSky		Overhaul Sky	Overhaul Sky	0.6	0.0.0.0	Harmony			
 3688899792	Robin.OverhaulCamera		Overhaul Pan, Orbit, Zoom	Overhaul Pan, Orbit, Zoom	0.5	0.0.0.0	Harmony			
 3689195755	Calloatti.DepthMonitor	Version-1.0	Depth Monitor	Depth Monitor	1.0.5	1.0.12.9				
-3689195755	Calloatti.DepthMonitor	Version-1.1	Depth Monitor	Depth Monitor	1.0.5	1.1.0.0				
+3689195755	Calloatti.DepthMonitor	Version-1.1	Depth Monitor	Depth Monitor	1.0.6	1.1.0.0				
+3689195755	Calloatti.DepthMonitor	version-1.0	Depth Monitor	Depth Monitor	1.0.6	1.0.12.9				
 3689670088	abix-.Timberbot		Timberbot API	Timberbot API	0.7.1	1.0.0.0				
 3689752391	Calloatti.ZapThatSap	Version-1.0	Zap That Sap	Zap That Sap	1.0.0	1.0.12.5	Harmony			
 3690105629	Empty.IronHedge		IronHedge	IronHedge	1.0	1.0.0.0				
@@ -1604,7 +1606,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3707581910	EzTube	version-1.1	EzTube	EzTube	1.1.0.0	1.1.0.0	Harmony			
 3707581910	EzTube	version-1.0	EzTube	EzTube	1.0.0.7	1.0.0.0	Harmony			
 3708071862	ExampleBuilding.Promisu		ProMisu	ProMisu	0.1	1.0.0.0				
-3708075761	Calloatti.MoreDistrictCrossings	Version-1.0	More District Crossings	More District Crossings	1.0.2	1.0.12.5	Harmony			
+3708075761	Calloatti.MoreDistrictCrossings	Version-1.0	More District Crossings	More District Crossings	1.0.4	1.0.12.5	Harmony			
 3708321649	TailsAndBanners.AsianFlags		Asian flags	*Tail decals* Flags of the World: Africa	0.1	1.0.0.0				
 3708402076	Calloatti.MapSizeTweaks	Version-1.0	Map Size Tweaks	Map Size Tweaks	1.0.2	1.0.12.5	Harmony			
 3708758576	LongNames		Long Names	Long Names	0.0.1	0.6.0.0	Harmony	2.3.3		
