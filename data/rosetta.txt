@@ -204,8 +204,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3288241660	TimberApi	version-0.6	TimberApi	TimberApi	0.7.8.0	0.6.9.2	Harmony	2.3.3		
 3289713086	FasterBeaver		FasterBeaver	FasterBeaver	1.0.0	0.6.1.0				
 3293210216	BetterMines		Better Mines	Better Mines	0.1	0.6.0.4				
-3293380223	beaverbuddies		BeaverBuddies - Multiplayer Co-Op	BeaverBuddies - Multiplayer Co-Op	1.7.1	1.0.0.0	Harmony			
-3293380223	beaverbuddies		BeaverBuddies - Multiplayer Co-Op	BeaverBuddies - Multiplayer Co-Op	1.7.1	1.0.0.0	eMka.ModSettings	0.7.2.0		
+3293380223	beaverbuddies	version-1.1	BeaverBuddies - Multiplayer Co-Op	BeaverBuddies - Multiplayer Co-Op	1.1.0-1.0.1	1.1.0.0	Harmony			
+3293380223	beaverbuddies	version-1.1	BeaverBuddies - Multiplayer Co-Op	BeaverBuddies - Multiplayer Co-Op	1.1.0-1.0.1	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3293380223	beaverbuddies	version-1.0	BeaverBuddies - Multiplayer Co-Op	BeaverBuddies - Multiplayer Co-Op	1.7.3	1.0.0.0	Harmony			
+3293380223	beaverbuddies	version-1.0	BeaverBuddies - Multiplayer Co-Op	BeaverBuddies - Multiplayer Co-Op	1.7.3	1.0.0.0	eMka.ModSettings	0.7.2.0		
 3293437485	KnatteAnka.MoreGroups	version-0.7	MoreGroups	MoreGroups	7.0.0	0.7.0.0	TimberApi	0.7.11.0		
 3293437485	KnatteAnka.MoreGroups	version-0.7	MoreGroups	MoreGroups	7.0.0	0.7.0.0			Emberpelts	
 3293437485	KnatteAnka.MoreGroups	version-0.7	MoreGroups	MoreGroups	7.0.0	0.7.0.0			BobStorage	
@@ -334,12 +336,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3322428023	Battery.Flywheels	version-1.0.12.6	Flywheels	Flywheels	4.1.1.14	1.0.12.6				
 3322428023	Battery.Flywheels	version-0.7.8.1	Flywheels	Flywheels	3.0.1.94	0.7.8.1	TimberApi	0.7.5.0		
 3322428023	Timberborn.ModExamples.HelloWorld	version-0.7.9.3	Hello World	Flywheels	1.0.0.0	1.0.0.0				
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.9.0	1.1.1.1	Harmony	2.3.3		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.9.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.9.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
-3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.9	1.0.12.0	Harmony	2.3.3		
-3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.9	1.0.12.0	eMka.ModSettings	1.0.6.0		
-3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.9	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	Harmony	2.3.3		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Advanced Automation	4.10.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
+3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.10	1.0.12.0	Harmony	2.3.3		
+3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.10	1.0.12.0	eMka.ModSettings	1.0.6.0		
+3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Advanced Automation	4.0.10	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
 3331500753	Tobbert.FerrisWheel		Ferris Wheel	Ferris Wheel	3.0.0	1.0.0.0				
 3334584916	Cordial.Mods.CutterTool	version-0.7.2.1	Cutter Tool	Cutter Tool	0.7.1.1	0.7.2.1	TimberApi	0.7.12.0		
 3334584916	Cordial.Mods.CutterTool	version-0.7.2.1	Cutter Tool	Cutter Tool	0.7.1.1	0.7.2.1	TimberApi.UIBuilder	1.0.0.1		
@@ -427,7 +429,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.2	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.220	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.240	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	TimberApi	0.7.5.0		
@@ -1273,7 +1275,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3612110827	ModdableToolGroups	version-1.0	Moddable Tool Groups	Moddable Tool Groups	10.5.0	1.0.0	Harmony			
 3612110827	ModdableToolGroups	version-0.0	Moddable Tool Groups (for V1+ only)	Moddable Tool Groups	10.0.0	1.0.0				
 3612247861	MoreOrganizedToolGroups	version-1.0	More Organized Tool Groups	More Organized Tool Groups	10.0.0	1.0.0	ModdableToolGroups			
-3613072673	beaverbuddies		BeaverBuddies - Multiplayer Co-Op	[Experimental] BeaverBuddies - Multiplayer Co-Op	1.6.4	0.7.2.0	eMka.ModSettings	0.7.2.0		
+3613072673	beaverbuddies		BeaverBuddies - Multiplayer Co-Op	[Old, Unsupported] BeaverBuddies	1.6.4	0.7.2.0	eMka.ModSettings	0.7.2.0		
 3613175039	ModdableTimberbornAchievements	version-1.0	Moddable Timberborn Achievements	Moddable Timberborn Achievements	10.2.0	1.0.4	Harmony			
 3613175039	ModdableTimberbornAchievements	version-1.0	Moddable Timberborn Achievements	Moddable Timberborn Achievements	10.2.0	1.0.4	TimberUi	10.0.2		
 3613175039	ModdableTimberbornAchievements	version-0.0	Moddable Timberborn Achievements (for V1+ only)	Moddable Timberborn Achievements	10.0.0	1.0.4				
@@ -1461,7 +1463,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3676742366	grauschweif.decoration	version-1.0	Grauschweif's Decorations	Grauschweif's Decorations	3.3	1.0.10.1			GreedyBuilders	
 3676742366	grauschweif.decoration	version-1.0	Grauschweif's Decorations	Grauschweif's Decorations	3.3	1.0.10.1			LoneFaerie.Badfurs	
 3676742366	grauschweif.decoration	version-1.0	Grauschweif's Decorations	Grauschweif's Decorations	3.3	1.0.10.1			eMka.Riverborne	
-3676861595	Calloatti.NaturalResourcesTweaks	Version-1.0	Natural Resources Tweaks	Natural Resources Tweaks	2.3.10	1.0.12.5	Harmony			
+3676861595	Calloatti.NaturalResourcesTweaks	Version-1.0	Natural Resources Tweaks	Natural Resources Tweaks	2.3.11	1.0.12.5	Harmony			
 3677012082	Ayato.UndergroundTubeway		Underground Tubeway	Underground Tubeway	1.0.0	1.0.6.0				
 3677214011	TNFCollections	version-1.1	zxuiji -m- TNF Collections	zxuiji -m- TNF Collections	1.0.8.70	1.0.0.0	Emberpelts	1.0.12.1		
 3677214011	TNFCollections	version-1.1	zxuiji -m- TNF Collections	zxuiji -m- TNF Collections	1.0.8.70	1.0.0.0	LeafCoats	1.0.12.1		
@@ -1483,7 +1485,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3677961427	OldSchoolValves	version-1.0	Old School Valves	Old School Valves	10.0.0	1.0.0				
 3678157011	Calloatti.AutoTools	Version-1.0	Automation Tools	Automation Tools	1.4.5	1.0.12.5	Harmony			
 3678893237	linchi.pump expansion	version-1.0	水泵拓展 Water pump expansion	水泵拓展 Water pump expansion	1.0.2	1.0.0				
-3678977446	Calloatti.OneBlockSensors	Version-1.0	One Block Sensors	One Block Sensors	1.1.1	1.0.12.5				
+3678977446	Calloatti.OneBlockSensors	Version-1.0	One Block Sensors	One Block Sensors	1.1.2	1.0.12.5			Emberpelts	
 3679587461	PausableSensors	version-1.0	Pausable Sensors	Pausable Sensors	10.0.0	1.0.0	Harmony			
 3679621866	tangbohu.zdhryz	version-1.0	自动化任意造	Automated arbitrary manufacturing	1.1	1.0.12.5				
 3680727517	Translation.Catalan		Català	Català	1.1	1.0.0.0				
@@ -1514,17 +1516,23 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3682782515	Justin848.TransmitterHide		Hide Transmitter	Hide Transmitter	0.2.0	1.0.0.0	Harmony	2.4.1		
 3682782515	Justin848.TransmitterHide		Hide Transmitter	Hide Transmitter	0.2.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
 3682831129	Calloatti.WorkshopClick	Version-1.0	Workshop Click	Workshop Click	1.0.8	1.0.12.5	Harmony			
-3683375263	Calloatti.ResourceMonitor	version-1.1	Resource Monitor	Resource Monitor	1.1.0	1.1.0.0				
+3683375263	Calloatti.ResourceMonitor	version-1.1	Resource Monitor	Resource Monitor	1.1.1	1.1.0.0			Emberpelts	
 3683375263	Calloatti.ResourceMonitor	Version-1.0	Resource Monitor	Resource Monitor	1.0.6	1.0.0.0				
 3683375263	Calloatti.ResourceMonitor	Version-1.1	Resource Monitor	Resource Monitor	1.0.6	1.1.0.0				
-3683375263	Calloatti.ResourceMonitor	version-1.0	Resource Monitor	Resource Monitor	1.1.0	1.0.0.0				
+3683375263	Calloatti.ResourceMonitor	version-1.0	Resource Monitor	Resource Monitor	1.1.1	1.0.0.0			Emberpelts	
 3683545336	Opolame.AutomatedResourceDetector	version-1.0.12.6	Resource Detector	Resource Detector	1.2	1.0.12.6	Harmony			
 3683545336	Opolame.AutomatedResourceDetector	version-1.1.0.2	Resource Detector	Resource Detector	1.4	1.0.12.6	Harmony			
 3683545336	Opolame.AutomatedResourceDetector	version-1.0.12.3	Resource Detector	Resource Detector	1.0	1.0.12.3				
 3683545336	Opolame.AutomatedResourceDetector	version-1.0.13.1	Resource Detector	Resource Detector	1.3	1.0.12.6	Harmony			
 3683684395	Translation.Viethoa_nguyez		Vietnamese viVN (Tiếng Việt)	Vietnamese viVN (Tiếng Việt)	0.26.03.13	1.0.0.0				
-3684033679	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.10	1.0.12.9	Harmony			
-3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.10	1.1.0.0	Harmony			
+3684033679	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.11	1.0.12.9	Harmony			
+3684033679	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.11	1.0.12.9			Emberpelts	
+3684033679	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.11	1.0.12.9			Lapantoufleagic.WhitepawsFaction	
+3684033679	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.11	1.0.12.9			Tobbert.MorePlatforms	
+3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.11	1.1.0.0	Harmony			
+3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.11	1.1.0.0			Emberpelts	
+3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.11	1.1.0.0			Lapantoufleagic.WhitepawsFaction	
+3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.11	1.1.0.0			Tobbert.MorePlatforms	
 3684696988	ExampleBuilding.UnlimitDistrictRange		Unlimit District range	Unlimit District range	0.1	1.0.0.0				
 3684842670	GerkinDev.WatertightGates	version-1.0.12	Watertight gates	Watertight gates	1.0.1.1	1.0.12	Harmony	2.4.1		
 3684842670	GerkinDev.WatertightGates	version-1.0.13	Watertight gates	Watertight gates	1.0.2.0	1.0.12	Harmony	2.4.1		
@@ -1554,8 +1562,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3688658376	Robin.OverhaulSky		Overhaul Sky	Overhaul Sky	0.6	0.0.0.0	Harmony			
 3688899792	Robin.OverhaulCamera		Overhaul Pan, Orbit, Zoom	Overhaul Pan, Orbit, Zoom	0.5	0.0.0.0	Harmony			
 3689195755	Calloatti.DepthMonitor	Version-1.0	Depth Monitor	Depth Monitor	1.0.5	1.0.12.9				
-3689195755	Calloatti.DepthMonitor	Version-1.1	Depth Monitor	Depth Monitor	1.0.6	1.1.0.0				
-3689195755	Calloatti.DepthMonitor	version-1.0	Depth Monitor	Depth Monitor	1.0.6	1.0.12.9				
+3689195755	Calloatti.DepthMonitor	Version-1.1	Depth Monitor	Depth Monitor	1.0.7	1.1.0.0			Emberpelts	
+3689195755	Calloatti.DepthMonitor	version-1.0	Depth Monitor	Depth Monitor	1.0.7	1.0.12.9			Emberpelts	
 3689670088	abix-.Timberbot		Timberbot API	Timberbot API	0.7.1	1.0.0.0				
 3689752391	Calloatti.ZapThatSap	Version-1.0	Zap That Sap	Zap That Sap	1.0.0	1.0.12.5	Harmony			
 3690105629	Empty.IronHedge		IronHedge	IronHedge	1.0	1.0.0.0				
@@ -1847,8 +1855,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3740823964	LoneFaerie.ExtraAnimations		Extra Animations	Extra Animations	1.0.13.1	1.0.13.0	Harmony	2.3.3		
 3741998343	Timberborn.IgorZ.XRay	version-1.1	X-Ray	X-Ray	1.3.0	1.1.1.1	Harmony	2.3.3		
 3741998343	Timberborn.IgorZ.XRay	version-1.1	X-Ray	X-Ray	1.3.0	1.1.1.1	eMka.ModSettings	1.0.12.0		
-3741998343	Timberborn.IgorZ.XRay	version-1.0	X-Ray	X-Ray	1.1.1	1.0.12.0	Harmony	2.3.3		
-3741998343	Timberborn.IgorZ.XRay	version-1.0	X-Ray	X-Ray	1.1.1	1.0.12.0	eMka.ModSettings	1.0.12.0		
+3741998343	Timberborn.IgorZ.XRay	version-1.0	X-Ray	X-Ray	1.1.2	1.0.12.0	Harmony	2.3.3		
+3741998343	Timberborn.IgorZ.XRay	version-1.0	X-Ray	X-Ray	1.1.2	1.0.12.0	eMka.ModSettings	1.0.12.0		
 3742542863	SylvanGames.ShortCommute	version-1.1	Short Commute	Short Commute	0.3.0.0	1.1.0.0	Harmony	2.3.3		
 3742542863	SylvanGames.ShortCommute	version-1.1	Short Commute	Short Commute	0.3.0.0	1.1.0.0	eMka.ModSettings	1.0.13.0		
 3742542863	SylvanGames.ShortCommute	version-1.0	Short Commute	Short Commute	0.2.0.0	1.0.0.0	Harmony	2.3.3		
@@ -1879,10 +1887,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3750784853	Calloatti.CompactWaterTurbine	version-1.0	Compact Water Turbine	Compact Water Turbine	1.7.0	1.0.13.1	Harmony			
 3751029877	jamesjacko.GrowthHeatmap		Growth & Harvest Heatmap	Growth & Harvest Heatmap	0.1.0	1.0.0.0				
 3752048919	DeepDynamite		Deep Dynamite	新炸弹 Deep Dynamite	1.1.9	1.0.13.0				
-3752051115	Calloatti.StorageMonitor	version-1.1	Storage Monitor	Storage Monitor	1.1.0	1.1.0.0				
+3752051115	Calloatti.StorageMonitor	version-1.1	Storage Monitor	Storage Monitor	1.1.1	1.1.0.0			Emberpelts	
 3752051115	Calloatti.StorageMonitor	Version-1.0	Storage Monitor	Storage Monitor	1.0.2	1.0.12.5				
 3752051115	Calloatti.StorageMonitor	Version-1.1	Storage Monitor	Storage Monitor	1.0.2	1.1.0.0				
-3752051115	Calloatti.StorageMonitor	version-1.0	Storage Monitor	Storage Monitor	1.1.0	1.0.12.5				
+3752051115	Calloatti.StorageMonitor	version-1.0	Storage Monitor	Storage Monitor	1.1.1	1.0.12.5			Emberpelts	
 3752058997	Calloatti.RubbleScavengers	Version-1.0	Rubble Scavengers	Rubble Scavengers	1.1.0	1.0.13.1	Harmony			
 3752955145	Calloatti.ShaftBuildOrder	Version-1.0	Shaft Build Order	Shaft Build Order	1.2.0	1.0.0.0	Harmony			
 3752955145	Calloatti.ShaftBuildOrder	Version-1.1	Shaft Build Order	Shaft Build Order	1.2.0	1.1.0.0	Harmony			
@@ -1931,7 +1939,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3769689000	Emberpelts67	version-0.7	Emberpelts Update 7	Emberpelts Update 6 and 7	0.7.10.0	0.7.9.0	BobingaboutScriptPack	0.7.8.0		
 3769689000	Emberpelts67	version-0.7	Emberpelts Update 7	Emberpelts Update 6 and 7	0.7.10.0	0.7.9.0			Lapantouflemagic.1x1x2Storage	
 3769689000	Emberpelts67	version-0.6	Emberpelts Update 6	Emberpelts Update 6 and 7	0.6.0.29	0.6.1.0			Lapantouflemagic.1x1x2Storage	
-3769863867	Calloatti.BannerTweaks	Version-1.0	Banner Tweaks	Banner Tweaks	1.1.0	1.0.0.0	Harmony			
+3769863867	Calloatti.BannerTweaks	Version-1.0	Banner Tweaks	Banner Tweaks	1.1.1	1.0.0.0	Harmony			
 3771621424	BruceTheLoon.HoneyTimeFix	version-1.0	Honey Time Fix	Honey Time Fix	1.0.0.0	1.0	Helpik.HoneyTime			
 3771714407	PaperMill20PaperPerLog		Paper Mill: 20 Paper per Log	Paper Mill: 20 Paper per Log	2.0.0	1.0.0.0				
 3772031080	Aoernis.ChooChooCompatLeafCoats		Choo!Choo! - Leaf Coats Compatibility	Choo!Choo! - Leaf Coats Compatibility	1.0.0	1.0.12.0	LeafCoats			
@@ -2022,14 +2030,15 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3784253478	Calloatti.Footprints	Version-1.0	Footprints	Footprints	1.0.0	1.0.0.0				
 3784854556	Timberborn.ARandomDiamond.FoodStall		Food Stall	Food Stall	1.0.0.0	1.0.0.0				
 3786975227	dividehex.Simple Compass		Simple Compass	Simple Compass	1.0	1.0.0.0				
-3787029167	nikitabign.beaverfamilytree		Родословная бобров / Beaver Family Tree	Родословная бобров / Beaver Family Tree	1.22.2	1.0.0.0	TimberUi	10.1.6		
-3787029167	nikitabign.beaverfamilytree		Родословная бобров / Beaver Family Tree	Родословная бобров / Beaver Family Tree	1.22.2	1.0.0.0	Harmony			
-3787037737	nikitabign.beaverfamilytree.genderaddon		Родословная бобров - Пол / Family Tree - Gender Addon	Родословная бобров - Пол / Family Tree - Gender Addon	1.7.3	1.0.0.0	nikitabign.beaverfamilytree			
-3787037737	nikitabign.beaverfamilytree.genderaddon		Родословная бобров - Пол / Family Tree - Gender Addon	Родословная бобров - Пол / Family Tree - Gender Addon	1.7.3	1.0.0.0	Harmony			
-3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.2	1.0.0.0	nikitabign.beaverfamilytree	1.22.2		
-3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.2	1.0.0.0	nikitabign.beaverfamilytree.genderaddon			
-3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.2	1.0.0.0	Harmony			
+3787029167	nikitabign.beaverfamilytree		Родословная бобров / Beaver Family Tree	Родословная бобров / Beaver Family Tree	1.23.0	1.0.0.0	TimberUi	10.1.6		
+3787029167	nikitabign.beaverfamilytree		Родословная бобров / Beaver Family Tree	Родословная бобров / Beaver Family Tree	1.23.0	1.0.0.0	Harmony			
+3787037737	nikitabign.beaverfamilytree.genderaddon		Родословная бобров - Пол / Family Tree - Gender Addon	Родословная бобров - Пол / Family Tree - Gender Addon	1.8.0	1.0.0.0	nikitabign.beaverfamilytree			
+3787037737	nikitabign.beaverfamilytree.genderaddon		Родословная бобров - Пол / Family Tree - Gender Addon	Родословная бобров - Пол / Family Tree - Gender Addon	1.8.0	1.0.0.0	Harmony			
+3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.3	1.0.0.0	nikitabign.beaverfamilytree	1.22.2		
+3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.3	1.0.0.0	nikitabign.beaverfamilytree.genderaddon			
+3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.3	1.0.0.0	Harmony			
 3787915527	Crane	version-1.1	Crane	Crane	11.1.0	1.1.1	ModdableTimberborn			
-3788099993	UnifiedFactions		United Beaver	United Beaver	0.3.0	1.1.2.1				
-3788114093	UnifiedFactions		United Beaver	United Beaver	0.3.0	1.1.2.1				
+3788114093	UnifiedFactions		United Beaver	United Beaver	0.3.4	1.1.2.1				
 3788333439	BruceTheLoon.UnderwaterBuildings	version-1.0	Underwater Buildings	Underwater Buildings	1.0.0.0	1.0.0.0				
+3788843108	HoldYourBeavers		Hold Your Beavers	Hold Your Beavers	1.0.0.0	0.7.0.0				
+3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0	1.1.2.0	Harmony			

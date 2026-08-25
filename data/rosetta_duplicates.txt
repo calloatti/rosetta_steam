@@ -1,6 +1,6 @@
 PublishedFileID	Id	Creator	Title
 3293380223	beaverbuddies	76561198035693320	BeaverBuddies - Multiplayer Co-Op
-3613072673	beaverbuddies	76561198035693320	[Experimental] BeaverBuddies - Multiplayer Co-Op
+3613072673	beaverbuddies	76561198035693320	[Old, Unsupported] BeaverBuddies
 3570383146	BuildingDecal	76561198010623560	Building Decals [U7 ✅]
 3701338675	BuildingDecal	76561198010623560	Building Banners
 3455892854	ConfigurableFaction	76561198010623560	Configurable Faction (legacy)
@@ -10,5 +10,3 @@ PublishedFileID	Id	Creator	Title
 3617839503	GreedyBuilders	76561198834211160	Greedy Builders
 3508401248	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction U7
 3647584961	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction 1.1
-3788099993	UnifiedFactions	76561198293538536	United Beaver
-3788114093	UnifiedFactions	76561198293538536	United Beaver
