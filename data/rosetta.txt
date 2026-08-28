@@ -430,7 +430,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.2	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.260	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.270	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	TimberApi	0.7.5.0		
@@ -2040,7 +2040,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.3	1.0.0.0	nikitabign.beaverfamilytree.genderaddon			
 3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.3	1.0.0.0	Harmony			
 3787915527	Crane	version-1.1	Crane	Crane	11.1.0	1.1.1	ModdableTimberborn			
-3788114093	UnifiedFactions		United Beaver	United Beaver	0.5.1	1.1.2.1				
+3788114093	UnifiedFactions		United Beaver	United Beaver	0.5.3	1.1.2.1				
 3788333439	BruceTheLoon.UnderwaterBuildings	version-1.0	Underwater Buildings	Underwater Buildings	1.0.0.0	1.0.0.0				
 3788843108	HoldYourBeavers		Hold Your Beavers	Hold Your Beavers	1.0.0.0	0.7.0.0				
 3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.3	1.0.0.0	Harmony	2.4.1		
+3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.3	1.0.0.0			kulesz.FPPCamera	
