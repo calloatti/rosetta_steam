@@ -430,7 +430,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.2	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.290	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.8.300	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	TimberApi	0.7.5.0		
@@ -1269,7 +1269,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	0.4	1.0.3.0				
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	Harmony	0.6.0.0		
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	eMka.ModSettings			
-3609485646	tangbohu.jzlfzzl	version-1.0	建造栏分组整理(放最底下)	Grouping and organizing the construction column (placed at the bottom)	1.1.1.3	1.0.5				
+3609485646	tangbohu.jzlfzzl	version-1.0	建造栏分组整理(放最底下)	Grouping and organizing the construction column (placed at the bottom)	1.1.1.4	1.0.5				
 3609718436	TailsAndBanners.BannerAlphabet		Banner Alphabet	Banner Alphabet	1.1	1.0.0.0			ModdableDecalGroups	
 3609725517	ConfigurableTopBar	version-1.0	Configurable Top Bar	Configurable Top Bar	10.0.3	1.0.0	ModdableTimberborn			
 3609725517	ConfigurableTopBar	version-1.0	Configurable Top Bar	Configurable Top Bar	10.0.3	1.0.0	eMka.ModSettings			
@@ -2020,7 +2020,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3779332547	ConstructionSiteHauler	version-1.1	Construction Site Hauler	Construction Site Hauler	11.0.1	1.1.1	ModdableTimberborn	11.1.0		
 3779772581	Calloatti.BreedingPodTweaks	Version-1.0	Breeding Pod Tweaks	Breeding Pod Tweaks	1.0.2	1.0.0.0	Harmony			
 3780455639	ExampleBuilding.DrinkFactry		Drink factry	Drink factry	0.1	1.0.0.0				
-3780932572	Yuta.Timberborn.Seasons		Времена года	The Seasons	1.0.0	1.0.13.1				
 3780949262	Timberborn.IgorZ.MapBrowser	version-1.1	MapBrowser	MapBrowser	1.0.0	1.1.0.0				
 3781723005	RoadsBeGone		RoadsBeGone	RoadsBeGone	0.7.0	1.0.0.0	Harmony	2.4.1		
 3781971405	FolktailsCrops		Folktails Crops	Folktails Crops	0.1	1.0.0.0				
@@ -2043,11 +2042,23 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3788114093	UnifiedFactions		United Beaver	United Beaver	0.5.3	1.1.2.1				
 3788333439	BruceTheLoon.UnderwaterBuildings	version-1.0	Underwater Buildings	Underwater Buildings	1.0.0.0	1.0.0.0				
 3788843108	HoldYourBeavers		Hold Your Beavers	Hold Your Beavers	1.0.0.0	0.7.0.0				
-3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0	Harmony	2.4.1		
-3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			kulesz.FPPCamera	
-3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			Cordial.Mods.CutterTool	
-3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			SourcePulp.GridCutting	
-3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.5	1.0.0.0			BuildingBlueprints	
+3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0	Harmony	2.4.1		
+3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0	eMka.ModSettings	1.1.1.0		
+3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0			kulesz.FPPCamera	
+3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0			Cordial.Mods.CutterTool	
+3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0			SourcePulp.GridCutting	
+3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0			BuildingBlueprints	
 3791888397	ExampleBuilding.1stMod		1st mod	1st mod	0.1	1.0.0.0				
 3791974455	LiveSplit.Autosplitter		LiveSplit Autosplitter	LiveSplit Autosplitter	1.0.0	1.0.0.0				
 3792293509	Calloatti.WindTweaks	Version-1.0	Wind Tweaks	Wind Tweaks	1.0.1	1.0.13.1	Harmony			
+3792576302	Tyler.LaptopBatteryDisplay		Laptop Battery Display	Laptop Battery Display	1.0.0	1.0.13.1				
+3792901409	TailsAndBanners.NettHier		Nett Hier. Aber waren Sie schon mal in Baden-Württemberg?	Nett Hier. Aber waren Sie schon mal in Baden-Württemberg?	0.1	1.0.0.0				
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	XtraPlzNoCrashes	10.2.0		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	Vertical Nav Mesh	1.0.4		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	Mesh-a-Mole	1.0.9.10		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Emberpelts	1.0.12.1
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			LeafCoats	1.0.12.1
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
