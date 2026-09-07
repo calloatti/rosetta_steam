@@ -1,3 +1,5 @@
 PublishedFileID	Id	Creator	Title
 3322428023	Battery.Flywheels	76561198042732577	Flywheels
 3322428023	Timberborn.ModExamples.HelloWorld	76561198042732577	Flywheels
+3775544925	sp1um.GoodTracing	76561198985494039	Goods Tracing (v1.x Compatibility Fork)
+3775544925	TheWarmaster.GoodsTracing	76561198985494039	Goods Tracing (v1.x Compatibility Fork)
