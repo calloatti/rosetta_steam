@@ -143,10 +143,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3282276626	KnatteAnka.Path_extention	version-0.6	Path Extention	Path Extention	2.1.0	0.6.0.0	KnatteAnka.Materials	1.0.2		
 3282276626	KnatteAnka.Path_extention	version-0.6	Path Extention	Path Extention	2.1.0	0.6.0.0			Emberpelts	
 3282276626	KnatteAnka.Path_extention	version-0.6	Path Extention	Path Extention	2.1.0	0.6.0.0			TimberApi	
-3282276626	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.0	1.1.0.0	KnatteAnka.Materials	1.0.1.0		
-3282276626	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.0	1.1.0.0	ModdableToolGroups	11.0.0		
-3282276626	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.0	1.1.0.0			Emberpelts	
-3282276626	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.0	1.1.0.0			BobPlatforms	
+3282276626	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.1	1.1.0.0	KnatteAnka.Materials	1.0.1.0		
+3282276626	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.1	1.1.0.0	ModdableToolGroups	11.0.0		
+3282276626	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.1	1.1.0.0			Emberpelts	
+3282276626	KnatteAnka.Path_extention	version-1.1.0	Path Extention	Path Extention	1.1.0.1	1.1.0.0			BobPlatforms	
 3282276626	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1	KnatteAnka.Materials	1.0.1.0		
 3282276626	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1	ModdableToolGroups	10.1.0		
 3282276626	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1			Emberpelts	
@@ -462,7 +462,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.2	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.70	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.90	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	TimberApi	0.7.5.0		
@@ -2175,3 +2175,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3797412228	Building.NaturalOverhangs		Buildable Natural Overhangs	Buildable Natural Overhangs	0.1	1.0.0.0				
 3797947290	HaulingPostPlus		Hauling Post Plus	Hauling Post Plus 搬运站扩容	0.1.3	1.1.2.4	Harmony	2.4.1		
 3797948730	BuildersHutPlus		Builders' Hut Plus	Builders' Hut Plus 建筑小屋扩容	0.1.2	1.1.2.4	Harmony	2.4.1		
+3798432356	AutomateAutomationNames		Automatic Automation Names	Automatic Automation Names	0.2.0	1.0.0.0	Harmony	2.4.1		
+3798650616	MapTransformer	version-1.1	Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	Harmony			
+3798650616	MapTransformer	version-1.1	Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	ModdableTimberborn			
