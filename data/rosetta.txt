@@ -366,9 +366,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3322428023	Timberborn.ModExamples.HelloWorld	version-0.7.9.3	Hello World	Flywheels	1.0.0.0	1.0.0.0				
 3322428023	Battery.Flywheels	version-1.0.12.6	Flywheels	Flywheels	4.1.1.14	1.0.12.6				
 3322428023	Battery.Flywheels	version-0.7.8.1	Flywheels	Flywheels	3.0.1.94	0.7.8.1	TimberApi	0.7.5.0		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.10.0	1.1.1.1	Harmony	2.3.3		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.10.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.10.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.11.0	1.1.1.1	Harmony	2.3.3		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.11.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.11.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.11	1.0.12.0	Harmony	2.3.3		
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.11	1.0.12.0	eMka.ModSettings	1.0.6.0		
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.11	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
@@ -2178,3 +2178,5 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3798432356	AutomateAutomationNames		Automatic Automation Names	Automatic Automation Names	0.2.0	1.0.0.0	Harmony	2.4.1		
 3798650616	MapTransformer	version-1.1	Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	Harmony			
 3798650616	MapTransformer	version-1.1	Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	ModdableTimberborn			
+3799011066	MrFallBoy.TimberMover		TimberMover	TimberMover	0.3.6.0	1.0.0.0				
+3799249240	ResourceBalance.ResourceBalance		Resource Balance	Resource Balance	1.0.0	1.1.0.2	eMka.ModSettings	1.1.1.0		

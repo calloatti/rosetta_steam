@@ -10,5 +10,7 @@ PublishedFileID	Id	Creator	Title
 3617839503	GreedyBuilders	76561198834211160	Greedy Builders
 3508401248	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction U7
 3647584961	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction 1.1
+3744280602	MrFallBoy.TimberMover	76561199805216121	TimberMover
+3799011066	MrFallBoy.TimberMover	76561198153338585	TimberMover
 3434076453	sp1um.GoodTracing	76561198133654242	Goods Tracing
 3775544925	sp1um.GoodTracing	76561198985494039	Goods Tracing (v1.x Compatibility Fork)
