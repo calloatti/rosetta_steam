@@ -1917,7 +1917,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3730394226	Duckies.Olessan		Duckies [ModContest1]	Duckies [ModContest1]	1.0.0.0	1.0.0.0				
 3730395918	Mods.MegaAI		MegaAI	MegaAI	0.1.0.0	1.0.0.0				
 3730395972	ModAuthor.ModName		Propaganda Decal Mod [ModContest1]	Propaganda Decal Mod [ModContest1]	1.0.0	1.0.0			ModdableDecalGroups	
-3730419230	Aoernis.ZiplineWalkThrough		Zipline Walk-Through	Zipline Walk-Through	1.0.0	1.0.12.5	Harmony			
+3730419230	Aoernis.ZiplineWalkThrough		Zipline Walk-Through	Zipline Walk-Through [1.1 updated]	1.1.0	1.0.12.5	Harmony	2.4.1		
 3730986041	academicunwinds.BeaverLayerTool		Academic's BLT	Academic's BLT	1.0.0.0	1.0.0.0	eMka.ModSettings	1.0.7.0		
 3731822434	Empty.OldCapitalTerraces		Old Capital Terraces	Old Capital Terraces	0.1	1.0.0.0				
 3735594008	Breadcrumbs.WaypointMod		Breadcrumbs	Breadcrumbs	1.1.0	1.0.0.0				
@@ -2124,7 +2124,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3784253478	Calloatti.Footprints	Version-1.1	Footprints	Footprints	1.0.1	1.1.2.4				
 3784253478	Calloatti.Footprints	Version-1.0	Footprints	Footprints	1.0.1	1.0.13.1				
 3784854556	Timberborn.ARandomDiamond.FoodStall		Food Stall	Food Stall	1.0.3.0	1.0.0.0				
-3786975227	dividehex.Simple Compass		Simple Compass	Simple Compass	1.0	1.0.0.0				
+3786975227	dividehex.Simple Compass		Simple Compass	Simple Compass	1.1.0	1.0.0.0				
 3787029167	nikitabign.beaverfamilytree		Родословная бобров / Beaver Family Tree	Родословная бобров / Beaver Family Tree	1.23.0	1.0.0.0	TimberUi	10.1.6		
 3787029167	nikitabign.beaverfamilytree		Родословная бобров / Beaver Family Tree	Родословная бобров / Beaver Family Tree	1.23.0	1.0.0.0	Harmony			
 3787037737	nikitabign.beaverfamilytree.genderaddon		Родословная бобров - Пол / Family Tree - Gender Addon	Родословная бобров - Пол / Family Tree - Gender Addon	1.8.0	1.0.0.0	nikitabign.beaverfamilytree			
@@ -2180,3 +2180,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3798650616	MapTransformer	version-1.1	Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	ModdableTimberborn			
 3799011066	MrFallBoy.TimberMover		TimberMover	TimberMover	0.3.6.0	1.0.0.0				
 3799249240	ResourceBalance.ResourceBalance		Resource Balance	Resource Balance	1.0.0	1.1.0.2	eMka.ModSettings	1.1.1.0		
+3800089742	CaseBacon.SupplyAlert		Supply Alert	Supply Alert	1.0.0.0	1.1.2.0	eMka.GoodsStatistics	1.1.2.0		
+3800089742	CaseBacon.SupplyAlert		Supply Alert	Supply Alert	1.0.0.0	1.1.2.0	eMka.ModSettings	1.0.6.0		
+3800259076	SpeedChangeByHaze		Speed Change By Haze	Speed Change By Haze	1.0.0.0	1.1.0.0				
