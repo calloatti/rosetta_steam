@@ -462,7 +462,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.2	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.110	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.130	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	TimberApi	0.7.5.0		
@@ -2016,10 +2016,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3764852972	UnstableCoreChallenge	version-1.0	Unstable Core Challenge	Unstable Core Challenge	10.0.0	1.0.0	ModdableTimberborn			
 3764926973	BruceTheLoon.ForestPath	version-1.1	Forest Path	Forest Path	1.0.1.1	1.1.0.0			grauschweif.crappyrope	
 3764926973	BruceTheLoon.ForestPath	version-1.0	Forest Path	Forest Path	1.0.1.1	1.0.6.0			grauschweif.crappyrope	
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.1.4	1.1.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.1.4	1.1.0.0	TimberUi	11.0.1		
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.1.4	1.0.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.1.4	1.0.0.0	TimberUi	10.1.6		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.2.0	1.1.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.2.0	1.1.0.0	TimberUi	11.0.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.2.0	1.0.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.2.0	1.0.0.0	TimberUi	10.1.6		
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.1	1.1.1	TimberUi			
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.1	1.1.1	Harmony			
 3767230586	ExampleBuilding.WaterFilter		Water Filter	Water Filter	0.2	1.1.0.0				
@@ -2033,10 +2033,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3769863867	Calloatti.BannerTweaks	Version-1.0	Banner Tweaks	Banner Tweaks	1.1.2	1.0.13.1	Harmony			
 3771621424	BruceTheLoon.HoneyTimeFix	version-1.0	Honey Time Fix	Honey Time Fix	1.0.0.0	1.0	Helpik.HoneyTime			
 3771714407	PaperMill20PaperPerLog		Paper Mill: 20 Paper per Log	Paper Mill: 20 Paper per Log	2.0.0	1.0.0.0				
-3772031080	Aoernis.ChooChooCompatLeafCoats		Choo!Choo! - Leaf Coats Compatibility	Choo!Choo! - Leaf Coats Compatibility	1.0.0	1.0.12.0	LeafCoats			
-3772031080	Aoernis.ChooChooCompatLeafCoats		Choo!Choo! - Leaf Coats Compatibility	Choo!Choo! - Leaf Coats Compatibility	1.0.0	1.0.12.0	Aoernis.ChooChoo			
-3772031347	Aoernis.ChooChooCompatEmberpelts		Choo!Choo! - Emberpelts Compatibility	Choo!Choo! - Emberpelts Compatibility	1.0.0	1.0.12.0	Emberpelts			
-3772031347	Aoernis.ChooChooCompatEmberpelts		Choo!Choo! - Emberpelts Compatibility	Choo!Choo! - Emberpelts Compatibility	1.0.0	1.0.12.0	Aoernis.ChooChoo			
+3772031080	Aoernis.ChooChooCompatLeafCoats		Choo!Choo! - Leaf Coats Compatibility	[OBSOLETE] - Uninstall me - Choo!Choo! - Leaf Coats Compatibility	1.0.0	1.0.12.0	LeafCoats			
+3772031080	Aoernis.ChooChooCompatLeafCoats		Choo!Choo! - Leaf Coats Compatibility	[OBSOLETE] - Uninstall me - Choo!Choo! - Leaf Coats Compatibility	1.0.0	1.0.12.0	Aoernis.ChooChoo			
+3772031347	Aoernis.ChooChooCompatEmberpelts		Choo!Choo! - Emberpelts Compatibility	[OBSOLETE] - Uninstall me - Choo!Choo! - Emberpelts Compatibility	1.0.0	1.0.12.0	Emberpelts			
+3772031347	Aoernis.ChooChooCompatEmberpelts		Choo!Choo! - Emberpelts Compatibility	[OBSOLETE] - Uninstall me - Choo!Choo! - Emberpelts Compatibility	1.0.0	1.0.12.0	Aoernis.ChooChoo			
 3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.10	1.0.8.0	XtraPlzNoCrashes	10.2.0		
 3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.10	1.0.8.0	Lapantouflemagic.TexturePack	1.3.0		
 3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.10	1.0.8.0			Emberpelts	
@@ -2183,3 +2183,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3800089742	CaseBacon.SupplyAlert		Supply Alert	Supply Alert	1.0.0.0	1.1.2.0	eMka.GoodsStatistics	1.1.2.0		
 3800089742	CaseBacon.SupplyAlert		Supply Alert	Supply Alert	1.0.0.0	1.1.2.0	eMka.ModSettings	1.0.6.0		
 3800259076	SpeedChangeByHaze		Speed Change By Haze	Speed Change By Haze	1.0.0.0	1.1.0.0				
+3801036916	northforge.solarpanel	version-1.0	Northforge - Solar Panel	Northforge - Solar Panel	1.0.0	1.1.0.0				
+3801236270	Local.WorkplacePriorityManager		Workplace Priority Manager	Workplace Priority Manager	1.0.0	1.0.0.0				
+3801376937	LadderJsonMod	version-0.7	Ladder JSON Mod	Ladder JSON Mod	7.0.0	0.7.0.0	Tobbert.Ladder	3.0.5		
+3801376937	LadderJsonMod	version-0.7	Ladder JSON Mod	Ladder JSON Mod	7.0.0	0.7.0.0	ModdablePrefab	7.2.0		
+3801376937	LadderJsonMod	version-1.0	Ladder JSON Mod	Ladder JSON Mod	1.0.0.2	1.0.0.0	Tobbert.Ladder	1.0.0.1		
+3801382976	DirtJsonMod	version-0.7	Dirt JSON Mod	Dirt JSON Mod	7.0.0	0.7.0.0	alin.dirt	0.7.9.0		
+3801382976	DirtJsonMod	version-0.7	Dirt JSON Mod	Dirt JSON Mod	7.0.0	0.7.0.0	ModdablePrefab	7.2.0		
+3801382976	DirtJsonMod	version-1.0	Dirt JSON Mod	Dirt JSON Mod	1.0.0.1	1.0.0.0				
