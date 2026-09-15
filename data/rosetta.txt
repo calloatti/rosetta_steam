@@ -364,6 +364,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3321838014	Cordial.BoosterJuice	version-0.7.4.2	Booster Juice	Booster Juice	0.7.3.1	0.7.4.0	TimberApi.UIBuilder	1.0.0.1		
 3321838014	Cordial.BoosterJuice	version-1.0.13.1	Booster Juice	Booster Juice	1.0.0.1	1.0.13.1				
 3322428023	Timberborn.ModExamples.HelloWorld	version-0.7.9.3	Hello World	Flywheels	1.0.0.0	1.0.0.0				
+3322428023	Battery.Flywheels	Version-1.1	Flywheels	Flywheels	4.1.1.15	1.1.2.4				
 3322428023	Battery.Flywheels	version-1.0.12.6	Flywheels	Flywheels	4.1.1.14	1.0.12.6				
 3322428023	Battery.Flywheels	version-0.7.8.1	Flywheels	Flywheels	3.0.1.94	0.7.8.1	TimberApi	0.7.5.0		
 3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.11.0	1.1.1.1	Harmony	2.3.3		
@@ -1888,8 +1889,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3729089910	Lapantoufleagic.FrostyWhiskersFaction	version-1.0	[ModContest1] The FrostyWhiskers	[ModContest1] The FrostyWhiskers	0.1.8	1.0.12.5	Timberborn.IgorZ.TimberCommons	1.15.2		
 3729089910	Lapantoufleagic.FrostyWhiskersFaction	version-1.0	[ModContest1] The FrostyWhiskers	[ModContest1] The FrostyWhiskers	0.1.8	1.0.12.5	TImprove4Ui	1.15.2		
 3729089910	Lapantoufleagic.FrostyWhiskersFaction	version-1.0	[ModContest1] The FrostyWhiskers	[ModContest1] The FrostyWhiskers	0.1.8	1.0.12.5	TimberUi	10.1.1		
-3729176372	MoreHttpApi	version-1.0	More HTTP API	More HTTP API [ModContest1]	10.0.1	1.0.0	ModdableTimberborn			
-3729176372	MoreHttpApi	version-1.0	More HTTP API	More HTTP API [ModContest1]	10.0.1	1.0.0	eMka.ModSettings			
+3729176372	MoreHttpApi	version-1.1	More HTTP API	More HTTP API	11.0.0	1.1.1	ModdableTimberborn			
+3729176372	MoreHttpApi	version-1.1	More HTTP API	More HTTP API	11.0.0	1.1.1	eMka.ModSettings			
+3729176372	MoreHttpApi	version-1.0	More HTTP API	More HTTP API	10.0.1	1.0.0	ModdableTimberborn			
+3729176372	MoreHttpApi	version-1.0	More HTTP API	More HTTP API	10.0.1	1.0.0	eMka.ModSettings			
 3729176685	MoreHttpApiAutomations	version-1.0	More HTTP API - Automations	More HTTP API - Automations [ModContest1]	10.0.0	1.0.0	MoreHttpApi			
 3729325910	grantemsley.EmergencyPriority		Emergency Priority [ModContest1]	Emergency Priority [ModContest1]	1.0.0.0	1.0.0.0	Harmony	2.3.0		
 3729358375	DecoMoreBlocks		DecoMore Blocks	DecoMore Blocks	1.0.0.0	1.0.0.0				
@@ -1945,7 +1948,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3743268534	WoodYouLookAtTheLog	version-1.0	Wood You Look At The Log	Wood You Look At The Log	10.0.0	1.0.0	TimberUi			
 3743919427	SylvanGames.TimberbornProfiler		Timberborn Profiler	Timberborn Profiler	0.1.0.0	1.0.0.0	Harmony	2.3.3		
 3743929278	Jacks.TimberClock		Timber Clock	Timber Clock	0.7.3.0	1.0.0.0				
-3744169776	Metally.0.2.1		Metally	Metally	0.2.3	1.0.0.0				
+3744169776	Metally.0.2.4		Metally	Metally	0.3	1.1.0.0				
 3744280602	MrFallBoy.TimberMover		TimberMover	TimberMover	0.3.6.0	1.0.0.0				
 3744824510	MrFallBoy.TimberPlanner		TimberPlanner	TimberPlanner	0.2.1.0	1.0.0.0				
 3745059551	97cweb.CurrentAffectsPlants	version-1.1	Current Affects Plants	Current Affects Plants	1.1.0.0	1.0.0.0	Harmony	2.4.1		
@@ -2183,7 +2186,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3800089742	CaseBacon.SupplyAlert		Supply Alert	Supply Alert	1.0.0.0	1.1.2.0	eMka.GoodsStatistics	1.1.2.0		
 3800089742	CaseBacon.SupplyAlert		Supply Alert	Supply Alert	1.0.0.0	1.1.2.0	eMka.ModSettings	1.0.6.0		
 3800259076	SpeedChangeByHaze		Speed Change By Haze	Speed Change By Haze	1.0.0.0	1.1.0.0				
-3801036916	northforge.solarpanel	version-1.0	Northforge - Solar Panel	Northforge - Solar Panel	1.0.0	1.1.0.0				
+3801036916	northforge.solarpanel	version-1.0	Northforge - Solar Panel	Northforge - Solar Panel	1.0.1	1.1.0.0				
 3801236270	Local.WorkplacePriorityManager		Workplace Priority Manager	Workplace Priority Manager	1.0.0	1.0.0.0				
 3801376937	LadderJsonMod	version-0.7	Ladder JSON Mod	Ladder JSON Mod	7.0.0	0.7.0.0	Tobbert.Ladder	3.0.5		
 3801376937	LadderJsonMod	version-0.7	Ladder JSON Mod	Ladder JSON Mod	7.0.0	0.7.0.0	ModdablePrefab	7.2.0		
@@ -2191,3 +2194,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3801382976	DirtJsonMod	version-0.7	Dirt JSON Mod	Dirt JSON Mod	7.0.0	0.7.0.0	alin.dirt	0.7.9.0		
 3801382976	DirtJsonMod	version-0.7	Dirt JSON Mod	Dirt JSON Mod	7.0.0	0.7.0.0	ModdablePrefab	7.2.0		
 3801382976	DirtJsonMod	version-1.0	Dirt JSON Mod	Dirt JSON Mod	1.0.0.1	1.0.0.0				
+3801441129	Calloatti.HighlightTweaks	version-1.1	Highlight Tweaks	Highlight Tweaks	1.0.0	1.1.2.4	Harmony			
+3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.0.0	1.1.1	ModdableTimberborn			
+3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.0.0	1.1.1	ModdableToolGroups			
