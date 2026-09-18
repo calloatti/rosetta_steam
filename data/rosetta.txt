@@ -2001,7 +2001,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3756400405	Calloatti.StoragePanelTweaks	Version-1.1	Storage Panel Tweaks	Storage Panel Tweaks	1.1.2	1.1.2.4	Harmony			
 3756400405	Calloatti.StoragePanelTweaks	Version-1.0	Storage Panel Tweaks	Storage Panel Tweaks	1.1.2	1.0.13.1	Harmony			
 3756402916	Kerst.TaskPriorities		[TTM] Timberborn Task Manager	[TTM] Timberborn Task Manager	0.7.3	1.0.0.0				
-3756656421	T3MP		More More More Performance! (T3MP)	More More More Performance! (T3MP)	1.2.3	1.0.13.1	Harmony	2.4.1		
+3756656421	T3MP		More More More Performance! (T3MP)	More More More Performance! (T3MP)	1.2.4	1.0.13.1	Harmony	2.4.1		
 3757116911	Cholleville.CasthordeExperimental		Casthorde (Experimental)	Casthorde (Experimental)	2.0.3	1.0.0.0	Harmony	2.4.1		
 3757263480	PopPerf.Profiler		Population Performance Profiler	Population Performance Profiler	1.0.0	1.0.0.0	Harmony			
 3757263480	PopPerf.Profiler		Population Performance Profiler	Population Performance Profiler	1.0.0	1.0.0.0	eMka.ModSettings			
@@ -2138,7 +2138,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.3	1.0.0.0	nikitabign.beaverfamilytree.genderaddon			
 3787904058	nikitabign.beaverfamilyclan		Родословная бобров - Рода / Beaver Family Clan	Родословная бобров - Рода / Beaver Family Clan	0.6.3	1.0.0.0	Harmony			
 3787915527	Crane	version-1.1	Crane	Crane	11.1.2	1.1.1	ModdableTimberborn			
-3788114093	UnifiedFactions		United Beaver	United Beaver	0.5.23	1.1.2.4	KnatteAnka.Materials	1.0.1.0		
+3788114093	UnifiedFactions		United Beaver	United Beaver	0.5.27	1.1.2.4				
 3788333439	BruceTheLoon.UnderwaterBuildings	version-1.0	Underwater Buildings	Underwater Buildings	1.0.0.0	1.0.0.0				
 3788843108	HoldYourBeavers		Hold Your Beavers	Hold Your Beavers	1.0.0.0	0.7.0.0				
 3789502178	Agroqirax.ControllerSupport		Controller Support	Controller Support	1.1.2.0.6	1.0.0.0	Harmony	2.4.1		
@@ -2186,7 +2186,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3800089742	CaseBacon.SupplyAlert		Supply Alert	Supply Alert	1.0.0.0	1.1.2.0	eMka.GoodsStatistics	1.1.2.0		
 3800089742	CaseBacon.SupplyAlert		Supply Alert	Supply Alert	1.0.0.0	1.1.2.0	eMka.ModSettings	1.0.6.0		
 3800259076	SpeedChangeByHaze		Speed Change By Haze	Speed Change By Haze	1.0.0.0	1.1.0.0				
-3801036916	northforge.solarpanel	version-1.0	Northforge - Solar Panel	Northforge - Solar Panel	1.0.1	1.1.0.0				
+3801036916	northforge.solarpanel	version-1.0	Northforge - Solar Panel	Northforge - Solar Panel	1.0.2	1.1.0.0			northforge.core	
 3801236270	Local.WorkplacePriorityManager		Workplace Priority Manager	Workplace Priority Manager	1.0.0	1.0.0.0				
 3801376937	LadderJsonMod	version-0.7	Ladder JSON Mod	Ladder JSON Mod	7.0.0	0.7.0.0	Tobbert.Ladder	3.0.5		
 3801376937	LadderJsonMod	version-0.7	Ladder JSON Mod	Ladder JSON Mod	7.0.0	0.7.0.0	ModdablePrefab	7.2.0		
@@ -2199,4 +2199,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.1.0	1.1.1	ModdableToolGroups			
 3802290246	TailsAndBanners.ScarsAndInjuryTailDecals		Scars and Injury Tail Decals	Scars and Injury Tail Decals	0.1	1.0.0.0				
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.1.0	1.1.2.4	Harmony			
-3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	2.1	1.1.2.4	Harmony			
+3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
