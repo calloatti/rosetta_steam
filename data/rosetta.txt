@@ -1312,7 +1312,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	0.4	1.0.3.0				
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	Harmony	0.6.0.0		
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	eMka.ModSettings			
-3609485646	tangbohu.jzlfzzl	version-1.0	建造栏分组整理(放最底下)	Grouping and organizing the construction column (placed at the bottom)	1.1.1.4	1.0.5				
+3609485646	tangbohu.jzlfzzl	version-1.0	建造栏分组整理(放最底下)	Grouping and organizing the construction column (placed at the bottom)	1.1.1.5	1.0.5				
 3609718436	TailsAndBanners.BannerAlphabet		Banner Alphabet	Banner Alphabet	1.1	1.0.0.0			ModdableDecalGroups	
 3609725517	ConfigurableTopBar	version-1.0	Configurable Top Bar	Configurable Top Bar	10.0.3	1.0.0	ModdableTimberborn			
 3609725517	ConfigurableTopBar	version-1.0	Configurable Top Bar	Configurable Top Bar	10.0.3	1.0.0	eMka.ModSettings			
@@ -1473,7 +1473,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3672613005	DecorativePlants	version-1.0	Decorative Plants	Decorative Plants	10.1.1	1.0.0	ModdableTimberborn			
 3672613005	DecorativePlants	version-1.0	Decorative Plants	Decorative Plants	10.1.1	1.0.0	ModdableToolGroups			
 3672613005	DecorativePlants	version-1.0	Decorative Plants	Decorative Plants	10.1.1	1.0.0	eMka.ModSettings			
-3672765274	Calloatti.Grid	Version-1.1	Grid	Grid	3.17.1	1.1.2.4	Harmony			
+3672765274	Calloatti.Grid	Version-1.1	Grid	Grid	3.17.2	1.1.2.4	Harmony			
 3672765274	Calloatti.Grid	Version-1.0	Grid	Grid	3.16.1	1.0.12.5	Harmony			
 3672765274	Calloatti.Grid	version-1.0	Grid	Grid	3.17.1	1.0.13.1	Harmony			
 3673165946	HueAndTurnX	version-1.1	Hue & Turn X	Hue & Turn X	11.0.0	1.1.1	ModdableTimberborn			
@@ -2195,8 +2195,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3801382976	DirtJsonMod	version-0.7	Dirt JSON Mod	Dirt JSON Mod	7.0.0	0.7.0.0	ModdablePrefab	7.2.0		
 3801382976	DirtJsonMod	version-1.0	Dirt JSON Mod	Dirt JSON Mod	1.0.0.1	1.0.0.0				
 3801441129	Calloatti.HighlightTweaks	version-1.1	Highlight Tweaks	Highlight Tweaks	1.0.1	1.1.2.4	Harmony			
-3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.1.0	1.1.1	ModdableTimberborn			
-3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.1.0	1.1.1	ModdableToolGroups			
+3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableTimberborn			
+3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableToolGroups			
+3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.2.0	1.1.1	eMka.ModSettings			
 3802290246	TailsAndBanners.ScarsAndInjuryTailDecals		Scars and Injury Tail Decals	Scars and Injury Tail Decals	0.1	1.0.0.0				
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.1.0	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
+3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.32	1.0.13.1				
+3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.1.0	1.0.0				
