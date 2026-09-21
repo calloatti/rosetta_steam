@@ -6,6 +6,8 @@ PublishedFileID	Id	Creator	Title
 3455892854	ConfigurableFaction	76561198010623560	Configurable Faction (legacy)
 3497318480	ConfigurableFaction	76561198010623560	Configurable Faction (Faction Mixer) [U7 ✅]
 3656686888	ConfigurableFaction	76561198010623560	Configurable Faction (Faction Mixer)
+3726826498	DecoMore	76561199349994877	DecoMore
+3805047229	DecoMore	76561198009138965	DecoMore 1.1 fixed
 3597214931	DirtJsonMod	76561198029730516	Dirt JSON Mod
 3801382976	DirtJsonMod	76561198029730516	Dirt JSON Mod
 3283819933	GreedyBuilders	76561198258895594	zxuiji -m- Greedy Builders
