@@ -463,7 +463,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.2	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.180	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.210	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	4.0.0	0.7.3.0	TimberApi	0.7.5.0		
@@ -1601,8 +1601,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3685383158	Tiduin.TwitchIntegration		Tiduins Twitch Integration	Tiduins Twitch Integration	0.1	1.0.0.0	Harmony			
 3686236774	Timberborn.Mod.TwitchIntegration		Twitch Integration	Twitch Integration	1.3.0.0	1.0.0.0				
 3686324719	CopyNameToo	version-1.0	Copy Name Too!	Copy Name Too!	10.0.0	1.0.0	ModdableTimberborn			
-3686679308	BetterWeatherStation	version-1.1	Better Weather Station	Better Weather Station	11.0.0	1.1.0	ModdableTimberborn			
-3686679308	BetterWeatherStation	version-1.1	Better Weather Station	Better Weather Station	11.0.0	1.1.0			ModdableWeathers	
+3686679308	BetterWeatherStation	version-1.1	Better Weather Station	Better Weather Station	11.0.1	1.1.1	ModdableTimberborn			
+3686679308	BetterWeatherStation	version-1.1	Better Weather Station	Better Weather Station	11.0.1	1.1.1			ModdableWeathers	
 3686679308	BetterWeatherStation	version-1.0	Better Weather Station	Better Weather Station	10.0.0	1.0.0	ModdableTimberborn	10.4.0		
 3686679308	BetterWeatherStation	version-1.0	Better Weather Station	Better Weather Station	10.0.0	1.0.0			ModdableWeathers	
 3686783117	grauschweif.leafcoats.frogstatue		LeafCoats Frog Statue - Unofficial	LeafCoats Frog Statue - Unofficial	1.0	1.0.10.1				
@@ -1826,7 +1826,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3723623171	BARC		Builders' Advanced Reclamation Corps [ModContest1]	Builders' Advanced Reclamation Corps [ModContest1]	0.1.0	1.0.0.0	Harmony	2.3.3		
 3723623171	BARC		Builders' Advanced Reclamation Corps [ModContest1]	Builders' Advanced Reclamation Corps [ModContest1]	0.1.0	1.0.0.0	eMka.ModSettings			
 3723797875	LexVolkov.MagicTail		LV Magic Tail [ModContest1]	LV Magic Tail [ModContest1]	1.0.0.0	1.0.0.0				
-3723831673	Timberborn.QoL.BuildingMover	version-1.1	Building Mover [ModContest1]	Building Mover [ModContest1]	1.5.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
+3723831673	Timberborn.QoL.BuildingMover	version-1.1	Building Mover [ModContest1]	Building Mover [ModContest1]	1.6.1	1.1.0.0	eMka.ModSettings	1.1.1.0		
 3723831673	Timberborn.QoL.BuildingMover	version-1.0	Building Mover [ModContest1]	Building Mover [ModContest1]	1.4.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
 3723851280	Translation.Russianname		RussianName	RussianName	0.1	1.0.0.0				
 3723883597	Redic.NewStyles		New Building Styles [ModContest1]	New Building Styles [ModContest1]	0.1	1.0.0.0				
@@ -2204,6 +2204,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.32	1.0.13.1				
 3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.1.0	1.0.0				
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.6	1.0.13.1	ModdableToolGroups			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.6	1.0.13.1	ModdableToolGroups			
 3805047229	DecoMore		DecoMore 1.1 fixed	DecoMore 1.1 fixed	1.0.0.0	1.0.0.0				
 3805229613	Kanzey.ToolbarHotkey		Toolbar Hotkey	Toolbar Hotkey	0.1	1.1.0.0				
+3805529675	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
+3805903521	Walky.FolktailsPlus		Folktails+	Folktails+	0.2	1.1.0.0				
