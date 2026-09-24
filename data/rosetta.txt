@@ -974,6 +974,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3472334132	TImprove4Ui	version-0.7	TImprove 4 UI	TImprove 4 UI	7.10.2	0.7.0.0	eMka.ModSettings			
 3472334132	TImprove4Ui	version-0.7	TImprove 4 UI	TImprove 4 UI	7.10.2	0.7.0.0	Harmony			
 3472334132	TImprove4Ui	version-0.7	TImprove 4 UI	TImprove 4 UI	7.10.2	0.7.0.0	TimberUi			
+3472334132	TImprove4Ui	version-1.1	TImprove 4 UI	TImprove 4 UI	11.0.0	1.1.1	eMka.ModSettings			
+3472334132	TImprove4Ui	version-1.1	TImprove 4 UI	TImprove 4 UI	11.0.0	1.1.1	Harmony			
+3472334132	TImprove4Ui	version-1.1	TImprove 4 UI	TImprove 4 UI	11.0.0	1.1.1	TimberUi			
 3472334132	TImprove4Ui	version-1.0	TImprove 4 UI	TImprove 4 UI	10.2.0	1.0.0	eMka.ModSettings			
 3472334132	TImprove4Ui	version-1.0	TImprove 4 UI	TImprove 4 UI	10.2.0	1.0.0	Harmony			
 3472334132	TImprove4Ui	version-1.0	TImprove 4 UI	TImprove 4 UI	10.2.0	1.0.0	TimberUi	10.1.1		
@@ -1585,10 +1588,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3683545336	Opolame.AutomatedResourceDetector	version-1.0.13.1	Resource Detector	Resource Detector	1.3	1.0.12.6	Harmony			
 3683545336	Opolame.AutomatedResourceDetector	version-1.1.0.2	Resource Detector	Resource Detector	1.4	1.0.12.6	Harmony			
 3683684395	Translation.Viethoa_nguyez		Vietnamese viVN (Tiếng Việt)	Vietnamese viVN (Tiếng Việt)	0.26.03.13	1.0.0.0				
-3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.12	1.1.2.4	Harmony			
-3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.12	1.1.2.4			Emberpelts	
-3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.12	1.1.2.4			Lapantoufleagic.WhitepawsFaction	
-3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.12	1.1.2.4			Tobbert.MorePlatforms	
+3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.13	1.1.2.4	Harmony			
+3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.13	1.1.2.4			Emberpelts	
+3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.13	1.1.2.4			Lapantoufleagic.WhitepawsFaction	
+3684033679	Calloatti.Replatform	Version-1.1	Replatform	Replatform	2.0.13	1.1.2.4			Tobbert.MorePlatforms	
 3684033679	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.12	1.0.13.1	Harmony			
 3684033679	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.12	1.0.13.1			Emberpelts	
 3684033679	Calloatti.Replatform	Version-1.0	Replatform	Replatform	2.0.12	1.0.13.1			Lapantoufleagic.WhitepawsFaction	
@@ -1800,7 +1803,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3721718127	TonWolfe.TradeOffice	version-1.0.13.0	Trade Office [ModContest1]	Trade Office [ModContest1]	1.0.4	1.0.13.0	eMka.ModSettings			
 3721718127	TonWolfe.TradeOffice	version-1.0.13.0	Trade Office [ModContest1]	Trade Office [ModContest1]	1.0.4	1.0.13.0	TimberUi			
 3721773087	Timberborn.CapitanMaxwell.CustomNameList		Custom Name List	Custom Name List	2.0	0.0.0.0				
-3722095092	M3NN1.BeaverHRDepartment		Beaver HR Department [ModContest1]	Beaver HR Department [ModContest1]	1.0.2	1.0.0.0	eMka.ModSettings	1.0.11.0		
+3722095092	M3NN1.BeaverHRDepartment		Beaver HR Department [ModContest1]	Beaver HR Department [ModContest1]	1.0.3	1.0.0.0	eMka.ModSettings	1.0.11.0		
 3722650718	TailsAndBanners.BeaverPropagandaBanners		Beaver Propaganda Banners	Beaver Propaganda Banners [ModContest1]	0.1	1.0.0.0				
 3722776826	ExampleBuilding.Pizza		Pizzeria [ModContest1]	Pizzeria [ModContest1]	1.5	1.0.0.0				
 3722901686	Timberborn.DamoMods.NileCrops		Nile Crops [ModContest1]	Nile Crops [ModContest1]	1.0	1.0.0.0				
@@ -1867,7 +1870,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
 3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
 3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	Adaptors	1.0.9.10		
-3728477109	M3NN1.DamnDamDegradation		Damn Dam Degradation [ModContest1]	Damn Dam Degradation [ModContest1]	1.1.1	1.0.0.0	eMka.ModSettings	1.0.11.0		
+3728477109	M3NN1.DamnDamDegradation		Damn Dam Degradation [ModContest1]	Damn Dam Degradation [ModContest1]	1.1.2	1.1.0.0	eMka.ModSettings	1.0.11.0		
 3728571147	Timberborn.Mod.WalkableFloodGates		Walkable And Stackable FloodGates [ModContest1]	Walkable And Stackable FloodGates [ModContest1]	1.0.0.3	1.0.0.0				
 3728604166	ResourceTrend		ResourceTrend	ResourceTrend	1.1.0.1	1.0.0.0	Harmony			
 3728664719	MagdalenaPotakowska.FolkForrest		Folk Forrest Tails and Banners [ModContest1]	Folk Forrest Tails and Banners [ModContest1]	1.0.0	1.0.0			ModdableDecalGroups	
@@ -1915,7 +1918,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3730191884	Timberborn.Mods.DamStranding		Dam Stranding[ModContest1]	Dam Stranding[ModContest1]	1.0.0.0	1.0.0.0				
 3730254211	TailsAndBanners.Annoot'scustomtailpack [ModContest1]		Annoot'sCustomTailPack [ModContest1]	Annoot'sCustomTailPack [ModContest1]	0.1	1.0.0.0				
 3730313578	TailsAndBanners.HandDrawnTails		Hand Drawn Tails [ModContest1]	Hand Drawn Tails [ModContest1]	1.0.0	1.0.0.0				
-3730369720	M3NN1.WhereWyrmsWait		Where Wyrms Wait [ModContest1]	Where Wyrms Wait [ModContest1]	1.2.0	1.0.0.0	eMka.ModSettings	1.0.11.0		
+3730369720	M3NN1.WhereWyrmsWait		Where Wyrms Wait [ModContest1]	Where Wyrms Wait [ModContest1]	1.2.1	1.1.0.0	eMka.ModSettings	1.0.11.0		
 3730392778	Revenio.Dragonclaws		Dragonclaws [ModContest1]	Dragonclaws [ModContest1]	0.4.1	1.0.0.0	Tobbert.Ladder	1.0.0.2		
 3730394226	Duckies.Olessan		Duckies [ModContest1]	Duckies [ModContest1]	1.0.0.0	1.0.0.0				
 3730395918	Mods.MegaAI		MegaAI	MegaAI	0.1.0.0	1.0.0.0				
@@ -2209,4 +2212,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3805229613	Kanzey.ToolbarHotkey		Toolbar Hotkey	Toolbar Hotkey	0.1	1.1.0.0				
 3805529675	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
 3805903521	Walky.FolktailsPlus		Folktails+	Folktails+	0.2	1.1.0.0				
+3806336107	Calloatti.FlatBanner	version-1.1	Flat Banner	Flat Banner	1.0.4	1.1.2.4	Harmony			
 3806336107	Calloatti.FlatBanner	Version-1.1	Flat Banner	Flat Banner	1.0.2	1.1.2.4	Harmony			
+3806673431	TailsAndBanners.MessyTailsCorePack		Messy Tails Core Pack	Messy Tails Core Pack	0.1	1.0.0.0				
+3806792686	GlobalInventory	version-1.1	Global Inventory	Global Inventory	11.0.0	1.1.1	ModdableTimberborn			
+3806793618	ScienceShop	version-1.1	Science Shop	Science Shop	11.0.0	1.1.1	GlobalInventory			
+3806793967	PowerOverdrive	version-1.1	Power Overdrive	Power Overdrive	11.0.0	1.1.1	ScienceShop			
+3806793967	PowerOverdrive	version-1.1	Power Overdrive	Power Overdrive	11.0.0	1.1.1	GlobalInventory			
+3806793967	PowerOverdrive	version-1.1	Power Overdrive	Power Overdrive	11.0.0	1.1.1	ModdableTimberborn			
+3806962640	ClimateProgression		Climate Progression	Climate Progression	1.0.0	1.1.0.0	Harmony	2.4.1		
+3806962640	ClimateProgression		Climate Progression	Climate Progression	1.0.0	1.1.0.0	eMka.ModSettings	0.6.9.3		
