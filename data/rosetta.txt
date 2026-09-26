@@ -2024,10 +2024,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3764852972	UnstableCoreChallenge	version-1.0	Unstable Core Challenge	Unstable Core Challenge	10.0.0	1.0.0	ModdableTimberborn			
 3764926973	BruceTheLoon.ForestPath	version-1.1	Forest Path	Forest Path	1.0.1.1	1.1.0.0			grauschweif.crappyrope	
 3764926973	BruceTheLoon.ForestPath	version-1.0	Forest Path	Forest Path	1.0.1.1	1.0.6.0			grauschweif.crappyrope	
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.2.0	1.1.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.2.0	1.1.0.0	TimberUi	11.0.1		
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.2.0	1.0.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.2.0	1.0.0.0	TimberUi	10.1.6		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.3.0	1.1.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.3.0	1.1.0.0	TimberUi	11.0.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.3.0	1.0.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.3.0	1.0.0.0	TimberUi	10.1.6		
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.1	1.1.1	TimberUi			
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.1	1.1.1	Harmony			
 3767230586	ExampleBuilding.WaterFilter		Water Filter	Water Filter	0.2	1.1.0.0				
@@ -2157,15 +2157,15 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3792576302	Tyler.LaptopBatteryDisplay		Laptop Battery Display	Laptop Battery Display	1.0.0	1.0.13.1				
 3792652241	Empty.BadThings	version-1.1	Bad Things	Bad Things	1.0	1.1.0.0	Harmony	0.0.0.0		
 3792901409	TailsAndBanners.NettHier		Nett Hier. Aber waren Sie schon mal in Baden-Württemberg?	Nett Hier. Aber waren Sie schon mal in Baden-Württemberg?	0.1	1.0.0.0				
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	XtraPlzNoCrashes	10.2.0		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	Vertical Nav Mesh	1.0.4		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0	Mesh-a-Mole	1.0.9.10		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Emberpelts	1.0.12.1
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			LeafCoats	1.0.12.1
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	XtraPlzNoCrashes	10.2.0		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	Vertical Nav Mesh	1.0.4		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	List-a-Mole	1.0.9.10		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	Mesh-a-Mole	1.0.9.10		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0			Emberpelts	1.0.12.1
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0			LeafCoats	1.0.12.1
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 3794340830	CraneHeads	version-1.1	Crane Heads	Crane Heads	11.0.0	1.1.1	Crane			
 3794340830	CraneHeads	version-1.1	Crane Heads	Crane Heads	11.0.0	1.1.1	ModdableToolGroups			
 3794581307	FolktailsPlus	version-1.1	Folktails+	Folktails+	11.0.0	1.1.1	XtraPlzNoCrashes			
@@ -2223,3 +2223,5 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3806962640	ClimateProgression		Climate Progression	Climate Progression	1.0.0	1.1.0.0	Harmony	2.4.1		
 3806962640	ClimateProgression		Climate Progression	Climate Progression	1.0.0	1.1.0.0	eMka.ModSettings	0.6.9.3		
 3807461427	Calloatti.SettlementPanelTweaks	Version-1.1	Settlement Panel Tweaks	Settlement Panel Tweaks	1.0.1	1.1.2.4	Harmony			
+3807732545	Sikstus.RisingSea	version-1.1	Highgnaw	Highgnaw Scenario	0.4.0	1.1.2.4				
+3807986512	Arthur.BeaverNameList		Beaver Name List	Beaver Name List	1.0.0	1.1.0.0				
