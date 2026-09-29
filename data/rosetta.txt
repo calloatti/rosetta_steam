@@ -1083,6 +1083,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3493733195	Gate	version-1.0	Gate	[Obsolete] Gate	10.0.2	1.0.0	TimberUi			
 3493733195	Gate	version-1.0	Gate	[Obsolete] Gate	10.0.2	1.0.0	Harmony			
 3493733195	Gate	version-0.7	Gate	[Obsolete] Gate	7.2.0	0.7.0.0	Harmony			
+3493931995	Helpik.HoneyTime		Honey Time Reworked	Honey Time Reworked	10.1.0.0	1.0.0.0			RealLights	
 3494076717	Melody		Melody: Add Custom Music	Melody: Add Custom Music	1	0.7.0.0	Harmony	0.0.0.0		
 3494078997	EbbAndFlow.water	version-1.0	Ebb and Flow	Ebb and Flow	2026.06.17	1.0.0.0	Harmony	0.0.0.0		
 3494078997	EbbAndFlow.water	version-1.0	Ebb and Flow	Ebb and Flow	2026.06.17	1.0.0.0	eMka.ModSettings	0.0.0.0		
@@ -1705,7 +1706,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3708402076	Calloatti.MapSizeTweaks	Version-1.1	Map Size Tweaks	Map Size Tweaks	1.0.3	1.1.2.4	Harmony			
 3708402076	Calloatti.MapSizeTweaks	Version-1.0	Map Size Tweaks	Map Size Tweaks	1.0.3	1.0.13.1	Harmony			
 3708758576	LongNames		Long Names	Long Names	0.0.1	0.6.0.0	Harmony	2.3.3		
-3709357808	Translation.BelarusianLanguage		Беларуская мова	Беларуская мова | Belarusian language	1.1	1.1.0.0				
+3709357808	Translation.BelarusianLanguage		Беларуская мова	Беларуская мова	1.1	1.1.0.0				
 3709491773	RecultivatorPlantsTrees		Recultivator plants Trees	Recultivator plants Trees	1.0	1.0.0.0	Harmony			
 3710048403	MapFilter		Map Filter	Map Filter	1.0.0.0	1.0.0.0	Harmony			
 3710952757	DistroStorage	version-1.1	Distro Storages	Distro Storages	11.0.1	1.1.0	eMka.ModSettings			
@@ -1825,7 +1826,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3723216060	TonWolfe.MoreMines	version-1.1.0.2	More Mines [ModContest1]	More Mines [ModContest1]	1.1.20	1.1.0.2			TonWolfe.Market	
 3723216060	TonWolfe.MoreMines	version-1.1.0.2	More Mines [ModContest1]	More Mines [ModContest1]	1.1.20	1.1.0.2			KnatteAnka.MoreGroups	
 3723216060	TonWolfe.MoreMines	version-1.1.0.2	More Mines [ModContest1]	More Mines [ModContest1]	1.1.20	1.1.0.2			Redic.NewStyles	
-3723267610	Translation.TiếngViệt(vietnamese)		Tiếng Việt (Vietnamese) by tran11nam	Tiếng Việt (Vietnamese) by tran11nam	1.26.5.22	1.0.0.0				
+3723267610	Translation.TiếngViệt(vietnamese)		Tiếng Việt (Vietnamese) by tran11nam	Tiếng Việt (Vietnamese) by tran11nam	1.26.9.29	1.0.0.0				
 3723623171	BARC		Builders' Advanced Reclamation Corps [ModContest1]	Builders' Advanced Reclamation Corps [ModContest1]	0.1.0	1.0.0.0	Harmony	2.3.3		
 3723623171	BARC		Builders' Advanced Reclamation Corps [ModContest1]	Builders' Advanced Reclamation Corps [ModContest1]	0.1.0	1.0.0.0	eMka.ModSettings			
 3723797875	LexVolkov.MagicTail		LV Magic Tail [ModContest1]	LV Magic Tail [ModContest1]	1.0.0.0	1.0.0.0				
@@ -2204,7 +2205,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3802290246	TailsAndBanners.ScarsAndInjuryTailDecals		Scars and Injury Tail Decals	Scars and Injury Tail Decals	0.1	1.0.0.0				
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
-3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.32	1.0.13.1				
+3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.34	1.1.2.4				
 3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.2.1	1.0.0				
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
 3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.6	1.0.13.1	ModdableToolGroups			
@@ -2228,8 +2229,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3808363949	Bedna.BuildQueueChange	version-1.1	Build Queue Change	Build Queue Change	0.1.9	1.1.0.0	Harmony	2.4.1		
 3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.5.0	1.0.0				
 3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.76	1.1.2.4	ModdableToolGroups	10.4.0		
-3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.3.0	1.1.2.0	Harmony	2.4.1		
-3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.3.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
+3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.4.0	1.1.2.0	Harmony	2.4.1		
+3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.4.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
 3809124987	directional-power-shafts		Directional Power Shafts	Directional Power Shafts	0.1.4	1.1.2.4				
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0	Harmony	2.4.1		
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0	eMka.ModSettings	1.1.1.0		
