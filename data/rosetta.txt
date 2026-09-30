@@ -2208,7 +2208,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.34	1.1.2.4				
 3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.2.1	1.0.0				
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.6	1.0.13.1	ModdableToolGroups			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.8	1.1.2.4	ModdableToolGroups			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.8	1.1.2.4	ModdableTimberborn	11.1.2		
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.8	1.1.2.4	Harmony			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.8	1.1.2.4	TimberUi	11.0.1		
 3805047229	DecoMore		DecoMore 1.1 fixed	DecoMore 1.1 fixed	1.0.0.0	1.0.0.0				
 3805229613	Kanzey.ToolbarHotkey		Toolbar Hotkey	Toolbar Hotkey	0.1	1.1.0.0				
 3805529675	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
@@ -2235,3 +2238,5 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0	Harmony	2.4.1		
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0	eMka.ModSettings	1.1.1.0		
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0			LeafCoats	
+3810104786	Translation.Vietnamese Translation		Vietnamese Translation	Vietnamese Translation	1.0	1.1.0.0				
+3810136622	Local.ArchitectsGuild		Architects Guild (Prototype)	Architects Guild (Prototype)	0.2.1	1.1.2.5				
