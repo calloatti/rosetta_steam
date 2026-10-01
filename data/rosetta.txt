@@ -334,8 +334,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3302215152	AppendVanillaMaterials	version-0.6.5	zxuiji -m- Append Vanilla Resources	zxuiji -m- Append Vanilla Resources	0.6.5.01	0.6.1.0				
 3302215152	AppendVanillaMaterials	version-1.0.8.1	zxuiji -m- Append Vanilla Resources	zxuiji -m- Append Vanilla Resources	1.0.8.60	1.0.12.0				
 3302215152	AppendVanillaMaterials	version-0.7	zxuiji -m- Append Vanilla Resources	zxuiji -m- Append Vanilla Resources	0.7.0.01	0.7.0.0				
-3305038022	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	SmartPower	1.18.0	1.1.1.1	Harmony	2.3.3		
-3305038022	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	SmartPower	1.18.0	1.1.1.1	eMka.ModSettings	1.0.5.0		
+3305038022	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	SmartPower	1.19.0	1.1.1.1	Harmony	2.3.3		
+3305038022	Timberborn.IgorZ.SmartPower	version-1.1	SmartPower	SmartPower	1.19.0	1.1.1.1	eMka.ModSettings	1.0.5.0		
 3305038022	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	SmartPower	1.16.4	1.0.12.7	Harmony	2.3.3		
 3305038022	Timberborn.IgorZ.SmartPower	version-1.0	SmartPower	SmartPower	1.16.4	1.0.12.7	eMka.ModSettings	1.0.5.0		
 3306148996	Timberborn.IgorZ.LogConsole		LogConsole	LogConsole	1.2.0	0.6.4.0				
@@ -650,6 +650,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3419179568	nadca.ThosePlatforms	version-0.6	Those Platforms	Those Platforms	1.0.4	0.6.5.0	TimberApi	0.7.0.1		
 3419179568	nadca.ThosePlatforms	version-0.7	Those Platforms	Those Platforms	1.8.1	0.7.1.0			Emberpelts	
 3419179568	nadca.ThosePlatforms	version-0.7	Those Platforms	Those Platforms	1.8.1	0.7.1.0			TimberApi	0.7.11.0
+3420372304	TImprove	version-1.1	TImprove	TImprove	10.2.2	1.0.0	eMka.ModSettings			
+3420372304	TImprove	version-1.1	TImprove	TImprove	10.2.2	1.0.0	Harmony			
+3420372304	TImprove	version-1.1	TImprove	TImprove	10.2.2	1.0.0	TimberUi			
 3420372304	TImprove	version-1.0	TImprove	TImprove	10.2.1	1.0.0	eMka.ModSettings			
 3420372304	TImprove	version-1.0	TImprove	TImprove	10.2.1	1.0.0	Harmony			
 3420372304	TImprove	version-1.0	TImprove	TImprove	10.2.1	1.0.0	TimberUi			
@@ -2208,10 +2211,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.34	1.1.2.4				
 3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.2.1	1.0.0				
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.8	1.1.2.4	ModdableToolGroups			
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.8	1.1.2.4	ModdableTimberborn	11.1.2		
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.8	1.1.2.4	Harmony			
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.8	1.1.2.4	TimberUi	11.0.1		
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	ModdableToolGroups			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	ModdableTimberborn	11.1.2		
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	Harmony			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	TimberUi	11.0.1		
 3805047229	DecoMore		DecoMore 1.1 fixed	DecoMore 1.1 fixed	1.0.0.0	1.0.0.0				
 3805229613	Kanzey.ToolbarHotkey		Toolbar Hotkey	Toolbar Hotkey	0.1	1.1.0.0				
 3805529675	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
@@ -2240,3 +2243,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0			LeafCoats	
 3810104786	Translation.Vietnamese Translation		Vietnamese Translation	Vietnamese Translation	1.0	1.1.0.0				
 3810136622	Local.ArchitectsGuild		Architects Guild (Prototype)	Architects Guild (Prototype)	0.2.1	1.1.2.5				
+3810598581	Cleo.CreativeMode		Creative Mode	Creative Mode	0.2.0	1.1.0.0				
+3810745035	TwitchConnector.9d0b9f91		Twitch Beavers Connector	Twitch Beavers Connector	0.1.2	1.1.0.0				
+3810963391	Timberborn.Mod.AdvancedMedicine		Advanced Medicine	Advanced Medicine (Folktails only)	1.0.5.0	1.0.0.0				
