@@ -1329,8 +1329,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3612247861	MoreOrganizedToolGroups	version-1.0	More Organized Tool Groups	More Organized Tool Groups	10.0.0	1.0.0	ModdableToolGroups			
 3613072673	beaverbuddies		BeaverBuddies - Multiplayer Co-Op	[Old, Unsupported] BeaverBuddies	1.6.4	0.7.2.0	eMka.ModSettings	0.7.2.0		
 3613175039	ModdableTimberbornAchievements	version-0.0	Moddable Timberborn Achievements (for V1+ only)	Moddable Timberborn Achievements	10.0.0	1.0.4				
-3613175039	ModdableTimberbornAchievements	version-1.0	Moddable Timberborn Achievements	Moddable Timberborn Achievements	10.2.0	1.0.4	Harmony			
-3613175039	ModdableTimberbornAchievements	version-1.0	Moddable Timberborn Achievements	Moddable Timberborn Achievements	10.2.0	1.0.4	TimberUi	10.0.2		
+3613175039	ModdableTimberbornAchievements	version-1.1	Moddable Timberborn Achievements	Moddable Timberborn Achievements	11.0.0	1.1.1	Harmony			
+3613175039	ModdableTimberbornAchievements	version-1.1	Moddable Timberborn Achievements	Moddable Timberborn Achievements	11.0.0	1.1.1	TimberUi	10.0.2		
+3613175039	ModdableTimberbornAchievements	version-1.0	Moddable Timberborn Achievements	Moddable Timberborn Achievements	10.2.1	1.0.4	Harmony			
+3613175039	ModdableTimberbornAchievements	version-1.0	Moddable Timberborn Achievements	Moddable Timberborn Achievements	10.2.1	1.0.4	TimberUi	10.0.2		
 3613175358	DemoModdableAchievements	version-1.0	Demo Moddable Timberborn Achievements	Demo Moddable Timberborn Achievements	10.0.0	1.0.4	ModdableTimberbornAchievements			
 3613235447	TailsAndBanners.BannerGoods		Banner Goods	Banner Goods	1.1	1.0.0.0			ModdableDecalGroups	
 3614598709	eMka.SecondShift	version-1.1	Second Shift	Second Shift	1.1.1.0	1.1.1.0	Harmony	2.3.0		
@@ -2233,7 +2235,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3807732545	Sikstus.RisingSea	version-1.1	Highgnaw	Highgnaw Scenario	0.4.0	1.1.2.4				
 3807986512	Arthur.BeaverNameList		Beaver Name List	Beaver Name List	1.0.0	1.1.0.0				
 3808363949	Bedna.BuildQueueChange	version-1.1	Build Queue Change	Build Queue Change	0.1.9	1.1.0.0	Harmony	2.4.1		
-3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.5.0	1.0.0				
+3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.6.0	1.0.0				
 3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.76	1.1.2.4	ModdableToolGroups	10.4.0		
 3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.4.0	1.1.2.0	Harmony	2.4.1		
 3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.4.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
