@@ -1315,8 +1315,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3608113524	AllGoodsInWarehouses	version-1.0	All Goods In Warehouses	All Goods In Warehouses	10.1.0	0.7.0	ModdableTimberborn			
 3608113524	AllGoodsInWarehouses	version-0.7	All Goods In Warehouses	All Goods In Warehouses	10.0.0	0.7.0	ModdableTimberborn			
 3608973092	l9m2.EnduranceDifficulty		EnduranceDifficulty	Endurance Difficulty	0.1	1.0.2.0				
-3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3	1.0.3.0			acalc79.HardcoreSettings	1.0.0
-3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3	1.0.3.0			acalc79.AlternativeWeatherSystem	1.4.0
+3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.1	1.0.3.0			acalc79.HardcoreSettings	1.0.0
+3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.1	1.0.3.0			acalc79.AlternativeWeatherSystem	1.4.0
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	Harmony	0.6.0.0		
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	eMka.ModSettings			
 3609485646	tangbohu.jzlfzzl	version-1.0	建造栏分组整理(放最底下)	Grouping and organizing the construction column (placed at the bottom)	1.1.1.5	1.0.5				
@@ -2211,7 +2211,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
 3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.34	1.1.2.4				
-3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.2.1	1.0.0				
+3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.3.0	1.0.0				
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
 3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	ModdableToolGroups			
 3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	ModdableTimberborn	11.1.2		
@@ -2235,10 +2235,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3807732545	Sikstus.RisingSea	version-1.1	Highgnaw	Highgnaw Scenario	0.4.0	1.1.2.4				
 3807986512	Arthur.BeaverNameList		Beaver Name List	Beaver Name List	1.0.0	1.1.0.0				
 3808363949	Bedna.BuildQueueChange	version-1.1	Build Queue Change	Build Queue Change	0.1.9	1.1.0.0	Harmony	2.4.1		
-3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.6.0	1.0.0				
+3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.7.0	1.0.0				
 3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.76	1.1.2.4	ModdableToolGroups	10.4.0		
-3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.4.0	1.1.2.0	Harmony	2.4.1		
-3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.4.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
+3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.5.0	1.1.2.0	Harmony	2.4.1		
+3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.5.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
 3809124987	directional-power-shafts		Directional Power Shafts	Directional Power Shafts	0.1.4	1.1.2.4				
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0	Harmony	2.4.1		
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0	eMka.ModSettings	1.1.1.0		
@@ -2248,3 +2248,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3810598581	Cleo.CreativeMode		Creative Mode	Creative Mode	0.2.0	1.1.0.0				
 3810745035	TwitchConnector.9d0b9f91		Twitch Beavers Connector	Twitch Beavers Connector	0.1.2	1.1.0.0				
 3810963391	Timberborn.Mod.AdvancedMedicine		Advanced Medicine	Advanced Medicine (Folktails only)	1.0.5.0	1.0.0.0				
+3811486769	Ben.TinyZiplineStation		Tiny Zipline Station	Tiny Zipline Station	1.0.0	1.1.0.0	BobingaboutTinyTubewayStation			
+3811846422	DarkLord7854.DynamiteDepth		Dynamite Depth View	Dynamite Depth View	1.0.1	1.1.2.4				
+3812024126	ZoomOutSounds	version-1.1	Zoom Out Sounds	Zoom Out Sounds	0.3.0	1.1.2.4	Harmony			
+3812024126	ZoomOutSounds	version-1.1	Zoom Out Sounds	Zoom Out Sounds	0.3.0	1.1.2.4	eMka.ModSettings			
+3812083734	DailyNet	version-1.1	Daily Net	Daily Net	0.1.0	1.1.0.0	Harmony			
+3812084877	MoistureOnlyPlanting	version-1.1	Moisture-Only Planting	Moisture-Only Planting	0.1.2	1.1.0.0	Harmony			
