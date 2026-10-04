@@ -2254,3 +2254,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3812024126	ZoomOutSounds	version-1.1	Zoom Out Sounds	Zoom Out Sounds	0.3.0	1.1.2.4	eMka.ModSettings			
 3812083734	DailyNet	version-1.1	Daily Net	Daily Net	0.1.0	1.1.0.0	Harmony			
 3812084877	MoistureOnlyPlanting	version-1.1	Moisture-Only Planting	Moisture-Only Planting	0.1.2	1.1.0.0	Harmony			
+3812997658	ClearHaulPriority	version-1.1	Clear Haul Priority	Clear Haul Priority	0.3.1	1.1.0.0	Harmony			
