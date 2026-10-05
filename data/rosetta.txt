@@ -2210,7 +2210,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3802290246	TailsAndBanners.ScarsAndInjuryTailDecals		Scars and Injury Tail Decals	Scars and Injury Tail Decals	0.1	1.0.0.0				
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
-3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.34	1.1.2.4				
+3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.67	1.1.2.4				
 3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.3.0	1.0.0				
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
 3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	ModdableToolGroups			
@@ -2253,5 +2253,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3812024126	ZoomOutSounds	version-1.1	Zoom Out Sounds	Zoom Out Sounds	0.3.0	1.1.2.4	Harmony			
 3812024126	ZoomOutSounds	version-1.1	Zoom Out Sounds	Zoom Out Sounds	0.3.0	1.1.2.4	eMka.ModSettings			
 3812083734	DailyNet	version-1.1	Daily Net	Daily Net	0.1.0	1.1.0.0	Harmony			
-3812084877	MoistureOnlyPlanting	version-1.1	Moisture-Only Planting	Moisture-Only Planting	0.1.2	1.1.0.0	Harmony			
+3812084877	MoistureOnlyPlanting	version-1.1	Moisture-Only Planting	Moisture-Only Planting	0.1.3	1.1.0.0	Harmony			
 3812997658	ClearHaulPriority	version-1.1	Clear Haul Priority	Clear Haul Priority	0.3.1	1.1.0.0	Harmony			
+3813243721	Barbara.TimberLoop		TimberLoop	TimberLoop	1.0.11	1.1.2.4				
+3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	ModdableTimberborn	11.1.2		
+3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	Harmony			
+3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	TimberUi	11.0.1		
+3813291547	Agroqirax.NoWineBrowser		No Wine Browser	No Wine Browser	0.1.0	1.0.0.0	Harmony	2.4.1		
