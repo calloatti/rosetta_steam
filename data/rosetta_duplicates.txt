@@ -1,6 +1,7 @@
 PublishedFileID	Id	Creator	Title
 3293380223	beaverbuddies	76561198035693320	BeaverBuddies - Multiplayer Co-Op
 3613072673	beaverbuddies	76561198035693320	[Old, Unsupported] BeaverBuddies
+3813984327	beaverbuddies	76561198007579127	BeaverBuddies Co-Op/PvP Edition
 3570383146	BuildingDecal	76561198010623560	Building Decals [U7 ✅]
 3701338675	BuildingDecal	76561198010623560	Building Banners
 3455892854	ConfigurableFaction	76561198010623560	Configurable Faction (legacy)
@@ -12,6 +13,8 @@ PublishedFileID	Id	Creator	Title
 3801382976	DirtJsonMod	76561198029730516	Dirt JSON Mod
 3283819933	GreedyBuilders	76561198258895594	zxuiji -m- Greedy Builders
 3617839503	GreedyBuilders	76561198834211160	Greedy Builders
+3687427127	Kurt258.TheBarkimedesScrew	76561198064664515	The Barkimedes Screw (Outdated Version/Pre-1.0)
+3813587159	Kurt258.TheBarkimedesScrew	76561198153278292	The Barkimedes Screw
 3597923933	LadderJsonMod	76561198029730516	Ladder JSON Mod
 3801376937	LadderJsonMod	76561198029730516	Ladder JSON Mod
 3508401248	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction U7

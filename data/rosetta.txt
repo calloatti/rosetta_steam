@@ -1386,8 +1386,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3633913689	TonWolfe.SimpleWorkshopControl	version-1.0.13.0	Simple Workshop Control	Simple Workshop Control	1.0.33	1.0.13.0	eMka.ModSettings	1.0.7.0		
 3633913689	TonWolfe.SimpleWorkshopControl	version-1.0.13.0	Simple Workshop Control	Simple Workshop Control	1.0.33	1.0.13.0			TonWolfe.MoreMines	
 3634769510	Empty.Bob		bob	bob	0.1	1.0.0.0				
-3635342825	WarningsBeGone	version-1.1	Warnings Be Gone	Warnings Be Gone	11.0.1	1.0.0	TimberUi			
-3635342825	WarningsBeGone	version-1.1	Warnings Be Gone	Warnings Be Gone	11.0.1	1.0.0	Harmony			
+3635342825	WarningsBeGone	version-1.1	Warnings Be Gone	Warnings Be Gone	11.0.2	1.0.0	TimberUi			
+3635342825	WarningsBeGone	version-1.1	Warnings Be Gone	Warnings Be Gone	11.0.2	1.0.0	Harmony			
 3635342825	WarningsBeGone	version-1.0	Warnings Be Gone	Warnings Be Gone	10.0.2	1.0.0	TimberUi			
 3635342825	WarningsBeGone	version-1.0	Warnings Be Gone	Warnings Be Gone	10.0.2	1.0.0	Harmony			
 3636866814	BeaverStatistics		Beaver Statistics	Beaver Statistics	0.1.0	1.0.0.0	Harmony			
@@ -1618,7 +1618,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3687042708	com.kyuvulpes.NoConfirmation		No More Confirmation	No More Confirmation	1.0	1.0.0.0	Harmony	2.4.1		
 3687120066	Calloatti.VisibleLayersList	Version-1.1	Visible Layers List	Visible Layers List	1.0.4	1.1.2.4	Harmony			
 3687120066	Calloatti.VisibleLayersList	Version-1.0	Visible Layers List	Visible Layers List	1.0.4	1.0.13.1	Harmony			
-3687427127	Kurt258.TheBarkimedesScrew	version-1	The Barkimedes Screw	The Barkimedes Screw (Broken as of 1.1)	1.4	1.0.0.0				
+3687427127	Kurt258.TheBarkimedesScrew	version-1	The Barkimedes Screw	The Barkimedes Screw (Outdated Version/Pre-1.0)	1.4	1.0.0.0				
 3687466301	TonWolfe.SluiceControl	version-1.0.11.0	Sluice Control	Sluice Control	1.0.1	1.0.11.0	Harmony	2.4.1		
 3687466301	TonWolfe.SluiceControl	version-1.0.11.0	Sluice Control	Sluice Control	1.0.1	1.0.11.0	TimberUi	10.0.3		
 3687466301	TonWolfe.SluiceControl	version-1.0.11.0	Sluice Control	Sluice Control	1.0.1	1.0.11.0	eMka.ModSettings	1.0.7.0		
@@ -2204,19 +2204,19 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3801382976	DirtJsonMod	version-0.7	Dirt JSON Mod	Dirt JSON Mod	7.0.0	0.7.0.0	alin.dirt	0.7.9.0		
 3801382976	DirtJsonMod	version-0.7	Dirt JSON Mod	Dirt JSON Mod	7.0.0	0.7.0.0	ModdablePrefab	7.2.0		
 3801441129	Calloatti.HighlightTweaks	version-1.1	Highlight Tweaks	Highlight Tweaks	1.0.1	1.1.2.4	Harmony			
-3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableTimberborn			
-3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.2.0	1.1.1	ModdableToolGroups			
-3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.2.0	1.1.1	eMka.ModSettings			
+3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.3.1	1.1.1	ModdableTimberborn			
+3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.3.1	1.1.1	ModdableToolGroups			
+3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.3.1	1.1.1	eMka.ModSettings			
 3802290246	TailsAndBanners.ScarsAndInjuryTailDecals		Scars and Injury Tail Decals	Scars and Injury Tail Decals	0.1	1.0.0.0				
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
 3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.67	1.1.2.4				
 3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.3.0	1.0.0				
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	ModdableToolGroups			
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	ModdableTimberborn	11.1.2		
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	Harmony			
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails & IronTeeth Playground	1.7.8	1.1.2.4	TimberUi	11.0.1		
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	ModdableToolGroups			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	ModdableTimberborn	11.1.2		
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	Harmony			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	TimberUi	11.0.1		
 3805047229	DecoMore		DecoMore 1.1 fixed	DecoMore 1.1 fixed	1.0.0.0	1.0.0.0				
 3805229613	Kanzey.ToolbarHotkey		Toolbar Hotkey	Toolbar Hotkey	0.1	1.1.0.0				
 3805529675	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.15	1.1.2.4				
@@ -2260,3 +2260,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	Harmony			
 3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	TimberUi	11.0.1		
 3813291547	Agroqirax.NoWineBrowser		No Wine Browser	No Wine Browser	0.1.0	1.0.0.0	Harmony	2.4.1		
+3813587159	Kurt258.TheBarkimedesScrew	version-1.1	The Barkimedes Screw	The Barkimedes Screw	2.0.0	1.1.2.4				
+3813842276	othermod.TeleporterStation		Teleporter Station	Teleporter Station	0.1.2	1.1.0.0				
+3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
+3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
+3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.1.0	1.1.0.0	Harmony			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.1.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
