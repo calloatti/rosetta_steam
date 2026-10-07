@@ -1545,6 +1545,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3677252193	BruceTheLoon.RestoreSluice	version-1.0.0	Restore My Sluice Gate	Restore My Sluice Gate	1.0.0.0	1.0				
 3677595367	DynamiteRubble		Dynamite Rubble	Dynamite Rubble	1.0.0	1.0.0.0				
 3677595742	GeneticLottery		Genetic Lottery	Genetic Lottery	1.0.0	1.0.0.0				
+3677643870	SluiceIsBack	version-1.1	Sluice is Back!	Sluice is Back!	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
 3677643870	SluiceIsBack	version-1.0	Sluice is Back!	Sluice is Back!	10.1.0	1.0.0				
 3677666970	TonWolfe.FireworksAreFun	version-1.0.11.0	Fireworks Are Fun	Fireworks Are Fun	1.0.2	1.0.11.0	Harmony	2.4.1		
 3677961427	OldSchoolValves	version-1.0	Old School Valves	Old School Valves	10.0.0	1.0.0				
@@ -2235,7 +2236,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3807732545	Sikstus.RisingSea	version-1.1	Highgnaw	Highgnaw Scenario	0.4.0	1.1.2.4				
 3807986512	Arthur.BeaverNameList		Beaver Name List	Beaver Name List	1.0.0	1.1.0.0				
 3808363949	Bedna.BuildQueueChange	version-1.1	Build Queue Change	Build Queue Change	0.1.9	1.1.0.0	Harmony	2.4.1		
-3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.7.0	1.0.0				
+3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.7.1	1.0.0				
 3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.76	1.1.2.4	ModdableToolGroups	10.4.0		
 3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.5.0	1.1.2.0	Harmony	2.4.1		
 3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.5.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
@@ -2261,9 +2262,23 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	TimberUi	11.0.1		
 3813291547	Agroqirax.NoWineBrowser		No Wine Browser	No Wine Browser	0.1.0	1.0.0.0	Harmony	2.4.1		
 3813587159	Kurt258.TheBarkimedesScrew	version-1.1	The Barkimedes Screw	The Barkimedes Screw	2.0.0	1.1.2.4				
-3813842276	othermod.TeleporterStation		Teleporter Station	Teleporter Station	0.1.2	1.1.0.0				
+3813842276	othermod.TeleporterStation		Teleporter Station	Teleporter Station	0.1.3	1.1.0.0				
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
 3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.1.0	1.1.0.0	Harmony			
 3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.1.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
+3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	Emberpelts	1.1.2.3		
+3814700131	CargoZiplines		Cargo Ziplines	Cargo Ziplines	1.0.0	1.1.0.0				
+3814712635	Helpik.HoneyTime.Emberpelts		Honey Time Reworked for Emberpelts [unofficial]	Honey Time Reworked for Emberpelts [unofficial]	1.0.0.0	1.0.0.0	Helpik.HoneyTime			
+3814712635	Helpik.HoneyTime.Emberpelts		Honey Time Reworked for Emberpelts [unofficial]	Honey Time Reworked for Emberpelts [unofficial]	1.0.0.0	1.0.0.0	Emberpelts			
+3814712635	Helpik.HoneyTime.Emberpelts		Honey Time Reworked for Emberpelts [unofficial]	Honey Time Reworked for Emberpelts [unofficial]	1.0.0.0	1.0.0.0			RealLights	
+3814713123	Helpik.HoneyTime.LeafCoats		Honey Time Reworked for Leaf Coats [unofficial]	Honey Time Reworked for Leaf Coats [unofficial]	1.0.0.0	1.0.0.0	Helpik.HoneyTime			
+3814713123	Helpik.HoneyTime.LeafCoats		Honey Time Reworked for Leaf Coats [unofficial]	Honey Time Reworked for Leaf Coats [unofficial]	1.0.0.0	1.0.0.0	LeafCoats			
+3814713123	Helpik.HoneyTime.LeafCoats		Honey Time Reworked for Leaf Coats [unofficial]	Honey Time Reworked for Leaf Coats [unofficial]	1.0.0.0	1.0.0.0	LeafCoatsBadwater			
+3814713123	Helpik.HoneyTime.LeafCoats		Honey Time Reworked for Leaf Coats [unofficial]	Honey Time Reworked for Leaf Coats [unofficial]	1.0.0.0	1.0.0.0	BobingaboutScriptPack			
+3814713123	Helpik.HoneyTime.LeafCoats		Honey Time Reworked for Leaf Coats [unofficial]	Honey Time Reworked for Leaf Coats [unofficial]	1.0.0.0	1.0.0.0			RealLights	
+3815025887	ModdedFactionsBuildingSupport	version-1.1	Modded Factions Building Support	Modded Factions Building Support	11.0.0	1.1.1			Lapantoufleagic.WhitepawsFaction	
+3815025887	ModdedFactionsBuildingSupport	version-1.1	Modded Factions Building Support	Modded Factions Building Support	11.0.0	1.1.1			LeafCoats	
+3815025887	ModdedFactionsBuildingSupport	version-1.1	Modded Factions Building Support	Modded Factions Building Support	11.0.0	1.1.1			Emberpelts	
