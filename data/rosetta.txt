@@ -459,8 +459,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346279334	Tobbert.ChooChoo	version-0.7	Choo!Choo!	Choo!Choo! [U7]	0.11.0	0.7.10.0	TimberApi	0.7.0.1		
 3346279334	Tobbert.ChooChoo	version-0.7	Choo!Choo!	Choo!Choo! [U7]	0.11.0	0.7.10.0	TimberApi.UIBuilder	1.0.0.1		
 3346279334	Tobbert.ChooChoo	version-0.7	Choo!Choo!	Choo!Choo! [U7]	0.11.0	0.7.10.0	Tobbert.TobbyTools	3.0.0		
-3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.3	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
-3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.3	1.1.1.0			Lapantouflemagic.1x1x2Storage	
+3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.4	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
+3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.4	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.9.240	0.1				
@@ -633,7 +633,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3416092296	argargablar.ItHazardAwarenessTails	version-1.1.0	Iron Teeth Hazard Awareness Tails	Iron Teeth Hazard Awareness Tails	1.3.6.0	1.1.0.0				
 3416092296	argargablar.ItHazardAwarenessTails	version-0.7	Iron Teeth Hazard Awareness Tails	Iron Teeth Hazard Awareness Tails	1.3	0.7.0.0				
 3416879061	BobingaboutScriptPack	version-0.6	Bobingabout Script Pack	Bobingabout Script Pack	0.6.0.2	0.6.1.0				
-3416879061	BobingaboutScriptPack	version-1.1	Bobingabout Script Pack	Bobingabout Script Pack	1.1.2.2	1.1.0.0				
+3416879061	BobingaboutScriptPack	version-1.1	Bobingabout Script Pack	Bobingabout Script Pack	1.1.2.3	1.1.0.0				
 3416879061	BobingaboutScriptPack	version-1.0	Bobingabout Script Pack	Bobingabout Script Pack	1.0.13.5	1.0.10.1				
 3416879061	BobingaboutScriptPack	version-0.7	Bobingabout Script Pack	Bobingabout Script Pack	0.7.10.1	0.7.9.0				
 3417480537	FasterConfigurableStorages	version-0.6	Faster Configurable Storages	Faster Configurable Storages	1.0.0	0.6.0.0	eMka.ModSettings	0.6.0.0		
@@ -1184,8 +1184,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3548617753	TimberModBuilder	version-0.7	TimberMod Builder	TimberMod Builder	7.0.1	0.7.0.0				
 3549979810	WirelessCoil	version-0.7	Wireless Coil	Wireless Coil	7.0.0	0.7.0.0	Harmony			
 3549979810	WirelessCoil	version-0.7	Wireless Coil	Wireless Coil	7.0.0	0.7.0.0	TimberUi			
-3552203634	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.3	1.1.0.0	BobingaboutScriptPack	1.1.2.2		
-3552203634	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.3	1.1.0.0	Vertical Nav Mesh			
+3552203634	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.4	1.1.0.0	BobingaboutScriptPack	1.1.2.2		
+3552203634	LeafCoats	version-1.1	Leaf Coats	Leaf Coats	1.1.2.4	1.1.0.0	Vertical Nav Mesh			
 3552203634	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.6	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3552203634	LeafCoats	version-1.0	Leaf Coats	Leaf Coats	1.0.13.6	1.0.12.0	Vertical Nav Mesh			
 3552203634	LeafCoats	version-0.7	Leaf Coats (Early Access)	Leaf Coats	0.7.10.20	0.7.10.0	BobingaboutScriptPack	0.7.10.0		
@@ -1218,8 +1218,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3564742455	DirectionalDynamite	version-0.7	Multi-directional Dynamite	Multi-directional Dynamite	7.0.2	0.7.0.0			MacroManagement	
 3568538109	StreamGaugeTracker	version-0.7	Stream Gauge Tracker	Stream Gauge Tracker [U7 ✅]	7.0.0	0.7.0.0	TimberUi			
 3570383146	BuildingDecal	version-0.7	Building Decals	Building Decals [U7 ✅]	7.0.2	0.7.0.0	TimberUi	7.8.2		
-3578009707	ModdableTimberborn	version-1.1	Moddable Timberborn	Moddable Timberborn	11.1.2	1.1.1	Harmony			
-3578009707	ModdableTimberborn	version-1.1	Moddable Timberborn	Moddable Timberborn	11.1.2	1.1.1	TimberUi	11.0.0		
+3578009707	ModdableTimberborn	version-1.1	Moddable Timberborn	Moddable Timberborn	11.1.3	1.1.1	Harmony			
+3578009707	ModdableTimberborn	version-1.1	Moddable Timberborn	Moddable Timberborn	11.1.3	1.1.1	TimberUi	11.0.0		
 3578009707	ModdableTimberborn	version-1.0	Moddable Timberborn	Moddable Timberborn	10.6.1	1.0.5	Harmony			
 3578009707	ModdableTimberborn	version-1.0	Moddable Timberborn	Moddable Timberborn	10.6.1	1.0.5	TimberUi	10.1.5		
 3578009707	ModdableTimberborn	version-0.7	Moddable Timberborn	Moddable Timberborn	7.0.5	0.7.0.0	Harmony			
@@ -1377,10 +1377,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3633414934	linchi.WnFc	version-1.0	万能工厂 Universal Factory	万能工厂 Universal Factory	1.1.6	1.0.0				
 3633812928	BobingaboutBeaverFactions	version-1.1	Bobingabout	Beaver Factions	1.1.2.0	1.1.0.0				
 3633812928	BobingaboutBeaverFactions	version-1.0	Bobingabout	Beaver Factions	1.0.13.1	1.0.0.0				
-3633913689	TonWolfe.SimpleWorkshopControl	version-1.1.0.0	Simple Workshop Control	Simple Workshop Control	1.1.36	1.1.0.0	Harmony	2.4.1		
-3633913689	TonWolfe.SimpleWorkshopControl	version-1.1.0.0	Simple Workshop Control	Simple Workshop Control	1.1.36	1.1.0.0	TimberUi	10.0.3		
-3633913689	TonWolfe.SimpleWorkshopControl	version-1.1.0.0	Simple Workshop Control	Simple Workshop Control	1.1.36	1.1.0.0	eMka.ModSettings	1.0.7.0		
-3633913689	TonWolfe.SimpleWorkshopControl	version-1.1.0.0	Simple Workshop Control	Simple Workshop Control	1.1.36	1.1.0.0			TonWolfe.MoreMines	
+3633913689	TonWolfe.SimpleWorkshopControl	version-1.1.0.0	Simple Workshop Control	Simple Workshop Control	1.1.37	1.1.0.0	Harmony	2.4.1		
+3633913689	TonWolfe.SimpleWorkshopControl	version-1.1.0.0	Simple Workshop Control	Simple Workshop Control	1.1.37	1.1.0.0	TimberUi	10.0.3		
+3633913689	TonWolfe.SimpleWorkshopControl	version-1.1.0.0	Simple Workshop Control	Simple Workshop Control	1.1.37	1.1.0.0	eMka.ModSettings	1.0.7.0		
+3633913689	TonWolfe.SimpleWorkshopControl	version-1.1.0.0	Simple Workshop Control	Simple Workshop Control	1.1.37	1.1.0.0			TonWolfe.MoreMines	
 3633913689	TonWolfe.SimpleWorkshopControl	version-1.0.13.0	Simple Workshop Control	Simple Workshop Control	1.0.33	1.0.13.0	Harmony	2.4.1		
 3633913689	TonWolfe.SimpleWorkshopControl	version-1.0.13.0	Simple Workshop Control	Simple Workshop Control	1.0.33	1.0.13.0	TimberUi	10.0.3		
 3633913689	TonWolfe.SimpleWorkshopControl	version-1.0.13.0	Simple Workshop Control	Simple Workshop Control	1.0.33	1.0.13.0	eMka.ModSettings	1.0.7.0		
@@ -1438,8 +1438,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3656686888	ConfigurableFaction	version-1.0	Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	10.0.2	1.0.0	eMka.ModSettings			
 3656686888	ConfigurableFaction	version-1.0	Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	10.0.2	1.0.0	ModdableTimberborn	10.1.0		
 3656686888	ConfigurableFaction	version-1.0	Configurable Faction (Faction Mixer)	Configurable Faction (Faction Mixer)	10.0.2	1.0.0	XtraPlzNoCrashes			
-3658303906	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.0	1.0.0	TimberUi			
-3658303906	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.0	1.0.0	Harmony			
+3658303906	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.1	1.0.0	TimberUi			
+3658303906	ModdableDecalGroups	version-1.1	Moddable Decal Groups	Moddable Decal Groups	11.0.1	1.0.0	Harmony			
 3658303906	ModdableDecalGroups	version-1.0	Moddable Decal Groups	Moddable Decal Groups	10.1.1	1.0.0	TimberUi			
 3658303906	ModdableDecalGroups	version-1.0	Moddable Decal Groups	Moddable Decal Groups	10.1.1	1.0.0	Harmony			
 3659790531	TailsAndBanners.BannerAlphabetExtended		Banner Alphabet Extended	Banner Alphabet Extended	1.1	1.0.0.0			ModdableDecalGroups	
@@ -2188,7 +2188,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3797412228	Building.NaturalOverhangs		Buildable Natural Overhangs	Buildable Natural Overhangs	0.1	1.0.0.0				
 3797947290	HaulingPostPlus		Hauling Post Plus	Hauling Post Plus 搬运站扩容	0.1.3	1.1.2.4	Harmony	2.4.1		
 3797948730	BuildersHutPlus		Builders' Hut Plus	Builders' Hut Plus 建筑小屋扩容	0.1.2	1.1.2.4	Harmony	2.4.1		
-3798432356	AutomateAutomationNames		Automatic Automation Names	Automatic Automation Names	0.2.0	1.0.0.0	Harmony	2.4.1		
+3798432356	AutomateAutomationNames		Automatic Automation Names	Automatic Automation Names	1.0.0	1.0.0.0	Harmony	2.4.1		
 3798650616	MapTransformer	version-1.1	Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	Harmony			
 3798650616	MapTransformer	version-1.1	Map Transformer	Map Transformer [Game + Map Editor]	11.0.0	1.1.1	ModdableTimberborn			
 3799011066	MrFallBoy.TimberMover		TimberMover	TimberMover	0.3.6.0	1.0.0.0				
@@ -2208,7 +2208,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.3.1	1.1.1	ModdableTimberborn			
 3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.3.1	1.1.1	ModdableToolGroups			
 3801726769	TimberPipes	version-1.1	Timber Pipes	Timber Pipes	11.3.1	1.1.1	eMka.ModSettings			
-3802290246	TailsAndBanners.ScarsAndInjuryTailDecals		Scars and Injury Tail Decals	Scars and Injury Tail Decals	0.1	1.0.0.0				
+3802290246	TailsAndBanners.ScarsAndInjuryTailDecals		Scars and Injury Tail Decals	Scars and Injury Tail Decals	0.2	1.0.0.0				
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
 3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.67	1.1.2.4				
@@ -2261,7 +2261,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	Harmony			
 3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	TimberUi	11.0.1		
 3813291547	Agroqirax.NoWineBrowser		No Wine Browser	No Wine Browser	0.1.0	1.0.0.0	Harmony	2.4.1		
-3813587159	Kurt258.TheBarkimedesScrew	version-1.1	The Barkimedes Screw	The Barkimedes Screw	2.0.0	1.1.2.4				
+3813587159	Kurt258.TheBarkimedesScrew	version-1.1	The Barkimedes Screw	The Barkimedes Screw	2.1.0	1.1.2.4				
 3813842276	othermod.TeleporterStation		Teleporter Station	Teleporter Station	0.1.3	1.1.0.0				
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
@@ -2282,3 +2282,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3815025887	ModdedFactionsBuildingSupport	version-1.1	Modded Factions Building Support	Modded Factions Building Support	11.0.0	1.1.1			Lapantoufleagic.WhitepawsFaction	
 3815025887	ModdedFactionsBuildingSupport	version-1.1	Modded Factions Building Support	Modded Factions Building Support	11.0.0	1.1.1			LeafCoats	
 3815025887	ModdedFactionsBuildingSupport	version-1.1	Modded Factions Building Support	Modded Factions Building Support	11.0.0	1.1.1			Emberpelts	
+3815100125	Deepfurs		Deepfurs	Deepfurs	0.3.0	1.0.0.0	Harmony	2.4.1		
+3815376360	ConveyorBelt	version-1.1	Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1	ModdableTimberborn			
+3815376360	ConveyorBelt	version-1.1	Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1	ModdableToolGroups			
+3815376360	ConveyorBelt	version-1.1	Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1	eMka.ModSettings			
+3815376360	ConveyorBelt	version-1.1	Conveyor Belts v2	Conveyor Belts v2	11.3.0	1.1.1			ModdedFactionsBuildingSupport	
