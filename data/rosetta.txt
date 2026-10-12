@@ -1315,8 +1315,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3608113524	AllGoodsInWarehouses	version-1.0	All Goods In Warehouses	All Goods In Warehouses	10.1.0	0.7.0	ModdableTimberborn			
 3608113524	AllGoodsInWarehouses	version-0.7	All Goods In Warehouses	All Goods In Warehouses	10.0.0	0.7.0	ModdableTimberborn			
 3608973092	l9m2.EnduranceDifficulty		EnduranceDifficulty	Endurance Difficulty	0.1	1.0.2.0				
-3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.1	1.0.3.0			acalc79.HardcoreSettings	1.0.0
-3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.1	1.0.3.0			acalc79.AlternativeWeatherSystem	1.4.0
+3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.2	1.0.3.0			acalc79.HardcoreSettings	1.0.0
+3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.2	1.0.3.0			acalc79.AlternativeWeatherSystem	1.4.0
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	Harmony	0.6.0.0		
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	eMka.ModSettings			
 3609485646	tangbohu.jzlfzzl	version-1.0	建造栏分组整理(放最底下)	Grouping and organizing the construction column (placed at the bottom)	1.1.1.5	1.0.5				
@@ -1712,7 +1712,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3708402076	Calloatti.MapSizeTweaks	Version-1.1	Map Size Tweaks	Map Size Tweaks	1.0.3	1.1.2.4	Harmony			
 3708402076	Calloatti.MapSizeTweaks	Version-1.0	Map Size Tweaks	Map Size Tweaks	1.0.3	1.0.13.1	Harmony			
 3708758576	LongNames		Long Names	Long Names	0.0.1	0.6.0.0	Harmony	2.3.3		
-3709357808	Translation.BelarusianLanguage		Беларуская мова	Беларуская мова	1.1	1.1.0.0				
+3709357808	Translation.BelarusianLanguage		Беларуская мова	Беларуская мова	1.1.2.7.1	1.1.0.0				
 3709491773	RecultivatorPlantsTrees		Recultivator plants Trees	Recultivator plants Trees	1.0	1.0.0.0	Harmony			
 3710048403	MapFilter		Map Filter	Map Filter	1.0.0.0	1.0.0.0	Harmony			
 3710952757	DistroStorage	version-1.1	Distro Storages	Distro Storages	11.0.1	1.1.0	eMka.ModSettings			
@@ -1782,7 +1782,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3716259276	Daxisaurus.Timberborn.ConfigurableGameSpeeds		ConfigurableGameSpeeds	ConfigurableGameSpeeds	1.0.0.0	1.0.7.0	Harmony	2.4.1		
 3716753411	TonWolfe.MarketPlusPlus	version-1.0.13.0	Market++	Market++	1.0.1	1.0.13.0	TonWolfe.Market			
 3716896142	Daxisaurus.Timberborn.ColonyPlanner		Colony Planner	Colony Planner	1.0.3.0	1.0.7.0	Harmony	2.4.1		
-3717439271	FoodExpiration		Food Expiration	Food Expiration [ModContest1]	0.3.0	1.0.0	eMka.ModSettings	1.0.13.0		
+3717439271	FoodExpiration		Food Expiration	Food Expiration	0.3.1	1.1.0	eMka.ModSettings	1.1.1.0		
 3717481545	Aaron.HydratingSwim		Hydrating Swim [ModContest1]	Hydrating Swim [ModContest1]	1.0.3.0	1.0.0.0				
 3718022736	CustomDifficulty		Save Custom Difficulties [ModContest1]	Save Custom Difficulties [ModContest1]	1.0.0	0.0.0.0				
 3718140204	Aaron.ConfigurableTime		Configurable Time [ModContest1]	Configurable Time [ModContest1]	1.1.0.10	1.0.0.0	eMka.ModSettings			
@@ -2213,7 +2213,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
 3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.67	1.1.2.4				
-3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.3.0	1.0.0				
+3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.4.0	1.0.0				
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
 3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	ModdableToolGroups			
 3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	ModdableTimberborn	11.1.2		
@@ -2237,10 +2237,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3807732545	Sikstus.RisingSea	version-1.1	Highgnaw	Highgnaw Scenario	0.4.0	1.1.2.4				
 3807986512	Arthur.BeaverNameList		Beaver Name List	Beaver Name List	1.0.0	1.1.0.0				
 3808363949	Bedna.BuildQueueChange	version-1.1	Build Queue Change	Build Queue Change	0.1.9	1.1.0.0	Harmony	2.4.1		
-3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.7.1	1.0.0				
+3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.8.0	1.0.0				
 3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.76	1.1.2.4	ModdableToolGroups	10.4.0		
-3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.5.0	1.1.2.0	Harmony	2.4.1		
-3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.5.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
+3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.6.0	1.1.2.0	Harmony	2.4.1		
+3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.6.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
 3809124987	directional-power-shafts		Directional Power Shafts	Directional Power Shafts	0.1.4	1.1.2.4				
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0	Harmony	2.4.1		
 3809414743	Bedna.ForestMushrooms	version-1.1	Forest Mushrooms	Forest Mushrooms	0.1.15	1.1.0.0	eMka.ModSettings	1.1.1.0		
@@ -2292,3 +2292,4 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3816736545	Sooly890.InfinitePressure		Infinite Pressure	Infinite Pressure	1.0.0.0	1.1.0.0	Harmony			
 3817222285	BeaverController	version-1.1	Beaver Controller	Beaver Controller	11.0.0	1.1.1	TimberUi			
 3817383070	james.LongAirlock		Airlock Tunnels	Airlock Tunnels	1.0	1.0.0.0	ModdableToolGroups			
+3817814036	sirfyyn.M2Tuner		Mac Tuner – Apple Silicon Performance	Mac Tuner – Apple Silicon Performance	1.0.0	1.1.0.0				
