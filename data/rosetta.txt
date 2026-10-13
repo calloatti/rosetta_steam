@@ -2267,8 +2267,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.2	1.1.0.0	Harmony			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	Harmony			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	beaverbuddies			
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	Emberpelts	1.1.2.3		
 3814700131	CargoZiplines		Cargo Ziplines	Cargo Ziplines	1.0.1	1.1.0.0				
@@ -2293,3 +2296,15 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3817222285	BeaverController	version-1.1	Beaver Controller	Beaver Controller	11.0.0	1.1.1	TimberUi			
 3817383070	james.LongAirlock		Airlock Tunnels	Airlock Tunnels	1.0	1.0.0.0	ModdableToolGroups			
 3817814036	sirfyyn.M2Tuner		Mac Tuner – Apple Silicon Performance	Mac Tuner – Apple Silicon Performance	1.0.0	1.1.0.0				
+3818652893	Althim.SmallWaterTanksOnly		Truly Hard Mode	Truly Hard Mode	1.0.0	1.1.2.7				
+3818652964	Althim.DelayedNeedPenalties		Delayed Hunger & Thirst Penalties (60%)	Delayed Hunger & Thirst Penalties (60%)	1.0.0	1.1.2.7				
+3818830247	Empty.FtMixerRealCosts		FT Mixer real costs	FT Mixer real costs	0.1	1.0.0.0				
+3818832987	grantemsley.EmergencyPriority		Emergency Priority [ModContest1] - Timberborn 1.1 Standalone Compatibility	Emergency Priority [ModContest1] - Timberborn 1.1 Standalone Compatibility	1.1.0.0	1.1.0.0	Harmony	2.3.0		
+3818835058	Shay.RainbornAcidChanceCap		Rainborn Acid Chance Cap	Rainborn Acid Chance Cap	0.1.2	1.1.0.0	academicunwinds.Rainborn	0.2.0.4		
+3818835058	Shay.RainbornAcidChanceCap		Rainborn Acid Chance Cap	Rainborn Acid Chance Cap	0.1.2	1.1.0.0	eMka.ModSettings	1.0.7.0		
+3818835058	Shay.RainbornAcidChanceCap		Rainborn Acid Chance Cap	Rainborn Acid Chance Cap	0.1.2	1.1.0.0	Harmony	2.4.1.0		
+3818835326	tharbad08.Snerf		Science Nerf	Science Nerf	0.1	1.0.0.0				
+3818836146	tharbad08.unlockedsourcestrength		Source Strength Unlocker	Source Strength Unlocker	0.2	1.0.0.0				
+3818838437	T3MPPersonalAddon	version-1.1	T3MP Personal Companion (speed policy off + readout)	T3MP Personal Companion (speed policy off + readout)	0.1.0	1.1.2.0	Harmony	2.4.1		
+3818838437	T3MPPersonalAddon	version-1.1	T3MP Personal Companion (speed policy off + readout)	T3MP Personal Companion (speed policy off + readout)	0.1.0	1.1.2.0	T3MP	1.2.5		
+3818880753	Ubermammal.IrregularLodges		Irregular Lodges	Irregular Lodges	1.0.0.0	1.0.0.0				
