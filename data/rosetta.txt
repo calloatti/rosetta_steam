@@ -155,9 +155,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3282276626	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1			Emberpelts	
 3282276626	KnatteAnka.Path_extention	version-1.0.0	Path Extention	Path Extention	1.0.0.9	1.0.11.1			BobPlatforms	
 3282307053	villainous-j.beaverpower		Beaverpower	Beaverpower	1.2	0.6.0.0				
-3283819933	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	zxuiji -m- Greedy Builders	1.0.9.12	1.1.0.0	List-a-Mole	1.0.9.10		
-3283819933	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	zxuiji -m- Greedy Builders	1.0.9.12	1.1.0.0	Sate-a-Mole	1.0.9.12		
-3283819933	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	zxuiji -m- Greedy Builders	1.0.9.12	1.1.0.0	Wack-a-Mole	1.0.9.12		
+3283819933	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	zxuiji -m- Greedy Builders	1.0.9.15	1.1.0.0	XtraPlzNoCrashes	11.2.0		
+3283819933	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	zxuiji -m- Greedy Builders	1.0.9.15	1.1.0.0	Lapantouflemagic.TexturePack	1.3.0		
+3283819933	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	zxuiji -m- Greedy Builders	1.0.9.15	1.1.0.0	List-a-Mole	1.0.9.15		
+3283819933	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	zxuiji -m- Greedy Builders	1.0.9.15	1.1.0.0	Sate-a-Mole	1.0.9.15		
+3283819933	GreedyBuilders	version-1.0.8.1	zxuiji -m- Greedy Builders	zxuiji -m- Greedy Builders	1.0.9.15	1.1.0.0	Wack-a-Mole	1.0.9.15		
 3283831040	eMka.ModSettings	version-0.6	Mod Settings	Mod Settings	0.6.9.5	0.6.9.3				
 3283831040	eMka.ModSettings	version-1.1	Mod Settings	Mod Settings	1.1.1.0	1.1.1.0				
 3283831040	eMka.ModSettings	version-1.0	Mod Settings	Mod Settings	1.0.13.0	1.0.11.0				
@@ -1074,12 +1076,14 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3489071171	alin.pathember	version-0.7	BuildingPathforEmberpelts	BuildingPathforEmberpelts	7.0.0.0	0.7.0.0	Emberpelts			
 3489071171	alin.pathember	version-0.7	BuildingPathforEmberpelts	BuildingPathforEmberpelts	7.0.0.0	0.7.0.0	alin.path	7.0.0.0		
 3489685537	IronTeethMetalPaint		Iron Teeth Metal Paint	Iron Teeth Metal Paint	1.0	1.0.0.0				
-3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.12	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
-3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.12	1.0.12.0	TImprove4Ui	10.2.0		
-3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.12	1.0.12.0	Emberpelts	1.0.12.1		
-3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.12	1.0.12.0	List-a-Mole	1.0.9.10		
-3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.12	1.0.12.0	Sate-a-Mole	1.0.9.12		
-3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.12	1.0.12.0	Wack-a-Mole	1.0.9.12		
+3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.15	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
+3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.15	1.0.12.0	TImprove4Ui	10.2.0		
+3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.15	1.0.12.0	Emberpelts	1.0.12.1		
+3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3492602414	GreedyEmbers	version-1.0.8.1	zxuiji -m- Greedy Embers	zxuiji -m- Greedy Embers	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
 3493039008	ModdableWeather	version-0.7	Moddable Weather	Moddable Weather [U7 ✅]	7.1.3	0.7.0.0	Harmony			
 3493039008	ModdableWeather	version-0.7	Moddable Weather	Moddable Weather [U7 ✅]	7.1.3	0.7.0.0	eMka.ModSettings			
 3493039008	ModdableWeather	version-0.7	Moddable Weather	Moddable Weather [U7 ✅]	7.1.3	0.7.0.0	TimberUi			
@@ -1399,19 +1403,23 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3639961044	ModdableRecipes	version-1.1	Moddable Recipes	Moddable Recipes	11.0.0	1.1.1	TimberUi			
 3639961044	ModdableRecipes	version-1.0	Moddable Recipes	Moddable Recipes	10.0.2	1.0.0	Harmony			
 3639961044	ModdableRecipes	version-1.0	Moddable Recipes	Moddable Recipes	10.0.2	1.0.0	TimberUi			
-3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.10	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
-3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.10	1.0.12.0	TImprove4Ui	10.2.0		
-3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.10	1.0.12.0	LeafCoats	1.0.12.1		
-3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
-3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.13	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
-3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.13	1.0.12.0	TImprove4Ui	10.2.0		
-3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.13	1.0.12.0	Emberpelts	1.0.12.1		
-3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.13	1.0.12.0	LeafCoats	1.0.12.1		
-3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.13	1.0.12.0	List-a-Mole	1.0.9.10		
-3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.13	1.0.12.0	Sate-a-Mole	1.0.9.10		
-3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.13	1.0.12.0	Wack-a-Mole	1.0.9.10		
+3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.15	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
+3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.15	1.0.12.0	TImprove4Ui	10.2.0		
+3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.15	1.0.12.0	LeafCoats	1.0.12.1		
+3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3642611426	GreedyCoats	version-1.0.8.1	zxuiji -m- Greedy Coats	zxuiji -m- Greedy Coats	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
+3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.15	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
+3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.15	1.0.12.0	TImprove4Ui	10.2.0		
+3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.15	1.0.12.0	Emberpelts	1.0.12.1		
+3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.15	1.0.12.0	LeafCoats	1.0.12.1		
+3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3642611747	GreedyNation	version-1.0.8.1	zxuiji -m- Greedy Nation	zxuiji -m- Greedy Nation	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
 3642660958	ChillMode	version-1.0.8.1	zxuiji -m- Chill Mode	zxuiji -m- Chill Mode	1.0.8.60	1.0.12.0				
 3644471625	ModularPlatform	version-1.0.13.1	Modular Overhang [beta]	Modular Overhang [beta]	0.6	1.0.13.1	Harmony			
 3644477633	ConstructionNotifier	version-1.0	Construction Notifier	Construction Notifier	10.0.2	1.0.0	TimberUi			
@@ -1456,12 +1464,14 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3664330262	TemplateNameFixes	version-1.0.8.1	zxuiji -m- Template Name Fixes	zxuiji -m- Template Name Fixes	1.0.8.82	1.0.12.0	TNFCollections	1.0.8.60		
 3664388319	calloatti.storagetweaks	Version-1.1	Storage Tweaks	Storage Tweaks	2.1.3	1.1.2.4	Harmony			
 3664388319	calloatti.storagetweaks	version-1.0	Storage Tweaks	Storage Tweaks	2.1.3	1.0.13.1	Harmony			
-3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.12	1.0.12.0	Grauschweif.Scriptpack	1.1.1		
-3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.12	1.0.12.0	Lapantoufleagic.WhitepawsFaction	6.2.3		
-3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.12	1.0.12.0	TImprove4Ui	10.2.0		
-3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.12	1.0.12.0	List-a-Mole	1.0.9.10		
-3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.12	1.0.12.0	Sate-a-Mole	1.0.9.12		
-3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.12	1.0.12.0	Wack-a-Mole	1.0.9.12		
+3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.15	1.0.12.0	Grauschweif.Scriptpack	1.1.1		
+3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.15	1.0.12.0	Lapantoufleagic.WhitepawsFaction	6.2.3		
+3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.15	1.0.12.0	TImprove4Ui	10.2.0		
+3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3664822222	GreedyPaws	version-1.0.8.1	zxuiji -m- Greedy Paws	zxuiji -m- Greedy Paws	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
 3666421539	PowerZipline		Power Zipline	Power Zipline	1.2.0	1.0.0.0				
 3666643622	calloatti.syncmods	Version-1.0	Sync Mods	Sync Mods	2.1.0	1.0.12.5	Harmony			
 3667559269	BuildingBlueprints	version-1.1	Building Blueprints	Building Blueprints	11.0.1	1.1.0	ModdableTimberborn	11.0.0		
@@ -1721,38 +1731,48 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3710952757	DistroStorage	version-1.0	Distro Storages	Distro Storages	10.0.1	1.0.0	ModdableTimberborn			
 3712101149	AutoScaffold	version-1.1	AutoScaffold	AutoScaffold	1.1.0.1	1.1.0.0	Harmony			
 3712101149	AutoScaffold	version-1.0	AutoScaffold	AutoScaffold	1.0.0.6	1.0.0.0	Harmony			
-3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.10	1.0.12.0	TImprove4Ui	10.2.0		
-3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
-3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.10	1.0.12.0	XtraPlzNoCrashes	10.2.0		
-3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.10	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
-3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
-3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.10	1.0.12.0	Adaptors	1.0.9.10		
-3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
-3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.10	1.0.12.0	Adaptors	1.0.9.10		
-3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.10	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
-3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.10	1.0.12.0	Emberpelts	1.0.12.1		
-3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
-3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.10	1.0.12.0	Adaptors	1.0.9.10		
-3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.10	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
-3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.10	1.0.12.0	LeafCoats	1.0.12.1		
-3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
-3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.10	1.0.12.0	Adaptors	1.0.9.10		
-3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.10	1.0.12.0	Grauschweif.Scriptpack	1.1.1		
-3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.10	1.0.12.0	Lapantoufleagic.WhitepawsFaction	6.2.3		
-3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
-3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.10	1.0.12.0	Adaptors	1.0.9.10		
+3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.15	1.0.12.0	TImprove4Ui	10.2.0		
+3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
+3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
+3713116653	AdaptorsHaveFolktails	version-1.0.8.1	zxuiji -m- Adaptors Have Folktails (AD+FT)	zxuiji -m- Adaptors Have Folktails (AD+FT)	1.0.9.15	1.0.12.0	Adaptors	1.0.9.10		
+3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
+3713116857	AdaptorsHaveIronTeeth	version-1.0.8.1	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	zxuiji -m- Adaptors Have IronTeeth (AD+IT)	1.0.9.15	1.0.12.0	Adaptors	1.0.9.10		
+3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.15	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
+3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.15	1.0.12.0	Emberpelts	1.0.12.1		
+3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
+3713117055	AdaptorsHaveEmberpelts	version-1.0.8.1	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	zxuiji -m- Adaptors Have Emberpelts (AD+EP)	1.0.9.15	1.0.12.0	Adaptors	1.0.9.10		
+3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.15	1.0.12.0	BobingaboutScriptPack	1.0.10.3		
+3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.15	1.0.12.0	LeafCoats	1.0.12.1		
+3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
+3713117230	AdaptorsHaveLeafCoats	version-1.0.8.1	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	zxuiji -m- Adaptors Have LeafCoats (AD+LC)	1.0.9.15	1.0.12.0	Adaptors	1.0.9.10		
+3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.15	1.0.12.0	Grauschweif.Scriptpack	1.1.1		
+3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.15	1.0.12.0	Lapantoufleagic.WhitepawsFaction	6.2.3		
+3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.15	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
+3713117382	AdaptorsHaveWhitepaws	version-1.0.8.1	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	zxuiji -m- Adaptors Have Whitepaws (AD+WP)	1.0.9.15	1.0.12.0	Adaptors	1.0.9.10		
 3714134407	RadialToolbar	version-1.0	Radial Toolbar	Radial Toolbar [ModContest1]	10.0.1	1.0.0	eMka.ModSettings			
 3714134407	RadialToolbar	version-1.0	Radial Toolbar	Radial Toolbar [ModContest1]	10.0.1	1.0.0	TimberUi			
 3714134407	RadialToolbar	version-1.0	Radial Toolbar	Radial Toolbar [ModContest1]	10.0.1	1.0.0	ModdableToolGroups	10.5.0		
@@ -1870,13 +1890,15 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3727689284	Timberborn.QoL.GroupTools		Group Tools [ModContest1]	Group Tools [ModContest1]	1.1.1	1.0.0.0				
 3727845879	ZxuijiMeshes	version-1.0.8.1	Zxuiji's Meshes	Zxuiji's Meshes	1.0.12.00	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
 3727845879	ZxuijiMeshes	version-1.0.8.1	Zxuiji's Meshes	Zxuiji's Meshes	1.0.12.00	1.0.12.0	AppendVanillaMaterials	1.0.8.40		
-3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	Grauschweif.Scriptpack	1.1.1		
-3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	Lapantoufleagic.FrostyWhiskersFaction	0.0.1		
-3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	Mesh-a-Mole	1.0.9.10		
-3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	Sate-a-Mole	1.0.9.10		
-3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	Wack-a-Mole	1.0.9.10		
-3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.10	1.0.12.0	Adaptors	1.0.9.10		
+3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.16	1.0.12.0	Grauschweif.Scriptpack	1.1.1		
+3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.16	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.16	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.16	1.0.12.0	Lapantoufleagic.FrostyWhiskersFaction	0.0.1		
+3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.16	1.0.12.0	List-a-Mole	1.0.9.15		
+3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.16	1.0.12.0	Mesh-a-Mole	1.0.9.15		
+3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.16	1.0.12.0	Sate-a-Mole	1.0.9.15		
+3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.16	1.0.12.0	Wack-a-Mole	1.0.9.16		
+3727870722	AdaptorsHaveFrostyWhiskers	version-1.0.8.1	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	zxuiji -m- Adaptors Have FrostyWhiskers (AD+FW)	1.0.9.16	1.0.12.0	Adaptors	1.0.9.15		
 3728477109	M3NN1.DamnDamDegradation		Damn Dam Degradation [ModContest1]	Damn Dam Degradation [ModContest1]	1.1.2	1.1.0.0	eMka.ModSettings	1.0.11.0		
 3728571147	Timberborn.Mod.WalkableFloodGates		Walkable And Stackable FloodGates [ModContest1]	Walkable And Stackable FloodGates [ModContest1]	1.0.0.3	1.0.0.0				
 3728604166	ResourceTrend		ResourceTrend	ResourceTrend	1.1.0.1	1.0.0.0	Harmony			
@@ -2052,18 +2074,18 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3772031080	Aoernis.ChooChooCompatLeafCoats		Choo!Choo! - Leaf Coats Compatibility	[OBSOLETE] - Uninstall me - Choo!Choo! - Leaf Coats Compatibility	1.0.0	1.0.12.0	Aoernis.ChooChoo			
 3772031347	Aoernis.ChooChooCompatEmberpelts		Choo!Choo! - Emberpelts Compatibility	[OBSOLETE] - Uninstall me - Choo!Choo! - Emberpelts Compatibility	1.0.0	1.0.12.0	Emberpelts			
 3772031347	Aoernis.ChooChooCompatEmberpelts		Choo!Choo! - Emberpelts Compatibility	[OBSOLETE] - Uninstall me - Choo!Choo! - Emberpelts Compatibility	1.0.0	1.0.12.0	Aoernis.ChooChoo			
-3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.10	1.0.8.0	XtraPlzNoCrashes	10.2.0		
-3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.10	1.0.8.0	Lapantouflemagic.TexturePack	1.3.0		
-3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.10	1.0.8.0			Emberpelts	1.0.12.1
-3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.10	1.0.8.0			LeafCoats	1.0.12.1
-3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.10	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
-3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.10	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.10	1.0.8.0	XtraPlzNoCrashes	10.2.0		
-3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.10	1.0.8.0	Lapantouflemagic.TexturePack	1.3.0		
-3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.10	1.0.8.0			Emberpelts	
-3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.10	1.0.8.0			LeafCoats	
-3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.10	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
-3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.10	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.15	1.0.8.0	XtraPlzNoCrashes	11.2.0		
+3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.15	1.0.8.0	Lapantouflemagic.TexturePack	1.3.0		
+3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.15	1.0.8.0			Emberpelts	1.0.12.1
+3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.15	1.0.8.0			LeafCoats	1.0.12.1
+3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.15	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+3772037998	List-a-Mole	version-1.0.8	List a Mole	List a Mole	1.0.9.15	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.15	1.0.8.0	XtraPlzNoCrashes	11.2.0		
+3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.15	1.0.8.0	Lapantouflemagic.TexturePack	1.3.0		
+3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.15	1.0.8.0			Emberpelts	
+3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.15	1.0.8.0			LeafCoats	
+3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.15	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+3772037998	List-a-Mole	version-1.1	List a Mole	List a Mole	1.0.9.15	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 3772751248	EmberpeltsAmenitiesExtension	version-1.1	Emberpelts: Amenities Extension	Emberpelts: Amenities Extension	1.1.2.0	1.1.1.0	Emberpelts	1.1.1.0		
 3772751248	EmberpeltsAmenitiesExtension	version-1.1	Emberpelts: Amenities Extension	Emberpelts: Amenities Extension	1.1.2.0	1.1.1.0			BobingaboutBeaverFactionSplitNeeds	
 3772751248	EmberpeltsAmenitiesExtension	version-1.0	Emberpelts: Amenities Extension	Emberpelts: Amenities Extension	1.0.13.0	1.0.13.0	Emberpelts	1.0.12.0		
@@ -2088,23 +2110,23 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3775544925	sp1um.GoodTracing	version-1.1	Goods Tracing (v1.x Compatibility Fork)	Goods Tracing (v1.x Compatibility Fork)	1.5.0	1.1.0.0			Battery.Pantry	0.0.2.1
 3775544925	TheWarmaster.GoodsTracing	version-1.0	Goods Tracing (v1x Compatibility Fork)	Goods Tracing (v1.x Compatibility Fork)	1.0	1.0.0.0			Battery.Pantry	0.0.2.1
 3775554216	Fourpillars	version-1.1	Fourpillars	Fourpillars	11.0.1	1.1.1	ModdableTimberborn			
-3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.13	1.0.12.0	XtraPlzNoCrashes	10.2.0		
-3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.13	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
-3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.13	1.0.12.0	List-a-Mole	1.0.9.10		
-3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.13	1.0.12.0	Mesh-a-Mole	1.0.9.10		
-3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.13	1.0.12.0			Emberpelts	1.0.12.1
-3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.13	1.0.12.0			LeafCoats	1.0.12.1
-3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.13	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
-3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.13	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.12	1.0.8.0	XtraPlzNoCrashes	10.2.0		
-3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.12	1.0.8.0	Lapantouflemagic.TexturePack	1.3.0		
-3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.12	1.0.8.0	List-a-Mole	1.0.9.10		
-3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.12	1.0.8.0	Mesh-a-Mole	1.0.9.10		
-3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.12	1.0.8.0	Sate-a-Mole	1.0.9.10		
-3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.12	1.0.8.0			Emberpelts	1.0.12.1
-3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.12	1.0.8.0			LeafCoats	1.0.12.1
-3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.12	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
-3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.12	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0	Mesh-a-Mole	1.0.9.15		
+3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0			Emberpelts	1.0.12.1
+3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0			LeafCoats	1.0.12.1
+3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+3775564858	Sate-a-Mole	version-1.0.8.0	Sate-a-Mole	Sate-a-Mole	1.0.9.15	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0	XtraPlzNoCrashes	11.2.0		
+3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0	Lapantouflemagic.TexturePack	1.3.0		
+3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0	List-a-Mole	1.0.9.15		
+3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0	Mesh-a-Mole	1.0.9.15		
+3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0	Sate-a-Mole	1.0.9.15		
+3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0			Emberpelts	1.0.12.1
+3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0			LeafCoats	1.0.12.1
+3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+3775565425	Wack-a-Mole	version-1.0.8	Wack-a-Mole	Wack-a-Mole	1.0.9.16	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 3777224955	Calloatti.OmniFactionDevTool	Version-1.1	OmniFaction	OmniFaction	1.1.9	1.1.2.4	Harmony			
 3777224955	Calloatti.OmniFactionDevTool	Version-1.0	OmniFaction	OmniFaction	1.1.9	1.0.13.1	Harmony			
 3777308041	Calloatti.HoomanStairsBuildings	Version-1.1	Hooman Stairs Buildings	Hooman Stairs Buildings	1.0.2	1.1.2.4	Calloatti.HoomanStairs			
@@ -2113,16 +2135,18 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.1	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.2	1.1.2.4	Redic.NewStyles			
 3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.0	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.2	1.0.13.1	Calloatti.HoomanStairs			
 3777308440	Calloatti.HoomanStairsBuildingsNBS	Version-1.0	Hooman Stairs Buildings NBS	Hooman Stairs Buildings NBS	1.0.2	1.0.13.1	Redic.NewStyles			
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.10	1.0.12.0	XtraPlzNoCrashes	10.2.0		
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.10	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.10	1.0.12.0	List-a-Mole	1.0.9.10		
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.10	1.0.12.0			Emberpelts	1.0.12.1
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.10	1.0.12.0			LeafCoats	1.0.12.1
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
-3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.10	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.12	1.0.12.0	ModdableToolGroups	10.4.4		
-3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.12	1.0.12.0	List-a-Mole			
-3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.12	1.0.12.0	Wack-a-Mole			
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.15	1.0.12.0			Emberpelts	1.0.12.1
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.15	1.0.12.0			LeafCoats	1.0.12.1
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.15	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+3778165841	Mesh-a-Mole	version-1.0.8.1	Mesh-a-Mole	Mesh-a-Mole	1.0.9.15	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.15	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.15	1.0.12.0	ModdableToolGroups	10.4.4		
+3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.15	1.0.12.0	List-a-Mole	1.0.9.15		
+3778173639	Sort-a-Mole	version-1.0.8.1	Sort-a-Mole	Sort-a-Mole	1.0.9.15	1.0.12.0	Wack-a-Mole	1.0.9.15		
 3778381286	NikoFox.TreatedStairs		Cheap & Treated Stairs	Cheap & Treated Stairs	0.1.0	1.0.0.0				
 3779332547	ConstructionSiteHauler	version-1.1	Construction Site Hauler	Construction Site Hauler	11.0.2	1.1.1	ModdableTimberborn	11.1.0		
 3779772581	Calloatti.BreedingPodTweaks	Version-1.1	Breeding Pod Tweaks	Breeding Pod Tweaks	1.0.3	1.1.2.4	Harmony			
@@ -2164,15 +2188,15 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3792576302	Tyler.LaptopBatteryDisplay		Laptop Battery Display	Laptop Battery Display	1.0.0	1.0.13.1				
 3792652241	Empty.BadThings	version-1.1	Bad Things	Bad Things	1.0	1.1.0.0	Harmony	0.0.0.0		
 3792901409	TailsAndBanners.NettHier		Nett Hier. Aber waren Sie schon mal in Baden-Württemberg?	Nett Hier. Aber waren Sie schon mal in Baden-Württemberg?	0.1	1.0.0.0				
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	XtraPlzNoCrashes	10.2.0		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	Vertical Nav Mesh	1.0.4		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	List-a-Mole	1.0.9.10		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0	Mesh-a-Mole	1.0.9.10		
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0			Emberpelts	1.0.12.1
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0			LeafCoats	1.0.12.1
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
-3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.11	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.16	1.0.12.0	XtraPlzNoCrashes	11.2.0		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.16	1.0.12.0	Lapantouflemagic.TexturePack	1.3.0		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.16	1.0.12.0	Vertical Nav Mesh	1.0.4		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.16	1.0.12.0	List-a-Mole	1.0.9.15		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.16	1.0.12.0	Mesh-a-Mole	1.0.9.15		
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.16	1.0.12.0			Emberpelts	1.0.12.1
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.16	1.0.12.0			LeafCoats	1.0.12.1
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.16	1.0.12.0			Lapantoufleagic.WhitepawsFaction	6.2.3
+3792937372	Work-a-Mole	version-1.0.8.1	Work-a-Mole	Work-a-Mole	1.0.9.16	1.0.12.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
 3794340830	CraneHeads	version-1.1	Crane Heads	Crane Heads	11.0.0	1.1.1	Crane			
 3794340830	CraneHeads	version-1.1	Crane Heads	Crane Heads	11.0.0	1.1.1	ModdableToolGroups			
 3794581307	FolktailsPlus	version-1.1	Folktails+	Folktails+	11.0.0	1.1.1	XtraPlzNoCrashes			
@@ -2263,15 +2287,15 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.3	1.1.2.4	TimberUi	11.0.1		
 3813291547	Agroqirax.NoWineBrowser		No Wine Browser	No Wine Browser	0.1.0	1.0.0.0	Harmony	2.4.1		
 3813587159	Kurt258.TheBarkimedesScrew	version-1.1	The Barkimedes Screw	The Barkimedes Screw	2.1.0	1.1.2.4				
-3813842276	othermod.TeleporterStation		Teleporter Station	Teleporter Station	0.3.0	1.1.0.0				
+3813842276	othermod.TeleporterStation		Teleporter Station	Wormhole and Ring Teleporter Stations	0.4.0	1.1.0.0				
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
 3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.2	1.1.0.0	Harmony			
 3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.4.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	Harmony			
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.2	1.1.0.0	beaverbuddies			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.3	1.1.0.0	Harmony			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.3	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.4.3	1.1.0.0	beaverbuddies			
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	Emberpelts	1.1.2.3		
 3814700131	CargoZiplines		Cargo Ziplines	Cargo Ziplines	1.0.1	1.1.0.0				
@@ -2308,3 +2332,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3818838437	T3MPPersonalAddon	version-1.1	T3MP Personal Companion (speed policy off + readout)	T3MP Personal Companion (speed policy off + readout)	0.1.0	1.1.2.0	Harmony	2.4.1		
 3818838437	T3MPPersonalAddon	version-1.1	T3MP Personal Companion (speed policy off + readout)	T3MP Personal Companion (speed policy off + readout)	0.1.0	1.1.2.0	T3MP	1.2.5		
 3818880753	Ubermammal.IrregularLodges		Irregular Lodges	Irregular Lodges	1.0.0.0	1.0.0.0				
+3819263389	WindTurbineBatteryIncluded	version-1.1	Wind Turbines: Battery Included	Wind Turbines: Battery Included	11.0.0	1.1.1	Harmony			
+3819263389	WindTurbineBatteryIncluded	version-1.1	Wind Turbines: Battery Included	Wind Turbines: Battery Included	11.0.0	1.1.1	TimberUi			
+3819263389	WindTurbineBatteryIncluded	version-1.1	Wind Turbines: Battery Included	Wind Turbines: Battery Included	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
+3819348840	tharbad08.TBDoctor	version-1.1	Demolition Job Doctor	Demolition Job Doctor	0.1.1.0	1.1.0.0	Harmony	2.3.3		
