@@ -2222,7 +2222,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3800089742	CaseBacon.SupplyAlert		Supply Alert	Supply Alert	1.0.0.0	1.1.2.0	eMka.ModSettings	1.0.6.0		
 3800259076	SpeedChangeByHaze		Speed Change By Haze	Speed Change By Haze	1.0.0.0	1.1.0.0				
 3801036916	northforge.solarpanel	version-1.0	Northforge - Solar Panel	Northforge - Solar Panel	1.0.2	1.1.0.0			northforge.core	
-3801236270	Local.WorkplacePriorityManager		Workplace Priority Manager	Workplace Priority Manager	1.0.0	1.0.0.0				
+3801236270	Local.WorkplacePriorityManager		Workplace Priority Manager	Workplace Priority Manager	1.1.0	1.0.0.0				
 3801376937	LadderJsonMod	version-1.0	Ladder JSON Mod	Ladder JSON Mod	1.0.0.2	1.0.0.0	Tobbert.Ladder	1.0.0.1		
 3801376937	LadderJsonMod	version-0.7	Ladder JSON Mod	Ladder JSON Mod	7.0.0	0.7.0.0	Tobbert.Ladder	3.0.5		
 3801376937	LadderJsonMod	version-0.7	Ladder JSON Mod	Ladder JSON Mod	7.0.0	0.7.0.0	ModdablePrefab	7.2.0		
@@ -2294,9 +2294,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
 3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.5.2	1.1.0.0	Harmony			
 3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.5.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.5.2	1.1.0.0	Harmony			
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.5.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.5.2	1.1.0.0	beaverbuddies			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.5.5	1.1.0.0	Harmony			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.5.5	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	0.5.5	1.1.0.0	beaverbuddies			
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	Emberpelts	1.1.2.3		
 3814700131	CargoZiplines		Cargo Ziplines	Cargo Ziplines	1.0.1	1.1.0.0				
@@ -2337,3 +2337,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3819263389	WindTurbineBatteryIncluded	version-1.1	Wind Turbines: Battery Included	Wind Turbines: Battery Included	11.0.0	1.1.1	TimberUi			
 3819263389	WindTurbineBatteryIncluded	version-1.1	Wind Turbines: Battery Included	Wind Turbines: Battery Included	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
 3819348840	tharbad08.TBDoctor	version-1.1	Demolition Job Doctor	Demolition Job Doctor	0.1.1.0	1.1.0.0	Harmony	2.3.3		
+3820162363	modUploader	version-1.1	Mod Uploader	Mod Uploader	0.1.0	1.1.0.0	Harmony			
+3820360472	Ben.Waterworks		Self-Filling Ponds	Self-Filling Ponds	1.0.0	1.1.0.0	eMka.ModSettings			
+3820401998	eMka.ModSettings	version-0.6	Mod Settings	Mod Settings	0.6.9.5	0.6.9.3				
+3820401998	eMka.ModSettings	version-1.1	Mod Settings	Mod Settings	1.1.1.0	1.1.1.0				
+3820401998	eMka.ModSettings	version-1.0	Mod Settings	Mod Settings	1.0.13.0	1.0.11.0				
+3820401998	eMka.ModSettings	version-0.7	Mod Settings	Mod Settings	0.7.10.0	0.7.2.0				
