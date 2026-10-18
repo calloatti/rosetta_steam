@@ -306,6 +306,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3297796618	Timberborn.Editor.ExtendedTerrainTools	version-1.0.13.1	Extra Terrain Tools	Extra Terrain Tools	1.0.1.1	0.6.0.0				
 3297796618	Timberborn.Editor.ExtendedTerrainTools	version-1.1.0.1	Extra Terrain Tools	Extra Terrain Tools	1.1.0.1	0.6.0.0				
 3297796618	Timberborn.Editor.ExtendedTerrainTools	version-0.7.9.3	Extra Terrain Tools	Extra Terrain Tools	0.9.3	0.6.0.0				
+3297796618	Timberborn.Editor.ExtendedTerrainTools	version-1.1.2.7	Extra Terrain Tools	Extra Terrain Tools	1.1.2.7	0.6.0.0				
 3297796618	Timberborn.Editor.ExtendedTerrainTools	version-1.0.12.8	Extra Terrain Tools	Extra Terrain Tools	1.0.1.1	0.6.0.0				
 3297796618	Timberborn.Editor.ExtendedTerrainTools	version-1.1.2.1	Extra Terrain Tools	Extra Terrain Tools	1.1.2.1	0.6.0.0				
 3297796618	Timberborn.Editor.ExtendedTerrainTools	version-0.7.10.13	Extra Terrain Tools	Extra Terrain Tools	0.9.5	0.6.0.0				
@@ -465,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.4	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.160	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.170	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -2053,10 +2054,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3764852972	UnstableCoreChallenge	version-1.0	Unstable Core Challenge	Unstable Core Challenge	10.0.0	1.0.0	ModdableTimberborn			
 3764926973	BruceTheLoon.ForestPath	version-1.1	Forest Path	Forest Path	1.0.1.1	1.1.0.0			grauschweif.crappyrope	
 3764926973	BruceTheLoon.ForestPath	version-1.0	Forest Path	Forest Path	1.0.1.1	1.0.6.0			grauschweif.crappyrope	
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.3.0	1.1.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.3.0	1.1.0.0	TimberUi	11.0.1		
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.3.0	1.0.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.3.0	1.0.0.0	TimberUi	10.1.6		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.4.1	1.1.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.4.1	1.1.0.0	TimberUi	11.0.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.4.1	1.0.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.4.1	1.0.0.0	TimberUi	10.1.6		
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.1	1.1.1	TimberUi			
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.1	1.1.1	Harmony			
 3767230586	ExampleBuilding.WaterFilter		Water Filter	Water Filter	0.2	1.1.0.0				
@@ -2320,7 +2321,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3816736545	Sooly890.InfinitePressure		Infinite Pressure	Infinite Pressure	1.0.0.0	1.1.0.0	Harmony			
 3817222285	BeaverController	version-1.1	Beaver Controller	Beaver Controller	11.0.0	1.1.1	TimberUi			
 3817383070	james.LongAirlock		Airlock Tunnels	Airlock Tunnels	1.0	1.0.0.0	ModdableToolGroups			
-3817814036	sirfyyn.M2Tuner		Mac Tuner – Apple Silicon Performance	Mac Tuner – Apple Silicon Performance	1.0.0	1.1.0.0				
+3817814036	sirfyyn.M2Tuner		Mac Tuner – Apple Silicon Performance	Mac Tuner – Apple Silicon Performance	1.1.0	1.1.0.0				
 3818652893	Althim.SmallWaterTanksOnly		Truly Hard Mode	Truly Hard Mode	1.0.0	1.1.2.7				
 3818652964	Althim.DelayedNeedPenalties		Delayed Hunger & Thirst Penalties (60%)	Delayed Hunger & Thirst Penalties (60%)	1.0.0	1.1.2.7				
 3818830247	Empty.FtMixerRealCosts		FT Mixer real costs	FT Mixer real costs	0.1	1.0.0.0				
@@ -2344,3 +2345,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3820401998	eMka.ModSettings	version-1.0	Mod Settings	Mod Settings	1.0.13.0	1.0.11.0				
 3820401998	eMka.ModSettings	version-0.7	Mod Settings	Mod Settings	0.7.10.0	0.7.2.0				
 3820769376	Jurkowski.MadeItAteIt		Made It, Ate It	Made It, Ate It	1.0.0	1.1.0.0				
+3821518592	de.schopfritz.advancedpumps		Advanced Transport System	Advanced Transport System	1.5.6	1.1.2.4				
+3821524225	acalc79.TimeInMapEditor		Time in Map Editor	Time in Map Editor	0.1.5	1.1.2.0	Harmony	2.4.1		
+3821598148	Sans.BiggerMap	version-1.1	Sans Bigger Map	Sans Bigger Map	0.6.0	1.1.0.0	Harmony	2.4.1		
