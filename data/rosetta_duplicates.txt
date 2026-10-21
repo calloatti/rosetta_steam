@@ -13,12 +13,12 @@ PublishedFileID	Id	Creator	Title
 3805047229	DecoMore	76561198009138965	DecoMore 1.1 fixed
 3597214931	DirtJsonMod	76561198029730516	Dirt JSON Mod
 3801382976	DirtJsonMod	76561198029730516	Dirt JSON Mod
-3283831040	eMka.ModSettings	76561198004791523	Mod Settings
-3820401998	eMka.ModSettings	76561198078189900	Mod Settings
 3729325910	grantemsley.EmergencyPriority	76561197985850965	Emergency Priority [ModContest1]
 3818832987	grantemsley.EmergencyPriority	76561198335480794	Emergency Priority [ModContest1] - Timberborn 1.1 Standalone Compatibility
 3283819933	GreedyBuilders	76561198258895594	zxuiji -m- Greedy Builders
 3617839503	GreedyBuilders	76561198834211160	Greedy Builders
+3487241285	Hospital	76561198010623560	Hospital [U7 ✅]
+3822318165	Hospital	76561198849018061	Field Hospital
 3687427127	Kurt258.TheBarkimedesScrew	76561198064664515	The Barkimedes Screw (Outdated Version/Pre-1.0)
 3813587159	Kurt258.TheBarkimedesScrew	76561198153278292	The Barkimedes Screw
 3597923933	LadderJsonMod	76561198029730516	Ladder JSON Mod
