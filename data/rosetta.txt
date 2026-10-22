@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.200	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.210	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.6	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	3.0.3	0.6.5.0	KnatteAnka.damdecoration	0.3.0.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.6	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	3.0.3	0.6.5.0	KnatteAnka.Materials	1.0.2		
@@ -803,8 +803,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3451399457	NoBuildRestriction	version-0.7	No Build Restriction	No Build Restriction	7.4.1	0.7.0.0	Harmony			
 3452443425	RealLights	version-1.0	Configurable & Moddable Lights	Configurable & Moddable Lights	10.0.2	1.0.0	TimberUi			
 3452443425	RealLights	version-1.0	Configurable & Moddable Lights	Configurable & Moddable Lights	10.0.2	1.0.0	eMka.ModSettings			
-3452443425	RealLights	version-1.1	Configurable & Moddable Lights	Configurable & Moddable Lights	11.0.0	1.1.0	TimberUi			
-3452443425	RealLights	version-1.1	Configurable & Moddable Lights	Configurable & Moddable Lights	11.0.0	1.1.0	eMka.ModSettings			
+3452443425	RealLights	version-1.1	Configurable & Moddable Lights	Configurable & Moddable Lights	11.0.1	1.1.1	TimberUi			
+3452443425	RealLights	version-1.1	Configurable & Moddable Lights	Configurable & Moddable Lights	11.0.1	1.1.1	eMka.ModSettings			
 3452443425	RealLights	version-0.7	Configurable & Moddable Lights	Configurable & Moddable Lights	7.3.0	0.7.0.0	TimberUi			
 3455624260	EmberpeltsFoodExtension	version-1.0	Emberpelts: Food Extension	Emberpelts: Food Extension	1.0.10.0	1.0.7.0	Emberpelts	1.0.7.0		
 3455624260	EmberpeltsFoodExtension	version-1.0	Emberpelts: Food Extension	Emberpelts: Food Extension	1.0.10.0	1.0.7.0			BobingaboutBeaverFactionSplitNeeds	1.0.0.0
@@ -2300,11 +2300,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.8.1	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.8.1	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.10.0	1.1.0.0	Harmony			
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.10.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.10.0	1.1.0.0	beaverbuddies			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.8.3	1.1.0.0	Harmony			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.8.3	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.12.1	1.1.0.0	Harmony			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.12.1	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.12.1	1.1.0.0	beaverbuddies			
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	Emberpelts	1.1.2.3		
 3814700131	CargoZiplines		Cargo Ziplines	Cargo Ziplines	1.0.1	1.1.0.0				
@@ -2348,12 +2348,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3820162363	modUploader	version-1.1	Mod Uploader	Mod Uploader	0.1.0	1.1.0.0	Harmony			
 3820360472	Ben.Waterworks		Self-Filling Ponds	Self-Filling Ponds	1.0.1	1.1.0.0	eMka.ModSettings			
 3820769376	Jurkowski.MadeItAteIt		Made It, Ate It	Made It, Ate It	1.0.0	1.1.0.0				
-3821518592	de.schopfritz.advancedpumps		Advanced Transport System	Advanced Transport System	1.5.12	1.1.2.4				
+3821518592	de.schopfritz.advancedpumps		Advanced Transport System	Advanced Transport System	1.5.15	1.1.2.4				
 3821598148	Sans.BiggerMap	version-1.1	Sans Bigger Map	Sans Bigger Map	0.6.0	1.1.0.0	Harmony	2.4.1		
-3821969740	ChooChooModified	version-1.0	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit	1.4.0	1.0.0.0	Harmony	2.4.1		
-3821969740	ChooChooModified	version-1.0	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit	1.4.0	1.0.0.0	TimberUi	10.1.6		
-3821969740	ChooChooModified	version-1.1	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit	1.4.0	1.1.0.0	Harmony	2.4.1		
-3821969740	ChooChooModified	version-1.1	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit	1.4.0	1.1.0.0	TimberUi	11.0.1		
+3821969740	ChooChooModified	version-1.0	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.0.0.0	Harmony	2.4.1		
+3821969740	ChooChooModified	version-1.0	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.0.0.0	TimberUi	10.1.6		
+3821969740	ChooChooModified	version-1.1	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.1.0.0	Harmony	2.4.1		
+3821969740	ChooChooModified	version-1.1	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.1.0.0	TimberUi	11.0.1		
 3822219277	acalc79.TimeInMapEditor		Time in Map Editor	Time in Map Editor	0.1.5	1.1.2.0	Harmony	2.4.1		
 3822220938	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.6	1.1.2.0	Harmony	2.4.1		
 3822220938	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.6	1.1.2.0	acalc79.TimeInMapEditor	0.1.5		
@@ -2392,7 +2392,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3822621228	List-a-Mole-Versioned	version-1.0.8.1	List a Mole (Versioned)	List a Mole (Versioned)	1.0.9.16	1.0.8.0			LeafCoats	1.0.12.1
 3822621228	List-a-Mole-Versioned	version-1.0.8.1	List a Mole (Versioned)	List a Mole (Versioned)	1.0.9.16	1.0.8.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 3822621228	List-a-Mole-Versioned	version-1.0.8.1	List a Mole (Versioned)	List a Mole (Versioned)	1.0.9.16	1.0.8.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! Smart Marker	1.0.0	1.1.0.0	Harmony	2.4.1		
-3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! Smart Marker	1.0.0	1.1.0.0	Aoernis.ChooChoo	1.4.1		
-3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	Tree Harvest Byproduct	1.1.0	1.1.0.0	Harmony	2.4.1		
-3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	Tree Harvest Byproduct	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
+3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! 智能自动划线笔	1.0.0	1.1.0.0	Harmony	2.4.1		
+3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! 智能自动划线笔	1.0.0	1.1.0.0	Aoernis.ChooChoo	1.4.1		
+3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	Harmony	2.4.1		
+3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.20	1.1.2.4	ModdableToolGroups	10.4.0		
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.20	1.1.2.4	Harmony			
+3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人耐久模式 / Bot Deterioration Modes	1.1.0	1.1.0.0	Harmony	2.4.1		
+3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人耐久模式 / Bot Deterioration Modes	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
