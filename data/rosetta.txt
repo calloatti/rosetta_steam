@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.220	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.230	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -2285,8 +2285,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3810963391	Timberborn.Mod.AdvancedMedicine		Advanced Medicine	Advanced Medicine (Folktails only)	1.0.5.0	1.0.0.0				
 3811486769	Ben.TinyZiplineStation		Tiny Zipline Station	Tiny Zipline Station	1.2.0	1.1.0.0				
 3811846422	DarkLord7854.DynamiteDepth		Dynamite Depth View	Dynamite Depth View	1.0.1	1.1.2.4				
-3812024126	ZoomOutSounds	version-1.1	Zoom Out Sounds	Zoom Out Sounds	0.3.0	1.1.2.4	Harmony			
-3812024126	ZoomOutSounds	version-1.1	Zoom Out Sounds	Zoom Out Sounds	0.3.0	1.1.2.4	eMka.ModSettings			
+3812024126	ZoomOutSounds	version-1.1	Zoom Out Sounds	Zoom Out Sounds	0.4.0	1.1.2.4	Harmony			
+3812024126	ZoomOutSounds	version-1.1	Zoom Out Sounds	Zoom Out Sounds	0.4.0	1.1.2.4	eMka.ModSettings			
 3812083734	DailyNet	version-1.1	Daily Net	Daily Net	0.1.0	1.1.0.0	Harmony			
 3812084877	MoistureOnlyPlanting	version-1.1	Moisture-Only Planting	Moisture-Only Planting	0.2.0	1.1.0.0	Harmony			
 3812997658	ClearHaulPriority	version-1.1	Clear Haul Priority	Clear Haul Priority	0.3.1	1.1.0.0	Harmony			
@@ -2300,11 +2300,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.8.4	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.8.4	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.13.3	1.1.0.0	Harmony			
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.13.3	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.13.3	1.1.0.0	beaverbuddies			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.2	1.1.0.0	Harmony			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.2	1.1.0.0	gamemodes	1.1.0-1.3.0		
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.14.0	1.1.0.0	Harmony			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.14.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.14.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.14.0	1.1.0.0	beaverbuddies			
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	Emberpelts	1.1.2.3		
 3814700131	CargoZiplines		Cargo Ziplines	Cargo Ziplines	1.0.1	1.1.0.0				
@@ -2347,7 +2349,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3819348840	tharbad08.TBDoctor	version-1.1	Demolition Job Doctor	Demolition Job Doctor	0.1.1.0	1.1.0.0	Harmony	2.3.3		
 3820162363	modUploader	version-1.1	Mod Uploader	Mod Uploader	0.1.0	1.1.0.0	Harmony			
 3820360472	Ben.Waterworks		Self-Filling Ponds	Self-Filling Ponds	1.0.1	1.1.0.0	eMka.ModSettings			
+3820661811	Tidetails		Eromrab's Tidetails	Eromrab's Tidetails	0.1.0	1.1.0.0	Harmony	2.4.0		
+3820661811	Tidetails		Eromrab's Tidetails	Eromrab's Tidetails	0.1.0	1.1.0.0	BadwaterRush	0.1.0		
+3820661811	Tidetails		Eromrab's Tidetails	Eromrab's Tidetails	0.1.0	1.1.0.0	Wetlands	0.1.0		
+3820661811	Tidetails		Eromrab's Tidetails	Eromrab's Tidetails	0.1.0	1.1.0.0	WaterOpacityControl	0.1.0		
+3820662248	BadwaterRush		Eromrab's Badwater Rush	Eromrab's Badwater Rush	0.1.0	1.1.0.0	Harmony	2.4.0		
 3820769376	Jurkowski.MadeItAteIt		Made It, Ate It	Made It, Ate It	1.1.0	1.1.0.0				
+3821327847	Wetlands		Eromrab's Wetlands	Eromrab's Wetlands	0.1.0	1.1.0.0	Harmony	2.4.0		
 3821518592	de.schopfritz.advancedpumps		Advanced Transport System	Advanced Transport System	1.5.15	1.1.2.4				
 3821598148	Sans.BiggerMap	version-1.1	Sans Bigger Map	Sans Bigger Map	0.6.0	1.1.0.0	Harmony	2.4.1		
 3821969740	ChooChooModified	version-1.1	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.1.0.0	Harmony	2.4.1		
@@ -2396,9 +2404,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! 智能自动划线笔	1.0.0	1.1.0.0	Aoernis.ChooChoo	1.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	Harmony	2.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
-3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.20	1.1.2.4	ModdableToolGroups	10.4.0		
-3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.20	1.1.2.4	Harmony			
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.21	1.1.2.4	ModdableToolGroups	10.4.0		
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.21	1.1.2.4	Harmony			
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	Harmony	2.4.1		
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
 3824497958	Jelitko.DamItStinks		Dam It Stinks	Dam It Stinks [BETA]	0.9.8	1.1.0.0				
 3824582890	Azzurite.TankRebalance		Tank Rebalance	Tank Rebalance	1.0.0	1.1.0.0				
+3824971331	WaterOpacityControl		Eromrab's Water Opacity	Eromrab's Water Opacity	0.1.0	1.1.0.0	Harmony	2.4.0		
+3825079306	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.3.0	1.1.0.0	Harmony			
+3825089007	Mnage.LevelPlatforms		Level Platforms	Level Platforms	0.4.1	1.1.2.8	Harmony	2.4.1		
