@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.240	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.250	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -2245,7 +2245,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3802290246	TailsAndBanners.ScarsAndInjuryTailDecals		Scars and Injury Tail Decals	Scars and Injury Tail Decals	0.2	1.0.0.0				
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
-3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.67	1.1.2.4				
+3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.68	1.1.2.4				
 3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.4.0	1.0.0				
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
 3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	ModdableToolGroups			
@@ -2255,7 +2255,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3805047229	DecoMore		DecoMore 1.1 fixed	DecoMore 1.1 fixed	1.0.0.0	1.0.0.0				
 3805229613	Kanzey.ToolbarHotkey		Toolbar Hotkey	Toolbar Hotkey	0.1	1.1.0.0				
 3805529675	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.16	1.1.2.4	grauschweif.materials	2.3.2		
-3805903521	Walky.FolktailsPlus		Folktails+	Folktails+	0.32	1.1.0.0				
+3805903521	Walky.FolktailsPlus		Folktails+	Folktails+	0.33	1.1.0.0				
 3806336107	Calloatti.FlatBanner	Version-1.1	Flat Banner	Flat Banner	1.0.2	1.1.2.4	Harmony			
 3806336107	Calloatti.FlatBanner	version-1.1	Flat Banner	Flat Banner	1.0.4	1.1.2.4	Harmony			
 3806673431	TailsAndBanners.MessyTailsCorePack		Messy Tails Core Pack	Messy Tails Core Pack	0.1	1.0.0.0				
@@ -2290,13 +2290,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3812083734	DailyNet	version-1.1	Daily Net	Daily Net	0.1.0	1.1.0.0	Harmony			
 3812084877	MoistureOnlyPlanting	version-1.1	Moisture-Only Planting	Moisture-Only Planting	0.2.0	1.1.0.0	Harmony			
 3812997658	ClearHaulPriority	version-1.1	Clear Haul Priority	Clear Haul Priority	0.3.1	1.1.0.0	Harmony			
-3813243721	Barbara.TimberLoop		TimberLoop	TimberLoop	1.0.11	1.1.2.4				
+3813243721	Barbara.TimberLoop		TimberLoop	TimberLoop	1.0.15	1.1.2.4				
 3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.22	1.1.2.4	ModdableTimberborn	11.1.2		
 3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.22	1.1.2.4	Harmony			
 3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.22	1.1.2.4	TimberUi	11.0.1		
 3813291547	Agroqirax.NoWineBrowser		No Wine Browser	No Wine Browser	0.1.0	1.0.0.0	Harmony	2.4.1		
 3813587159	Kurt258.TheBarkimedesScrew	version-1.1	The Barkimedes Screw	The Barkimedes Screw	2.1.0	1.1.2.4				
-3813842276	othermod.TeleporterStation		Teleporter Station	Wormhole and Ring Teleporter Stations	0.4.0	1.1.0.0				
+3813842276	othermod.TeleporterStation		Teleporter Station	Teleporter Station	0.5.0	1.1.0.0				
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
@@ -2400,8 +2400,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3822621228	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List a Mole (Versioned)	1.0.9.16	1.1.0.0			LeafCoats	
 3822621228	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List a Mole (Versioned)	1.0.9.16	1.1.0.0			Lapantoufleagic.WhitepawsFaction	6.2.3
 3822621228	List-a-Mole-Versioned	version-1.1	List a Mole (Versioned)	List a Mole (Versioned)	1.0.9.16	1.1.0.0			Lapantoufleagic.FrostyWhiskersFaction	0.0.1
-3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! 智能自动划线笔	1.0.0	1.1.0.0	Harmony	2.4.1		
-3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! 智能自动划线笔	1.0.0	1.1.0.0	Aoernis.ChooChoo	1.4.1		
+3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! Smart Marker	1.1.4	1.1.0.0	Harmony	2.4.1		
+3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! Smart Marker	1.1.4	1.1.0.0	Aoernis.ChooChoo	1.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	Harmony	2.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
 3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.22	1.1.2.4	ModdableToolGroups	10.4.0		
@@ -2413,5 +2413,5 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3824971331	WaterOpacityControl		Eromrab's Water Opacity	Eromrab's Water Opacity	0.1.0	1.1.0.0	Harmony	2.4.0		
 3825079306	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.3.0	1.1.0.0	Harmony			
 3825089007	Mnage.LevelPlatforms		Level Platforms	Level Platforms	0.4.1	1.1.2.8	Harmony	2.4.1		
-3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages(BETA)	1.0.0	1.1.0.0	Harmony	2.4.1		
-3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages(BETA)	1.0.0	1.1.0.0	Aoernis.ChooChoo	1.4.2		
+3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages 客车追加版 (BETA)	1.4.12	1.1.0.0	Harmony	2.4.1		
+3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages 客车追加版 (BETA)	1.4.12	1.1.0.0	Aoernis.ChooChoo	1.4.2		
