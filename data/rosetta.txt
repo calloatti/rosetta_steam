@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0	BobingaboutScriptPack	1.0.10.0		
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.250	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.260	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -990,6 +990,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3473828687	argargablar.TimberLapse	version-1.0.12.3	TimberLapse	TimberLapse	1.0.12.0	1.0.12.3	TimberApi.UIBuilder	1.0.2.0		
 3473828687	argargablar.TimberLapse	version-1.1.1	TimberLapse	TimberLapse	1.1.1.0	1.1.1.0	eMka.ModSettings	1.1.0.0		
 3473828687	argargablar.TimberLapse	version-1.1.1	TimberLapse	TimberLapse	1.1.1.0	1.1.1.0	TimberApi.UIBuilder	1.0.2.3		
+3473828687	argargablar.TimberLapse	version-1.1.2.8	TimberLapse	TimberLapse	1.1.2.0	1.1.2.8	eMka.ModSettings	1.1.1.0		
+3473828687	argargablar.TimberLapse	version-1.1.2.8	TimberLapse	TimberLapse	1.1.2.0	1.1.2.8	TimberApi.UIBuilder	1.0.2.3		
 3473828687	argargablar.TimberLapse	version-0.7	TimberLapse	TimberLapse	0.7.9.0	0.7.8.0	eMka.ModSettings	0.7.2.0		
 3473828687	argargablar.TimberLapse	version-0.7	TimberLapse	TimberLapse	0.7.9.0	0.7.8.0	TimberApi.UIBuilder	1.0.2.0		
 3474902245	BotBlocks	version-1.0.8.1	zxuiji -m- BotBlocks	zxuiji -m- BotBlocks	1.0.8.60	1.0.12.0	AppendVanillaMaterials			
@@ -1931,7 +1933,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3729358375	DecoMoreBlocks		DecoMore Blocks	DecoMore Blocks	1.0.0.0	1.0.0.0				
 3729748091	Cholleville.Casthorde		Casthorde [ModContest1]	Casthorde [ModContest1]	1.2.14	1.0.0.0	Harmony	2.4.1		
 3729812371	mattuu.BuildingPicker		Building Picker	Building Picker/Remover [ModContest1]	1.1.0	1.0.12.0				
-3729820912	andrumods.raincloudsimulation		Raining Cloud Simulation [ModContest1]	Raining Cloud Simulation	1.0.4.3	1.1.0.0				
+3729820912	andrumods.raincloudsimulation		Raining Cloud Simulation [ModContest1]	Raining Cloud Simulation	1.0.5.3	1.1.0.0				
 3729821207	mattuu.SmartProductionControl		Smart Production Control [ModContest1]	Smart Production Control [ModContest1]	1.1.0	1.0.12.0				
 3729922508	Blight.remoiry		Blight	Blight	2026.05.18	1.0.0.0	Harmony	0.0.0.0		
 3729922508	Blight.remoiry		Blight	Blight	2026.05.18	1.0.0.0	eMka.ModSettings	0.0.0.0		
@@ -2300,13 +2302,14 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.2	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.2	1.1.0.0	gamemodes	1.1.0-1.3.0		
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.14.2	1.1.0.0	Harmony			
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.14.2	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.14.2	1.1.0.0	gamemodes	1.1.0-1.3.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.14.2	1.1.0.0	beaverbuddies			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.4	1.1.0.0	Harmony			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.4	1.1.0.0	gamemodes	1.1.0-1.3.0		
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.4	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	Harmony			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	beaverbuddies			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0			archipelago	
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.0	1.1.2.0	Emberpelts	1.1.2.3		
 3814700131	CargoZiplines		Cargo Ziplines	Cargo Ziplines	1.0.1	1.1.0.0				
@@ -2408,10 +2411,11 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.22	1.1.2.4	Harmony			
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	Harmony	2.4.1		
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
-3824497958	Jelitko.DamItStinks		Dam It Stinks	Dam It Stinks [BETA]	0.9.8	1.1.0.0				
+3824497958	Jelitko.DamItStinks		Dam It Stinks	Dam It Stinks [BETA]	0.9.8.5	1.1.0.0				
 3824582890	Azzurite.TankRebalance		Tank Rebalance	Tank Rebalance	1.0.0	1.1.0.0				
 3824971331	WaterOpacityControl		Eromrab's Water Opacity	Eromrab's Water Opacity	0.1.0	1.1.0.0	Harmony	2.4.0		
-3825079306	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.3.0	1.1.0.0	Harmony			
+3825079306	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.4.0	1.1.0.0	Harmony			
 3825089007	Mnage.LevelPlatforms		Level Platforms	Level Platforms	0.4.1	1.1.2.8	Harmony	2.4.1		
 3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages 客车追加版 (BETA)	1.4.12	1.1.0.0	Harmony	2.4.1		
 3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages 客车追加版 (BETA)	1.4.12	1.1.0.0	Aoernis.ChooChoo	1.4.2		
+3827752680	com.timbercolony.info		TimberColonyInfo	TimberColonyInfo	1.3.0.0	1.1.2.0				
