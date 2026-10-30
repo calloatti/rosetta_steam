@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.280	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.290	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -2273,8 +2273,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3807986512	Arthur.BeaverNameList		Beaver Name List	Beaver Name List	1.0.0	1.1.0.0				
 3808363949	Bedna.BuildQueueChange	version-1.1	Build Queue Change	Build Queue Change	0.1.9	1.1.0.0	Harmony	2.4.1		
 3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.8.0	1.0.0				
-3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.116	1.1.2.4	ModdableToolGroups	10.4.0		
-3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.116	1.1.2.4	Harmony	2.3.3		
+3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.117	1.1.2.4	ModdableToolGroups	10.4.0		
+3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.117	1.1.2.4	Harmony	2.3.3		
 3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.6.0	1.1.2.0	Harmony	2.4.1		
 3808938815	acalc79.UITweaks		UI Tweaks	UI Tweaks	0.6.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
 3809124987	directional-power-shafts		Directional Power Shafts	Directional Power Shafts	0.1.4	1.1.2.4				
@@ -2303,9 +2303,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.4	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.4	1.1.0.0	gamemodes	1.1.0-1.3.0		
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.9.4	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0	Harmony			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
 3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	Harmony			
 3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
 3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.15.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
@@ -2415,11 +2415,29 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3824497958	Jelitko.DamItStinks		Dam It Stinks	Dam It Stinks [BETA]	0.9.8.5	1.1.0.0				
 3824582890	Azzurite.TankRebalance		Tank Rebalance	Tank Rebalance	1.1.0	1.1.0.0				
 3824971331	WaterOpacityControl		Eromrab's Water Opacity	Eromrab's Water Opacity	0.1.0	1.1.0.0	Harmony	2.4.0		
-3825079306	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.4.0	1.1.0.0	Harmony			
+3825079306	gamemodes	version-1.1	Game Modes	Game Modes	1.1.0-1.5.0	1.1.0.0	Harmony			
 3825089007	Mnage.LevelPlatforms		Level Platforms	Level Platforms	0.4.1	1.1.2.8	Harmony	2.4.1		
 3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages 客车追加版 (BETA)	1.4.12	1.1.0.0	Harmony	2.4.1		
 3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages 客车追加版 (BETA)	1.4.12	1.1.0.0	Aoernis.ChooChoo	1.4.2		
 3827752680	com.timbercolony.info		TimberColonyInfo	TimberColonyInfo	1.3.0.0	1.1.2.0				
 3828086979	GrowthVisuals		Growth Visuals	Growth Visuals	1.1.0.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3828809784	HighDensityBoxFarm		High-Density Box Farm	High-Density Box Farm	2.4.0	1.0.0.0				
+3828809784	HighDensityBoxFarm		High-Density Box Farm — 3x3x1 Indoor Stackable Farm	High-Density Box Farm — 3x3x1 Indoor Stackable Farm	2.5.3	1.0.0.0				
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	Redic.NewStyles	0.1		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	Harmony	2.4.1		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	ModdableTimberborn	11.1.3		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	ModdableToolGroups	11.0.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	eMka.ModSettings	1.1.1.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	TimberUi	11.0.1		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	ModdableRecipes	11.0.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	calloatti.pumptotank	1.0.9		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	Battery.Flywheels	4.1.1.15		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	othermod.TeleporterStation	0.4.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	TimberPipes	11.4.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	northforge.solarpanel	1.0.2		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	MauricioBedoya.ExpandedStorage	1.0.1		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	ConveyorBelt	11.4.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	PoweredTubeway	11.0.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	PowerLines	11.1.1		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Iron Teeth - Deep Frontier	0.5.0.0	1.1.2.8	MapTransformer	11.0.0		
 3829235249	MoMo.WalkableFloodgates		MoMo Walkable Floodgates 可行走水闸	MoMo Walkable Floodgates 可行走水闸	1.0.1	1.1.0.0				
+3829290985	othermod.Spurge		Spurge	Spurge	0.1.0	1.1.0.0				
