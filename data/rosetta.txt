@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.10.310	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.10	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -1935,7 +1935,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3729358375	DecoMoreBlocks		DecoMore Blocks	DecoMore Blocks	1.0.0.0	1.0.0.0				
 3729748091	Cholleville.Casthorde		Casthorde [ModContest1]	Casthorde [ModContest1]	1.2.14	1.0.0.0	Harmony	2.4.1		
 3729812371	mattuu.BuildingPicker		Building Picker	Building Picker/Remover [ModContest1]	1.1.0	1.0.12.0				
-3729820912	andrumods.raincloudsimulation		Raining Cloud Simulation [ModContest1]	Raining Cloud Simulation	1.0.5.3	1.1.0.0				
+3729820912	andrumods.raincloudsimulation		Raining Cloud Simulation [ModContest1]	Raining Cloud Simulation	1.0.6.6	1.1.0.0				
 3729821207	mattuu.SmartProductionControl		Smart Production Control [ModContest1]	Smart Production Control [ModContest1]	1.1.0	1.0.12.0				
 3729922508	Blight.remoiry		Blight	Blight	2026.05.18	1.0.0.0	Harmony	0.0.0.0		
 3729922508	Blight.remoiry		Blight	Blight	2026.05.18	1.0.0.0	eMka.ModSettings	0.0.0.0		
@@ -2058,10 +2058,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3764852972	UnstableCoreChallenge	version-1.1	Unstable Core Challenge	Unstable Core Challenge	11.0.0	1.1.0	DistroStorage			
 3764926973	BruceTheLoon.ForestPath	version-1.0	Forest Path	Forest Path	1.0.1.1	1.0.6.0			grauschweif.crappyrope	
 3764926973	BruceTheLoon.ForestPath	version-1.1	Forest Path	Forest Path	1.0.1.1	1.1.0.0			grauschweif.crappyrope	
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.4.2	1.0.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.4.2	1.0.0.0	TimberUi	10.1.6		
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.4.2	1.1.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	1.4.2	1.1.0.0	TimberUi	11.0.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.0.0	1.0.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.0.0	1.0.0.0	TimberUi	10.1.6		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.0.0	1.1.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.0.0	1.1.0.0	TimberUi	11.0.1		
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.1	1.1.1	TimberUi			
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.1	1.1.1	Harmony			
 3767230586	ExampleBuilding.WaterFilter		Water Filter	Water Filter	0.2	1.1.0.0				
@@ -2306,10 +2306,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.10.0	1.1.0.0			timberatlas	
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.11.0	1.1.0.0	Harmony			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.11.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.11.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.11.0	1.1.0.0			timberatlas	
 3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	Harmony			
 3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
 3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	gamemodes	1.1.0-1.6.0		
@@ -2414,8 +2414,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! Smart Marker	1.1.4	1.1.0.0	Aoernis.ChooChoo	1.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	Harmony	2.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
-3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.23	1.1.2.4	ModdableToolGroups	10.4.0		
-3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.23	1.1.2.4	Harmony			
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.29	1.1.2.4	ModdableToolGroups	10.4.0		
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.29	1.1.2.4	Harmony			
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	Harmony	2.4.1		
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
 3824497958	Jelitko.DamItStinks		Dam It Stinks	Dam It Stinks [BETA]	0.9.8.5	1.1.0.0				
@@ -2458,3 +2458,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3831231040	Titan.JapaneseLevee		Japanese Levee	Japanese Levee	0.5.0	1.1.2.7				
 3831353151	Claudeiverse.FastTime		Fast Time	Fast Time	1.2.0	1.0.0.0				
 3831353604	Claudeiverse.PerformanceTweaks		Performance Tweaks	Performance Tweaks	1.1.0	1.0.0.0				
+3831422856	Local.Hotels		旅馆 / Hotels	旅馆 / Hotels	0.1.3	1.1.2.8				
+3831423043	Local.SpecialtyDining		特色餐饮 / Specialty Dining	特色餐饮 / Specialty Dining	0.2.1	1.1.2.7				
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	RealLights			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	TImprove			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	TimberUi			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	eMka.ModSettings			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	Harmony			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	ModdableToolGroups			
+3831818394	com.cybertaco.sciencequeue		Science Queue	Science Queue	0.4.2	1.1.0	Harmony	2.4.1		
+3831924093	Timberborn.FabianPnke.ChessPlanter		Chess Planter	Chess Planter	0.1.0	1.1.0.0				
