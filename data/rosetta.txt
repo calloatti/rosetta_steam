@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.20	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.30	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -2249,13 +2249,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3802290246	TailsAndBanners.ScarsAndInjuryTailDecals		Scars and Injury Tail Decals	Scars and Injury Tail Decals	0.2	1.0.0.0				
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
-3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.68	1.1.2.4				
+3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.69	1.1.2.4				
 3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.5.0	1.0.0	TimberUi	11.0.1		
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	ModdableToolGroups			
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	ModdableTimberborn	11.1.2		
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	Harmony			
-3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.9	1.1.2.4	TimberUi	11.0.1		
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.20	1.1.2.4	ModdableToolGroups			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.20	1.1.2.4	ModdableTimberborn	11.1.2		
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.20	1.1.2.4	Harmony			
+3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.20	1.1.2.4	TimberUi	11.0.1		
 3805047229	DecoMore		DecoMore 1.1 fixed	DecoMore 1.1 fixed	1.0.0.0	1.0.0.0				
 3805229613	Kanzey.ToolbarHotkey		Toolbar Hotkey	Toolbar Hotkey	0.1	1.1.0.0				
 3805529675	Barbara.MeadowLoopRide		Meadow Loop Ride	Meadow Loop Ride	1.0.16	1.1.2.4	grauschweif.materials	2.3.2		
@@ -2296,26 +2296,26 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3812083734	DailyNet	version-1.1	Daily Net	Daily Net	0.1.0	1.1.0.0	Harmony			
 3812084877	MoistureOnlyPlanting	version-1.1	Moisture-Only Planting	Moisture-Only Planting	0.2.0	1.1.0.0	Harmony			
 3812997658	ClearHaulPriority	version-1.1	Clear Haul Priority	Clear Haul Priority	0.3.1	1.1.0.0	Harmony			
-3813243721	Barbara.TimberLoop		TimberLoop	TimberLoop	1.0.15	1.1.2.4				
-3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.22	1.1.2.4	ModdableTimberborn	11.1.2		
-3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.22	1.1.2.4	Harmony			
-3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.22	1.1.2.4	TimberUi	11.0.1		
+3813243721	Barbara.TimberLoop		TimberLoop	TimberLoop	1.0.22	1.1.2.4				
+3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.25	1.1.2.4	ModdableTimberborn	11.1.2		
+3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.25	1.1.2.4	Harmony			
+3813253041	Barbara.BurrowCircuit		Burrow Circuit	Burrow Circuit	1.0.25	1.1.2.4	TimberUi	11.0.1		
 3813291547	Agroqirax.NoWineBrowser		No Wine Browser	No Wine Browser	0.1.0	1.0.0.0	Harmony	2.4.1		
 3813587159	Kurt258.TheBarkimedesScrew	version-1.1	The Barkimedes Screw	The Barkimedes Screw	2.1.0	1.1.2.4				
 3813842276	othermod.TeleporterStation		Teleporter Station	Teleporter Station	0.5.1	1.1.0.0				
 3813850394	ExampleBuilding.Achderbahn		achderbahn	achderbahn	0.1	1.0.0.0				
 3813952112	MoreZiplineConnections		More Zipline Connections	More Zipline Connections	1.1.0	1.1.0.0				
 3813952263	MixedWorkers		Mixed Workers	Mixed Workers	1.0.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.11.0	1.1.0.0	Harmony			
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.11.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.11.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.11.0	1.1.0.0			timberatlas	
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	Harmony			
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	gamemodes	1.1.0-1.6.0		
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0	beaverbuddies			
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0			archipelago	
-3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.16.0	1.1.0.0			timberatlas	
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.12.0	1.1.0.0	Harmony			
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.12.0	1.1.0.0	gamemodes	1.1.0-1.3.0		
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.12.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3813984327	beaverbuddies	version-1.1	BeaverBuddies Co-Op/PvP Edition	BeaverBuddies Co-Op/PvP Edition	1.1.0-1.12.0	1.1.0.0			timberatlas	
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.17.0	1.1.0.0	Harmony			
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.17.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.17.0	1.1.0.0	gamemodes	1.1.0-1.6.0		
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.17.0	1.1.0.0			beaverbuddies	
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.17.0	1.1.0.0			archipelago	
+3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.17.0	1.1.0.0			timberatlas	
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.1	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.1	1.1.2.0	Emberpelts	1.1.2.3		
 3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.1	1.1.2.0	TimberUi	11.0.1		
@@ -2427,7 +2427,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages 客车追加版 (BETA)	1.4.12	1.1.0.0	Aoernis.ChooChoo	1.4.2		
 3827752680	com.timbercolony.info		TimberColonyInfo	TimberColonyInfo	1.3.0.0	1.1.2.0				
 3828086979	GrowthVisuals		Growth Visuals	Growth Visuals	1.1.0.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3828809784	HighDensityBoxFarm		High-Density Box Farm — 3x3x1 Indoor Stackable Farm	High-Density Box Farm — 3x3x1 Indoor Stackable Farm	2.5.4	1.0.0.0				
+3828809784	HighDensityBoxFarm		High-Density Box Farm — 3x3x1 Indoor Stackable Farm	High-Density Box Farm — 3x3x1 Indoor Stackable Farm	2.5.6	1.0.0.0				
 3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	Redic.NewStyles	0.1		
 3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	Harmony	2.4.1		
 3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	ModdableTimberborn	11.1.3		
@@ -2454,19 +2454,27 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3831224706	Vextryyn.CompactWaterTurbinePatch	version-1.1	Compact Water Turbine Emberpelts and LeafCoats Patch	Compact Water Turbine Emberpelts and LeafCoats Patch	1.0.0	1.1.2.4	Calloatti.CompactWaterTurbine	1.7.2		
 3831224706	Vextryyn.CompactWaterTurbinePatch	version-1.1	Compact Water Turbine Emberpelts and LeafCoats Patch	Compact Water Turbine Emberpelts and LeafCoats Patch	1.0.0	1.1.2.4	Emberpelts	1.1.2.4		
 3831224706	Vextryyn.CompactWaterTurbinePatch	version-1.1	Compact Water Turbine Emberpelts and LeafCoats Patch	Compact Water Turbine Emberpelts and LeafCoats Patch	1.0.0	1.1.2.4	LeafCoats	1.0.0		
-3831231040	Titan.JapaneseLevee		Japanese Levee	Japanese Levee	0.5.0	1.1.2.7				
+3831231040	Titan.JapaneseLevee		Japanese Levee	Japanese Levee	0.8.1	1.1.2.7	ModdableToolGroups			
 3831353151	Claudeiverse.FastTime		Fast Time	Fast Time	1.2.0	1.0.0.0				
 3831353604	Claudeiverse.PerformanceTweaks		Performance Tweaks	Performance Tweaks	1.1.0	1.0.0.0				
 3831422856	Local.Hotels		旅馆 / Hotels	旅馆 / Hotels	0.1.3	1.1.2.8				
 3831423043	Local.SpecialtyDining		特色餐饮 / Specialty Dining	特色餐饮 / Specialty Dining	0.2.1	1.1.2.7				
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	RealLights			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	TImprove			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	TimberUi			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	eMka.ModSettings			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	Harmony			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.37	1.1.2.4	ModdableToolGroups			
-3831818394	com.cybertaco.sciencequeue		Science Queue	Science Queue	0.4.2	1.1.0	Harmony	2.4.1		
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	RealLights			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	TImprove			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	TimberUi			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	eMka.ModSettings			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	Harmony			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	ModdableToolGroups			
+3831818394	com.cybertaco.sciencequeue		Science Queue	Science Queue	0.4.3	1.1.0	Harmony	2.4.1		
 3831924093	Timberborn.FabianPnke.ChessPlanter		Chess Planter	Chess Planter	0.1.0	1.1.0.0				
 3832517231	ConstructionSiteImports	version-1.1	Construction Site Imports	Construction Site Imports	1.0.0	1.1.2.8	ModdableTimberborn	11.1.0		
 3832530249	WaterPipes		Water Pipes	Water Pipes	0.9.0	1.1.0.0				
 3832644967	Rockmandew.StaticTubeways		Static Tubeways	Static Tubeways	0.3.0.0	1.1.2.8	Harmony	2.4.1		
+3832870871	ConstructionSupply		Construction Supply	Construction Supply	0.1.0	1.1.2.8				
+3832872210	Decoration		Decoration	Decoration	0.1.3	1.1.2.8				
+3832893232	timberperf	version-1.1	Timber Perf	Timber Perf	1.1.0-1.0.0	1.1.0.0	Harmony			
+3832893232	timberperf	version-1.1	Timber Perf	Timber Perf	1.1.0-1.0.0	1.1.0.0			beaverbuddies	
+3832893232	timberperf	version-1.1	Timber Perf	Timber Perf	1.1.0-1.0.0	1.1.0.0			archipelago	
+3833219546	Titan.JapaneseHousing		Japanese Housing	Japanese Housing	0.8.5	1.1.2.7				
+3833222532	Titan.StoneFloodgate.Test		Japanese Stone Waterworks	Japanese Stone Waterworks	0.3.1	1.1.2.8	Titan.JapaneseLevee			
+3833349246	Rockmandew.VerticalFarming		Vertical Farming	Vertical Farming	0.1.11.0	1.1.2.8	Harmony	2.4.1		
