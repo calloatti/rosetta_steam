@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0	BobingaboutScriptPack	1.1.1.1		
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.5	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.30	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.40	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -1624,7 +1624,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3685191019	Hagbardur.DashboardPercent		Dashboard Percentage Banners	Dashboard Percentage Banners	1.0	1.0.0.0				
 3685191636	Hagbardur.BasicGoodsBanners		Basic Goods Banners	Basic Goods Banners	1.0	1.0.0.0			Hagbardur.DashboardPercent	
 3685383158	Tiduin.TwitchIntegration		Tiduins Twitch Integration	Tiduins Twitch Integration	0.1	1.0.0.0	Harmony			
-3686236774	Timberborn.Mod.TwitchIntegration		Twitch Integration	Twitch Integration	1.3.0.0	1.0.0.0				
 3686324719	CopyNameToo	version-1.0	Copy Name Too!	Copy Name Too!	10.0.0	1.0.0	ModdableTimberborn			
 3686679308	BetterWeatherStation	version-1.0	Better Weather Station	Better Weather Station	10.0.0	1.0.0	ModdableTimberborn	10.4.0		
 3686679308	BetterWeatherStation	version-1.0	Better Weather Station	Better Weather Station	10.0.0	1.0.0			ModdableWeathers	
@@ -2373,8 +2372,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3821969740	ChooChooModified	version-1.1	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.1.0.0	Harmony	2.4.1		
 3821969740	ChooChooModified	version-1.1	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.1.0.0	TimberUi	11.0.1		
 3822219277	acalc79.TimeInMapEditor		Time in Map Editor (TiME)	Time in Map Editor (TiME)	0.1.7	1.1.2.0	Harmony	2.4.1		
-3822220938	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.9	1.1.2.0	Harmony	2.4.1		
-3822220938	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.9	1.1.2.0	acalc79.TimeInMapEditor	0.1.5		
+3822220938	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.10	1.1.2.0	Harmony	2.4.1		
+3822220938	acalc79.BetterMapEditor		Better Map Editor	Better Map Editor	0.1.10	1.1.2.0	acalc79.TimeInMapEditor	0.1.5		
 3822318165	Hospital		Field Hospital	Field Hospital	0.3.7	1.1.2.0				
 3822390559	TimberSeasons	version-1.0	Timber Seasons	Timber Seasons	1.2.0	1.0.0	Harmony			
 3822390559	TimberSeasons	version-1.0	Timber Seasons	Timber Seasons	1.2.0	1.0.0	eMka.ModSettings			
@@ -2428,19 +2427,19 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3827752680	com.timbercolony.info		TimberColonyInfo	TimberColonyInfo	1.3.0.0	1.1.2.0				
 3828086979	GrowthVisuals		Growth Visuals	Growth Visuals	1.1.0.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
 3828809784	HighDensityBoxFarm		High-Density Box Farm — 3x3x1 Indoor Stackable Farm	High-Density Box Farm — 3x3x1 Indoor Stackable Farm	2.5.6	1.0.0.0				
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	Redic.NewStyles	0.1		
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	Harmony	2.4.1		
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	ModdableTimberborn	11.1.3		
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	ModdableToolGroups	11.0.0		
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	TimberUi	11.0.1		
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	ModdableRecipes	11.0.0		
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	TimberPipes	11.4.0		
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	ConveyorBelt	11.4.0		
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8	MapTransformer	11.0.0		
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8			PowerLines	11.1.1
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8			MauricioBedoya.ExpandedStorage	1.0.1
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8			ModdableWeathers	11.0.0
-3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.8.5.0	1.1.2.8			SluiceIsBack	11.0.0
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8	Redic.NewStyles	0.1		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8	Harmony	2.4.1		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8	ModdableTimberborn	11.1.3		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8	ModdableToolGroups	11.0.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8	TimberUi	11.0.1		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8	ModdableRecipes	11.0.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8	TimberPipes	11.4.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8	ConveyorBelt	11.4.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8	MapTransformer	11.0.0		
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8			PowerLines	11.1.1
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8			MauricioBedoya.ExpandedStorage	1.0.1
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8			ModdableWeathers	11.0.0
+3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.9.0.0	1.1.2.8			SluiceIsBack	11.0.0
 3829235249	MoMo.WalkableFloodgates		MoMo Walkable Floodgates 可行走水闸	MoMo Walkable Floodgates 可行走水闸	1.0.1	1.1.0.0				
 3829290985	othermod.Spurge		Spurge	Spurge (produces badwater)	0.1.0	1.1.0.0				
 3830028880	timberatlas	version-1.1	TimberAtlas	TimberAtlas	1.1.0-0.1.0	1.1.0.0	Harmony			
@@ -2469,12 +2468,23 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3831924093	Timberborn.FabianPnke.ChessPlanter		Chess Planter	Chess Planter	0.1.0	1.1.0.0				
 3832517231	ConstructionSiteImports	version-1.1	Construction Site Imports	Construction Site Imports	1.0.0	1.1.2.8	ModdableTimberborn	11.1.0		
 3832530249	WaterPipes		Water Pipes	Water Pipes	0.9.0	1.1.0.0				
-3832644967	Rockmandew.StaticTubeways		Static Tubeways	Static Tubeways	0.3.0.0	1.1.2.8	Harmony	2.4.1		
+3832644967	Rockmandew.StaticTubeways		Static Tubeways	Static Tubeways	0.3.1.0	1.1.2.8	Harmony	2.4.1		
 3832870871	ConstructionSupply		Construction Supply	Construction Supply	0.1.0	1.1.2.8				
 3832872210	Decoration		Decoration	Decoration	0.1.3	1.1.2.8				
 3832893232	timberperf	version-1.1	Timber Perf	Timber Perf	1.1.0-1.0.0	1.1.0.0	Harmony			
 3832893232	timberperf	version-1.1	Timber Perf	Timber Perf	1.1.0-1.0.0	1.1.0.0			beaverbuddies	
 3832893232	timberperf	version-1.1	Timber Perf	Timber Perf	1.1.0-1.0.0	1.1.0.0			archipelago	
+3833041913	Effy.ReducePlatformCost		Platform needs 4 planks	Platform needs 4 planks	0.1	1.0.0.0				
 3833219546	Titan.JapaneseHousing		Japanese Housing	Japanese Housing	0.8.5	1.1.2.7				
 3833222532	Titan.StoneFloodgate.Test		Japanese Stone Waterworks	Japanese Stone Waterworks	0.3.1	1.1.2.8	Titan.JapaneseLevee			
-3833349246	Rockmandew.VerticalFarming		Vertical Farming	Vertical Farming	0.1.11.0	1.1.2.8	Harmony	2.4.1		
+3833349246	Rockmandew.VerticalFarming		Vertical Farming	Vertical Farming	0.1.16.0	1.1.2.8	Harmony	2.4.1		
+3833445667	BeaverDiary		Beaver Diary	Beaver Diary	1.1	1.1.0.0	eMka.ModSettings	1.1.1.0		
+3833452669	BeaverCarts		Beaver Carts	Beaver Carts	0.1.0	1.1.2.8				
+3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.1.0	1.1.0.0	Harmony			
+3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.1.0	1.1.0.0			beaverbuddies	
+3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.1.0	1.1.0.0			gamemodes	
+3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.1.0	1.1.0.0			ModdableWeathers	
+3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.1.0	1.1.0.0			acalc79.AlternativeWeatherSystem	
+3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.1.0	1.1.0.0			timberatlas	
+3833530963	BeaverOuthouses		Beaver Outhouses	Beaver Outhouses	0.0.5	1.1.2.8				
+3833894969	ArkonWarrior.Pathworks		Pathworks	Pathworks	0.1.0	1.1.2.8	Harmony	2.4.1		
