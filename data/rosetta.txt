@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.6	1.1.1.0	BobingaboutScriptPack	1.1.2.5		
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.6	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.70	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.80	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -1826,7 +1826,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3721272706	Aaron.UnlockableMapEditorItems		Buildable Map Editor Items [ModContest1]	Buildable Map Editor Items [ModContest1]	1.0.0.0	1.0.0.0	Harmony			
 3721578793	Timberborn.Mejiro.LinearCycleDuration		Mejiro Linear Cycle Duration	Mejiro Linear Cycle Duration	1.0.0.0	1.0.0.0	Harmony	2.4.1		
 3721671926	BobGenders	version-1.0	Bobingabout	Genders: A procreation overhaul	1.0.13.3	1.0.13.0				
-3721671926	BobGenders	version-1.1	Bobingabout	Genders: A procreation overhaul	1.1.2.0	1.1.0.0				
+3721671926	BobGenders	version-1.1	Bobingabout	Genders: A procreation overhaul	1.1.2.1	1.1.0.0				
 3721718127	TonWolfe.TradeOffice	version-1.1.0.0	Trade Office [ModContest1]	Trade Office [ModContest1]	1.0.6	1.1.0.0	Harmony			
 3721718127	TonWolfe.TradeOffice	version-1.1.0.0	Trade Office [ModContest1]	Trade Office [ModContest1]	1.0.6	1.1.0.0	eMka.ModSettings			
 3721718127	TonWolfe.TradeOffice	version-1.1.0.0	Trade Office [ModContest1]	Trade Office [ModContest1]	1.0.6	1.1.0.0	TimberUi			
@@ -2413,8 +2413,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! Smart Marker	1.1.4	1.1.0.0	Aoernis.ChooChoo	1.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	Harmony	2.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
-3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.43	1.1.2.4	ModdableToolGroups	10.4.0		
-3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.43	1.1.2.4	Harmony			
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.74	1.1.2.4	ModdableToolGroups	10.4.0		
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.197.74	1.1.2.4	Harmony			
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	Harmony	2.4.1		
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
 3824497958	Jelitko.DamItStinks		Dam It Stinks	Dam It Stinks [BETA]	0.9.8.5	1.1.0.0				
@@ -2426,7 +2426,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages 客车追加版 (BETA)	1.4.12	1.1.0.0	Aoernis.ChooChoo	1.4.2		
 3827752680		colony-info/goods		TimberColonyInfo						
 3828086979	GrowthVisuals		Growth Visuals	Growth Visuals	1.1.0.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3828809784	HighDensityBoxFarm		High-Density Box Farm — 3x3x1 Indoor Stackable Farm	High-Density Box Farm — 3x3x1 Indoor Stackable Farm	2.5.10	1.0.0.0				
+3828809784	HighDensityBoxFarm		High-Density Box Farm — 3x3x1 Indoor Stackable Farm	High-Density Box Farm — 3x3x1 Indoor Stackable Farm	2.5.11	1.0.0.0				
 3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.10.3.0	1.1.2.8	Redic.NewStyles	0.1		
 3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.10.3.0	1.1.2.8	Harmony	2.4.1		
 3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.10.3.0	1.1.2.8	ModdableTimberborn	11.1.3		
@@ -2458,12 +2458,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3831353604	Claudeiverse.PerformanceTweaks		Performance Tweaks	Performance Tweaks	1.1.0	1.0.0.0				
 3831422856	Local.Hotels		旅馆 / Hotels	旅馆 / Hotels	0.1.3	1.1.2.8				
 3831423043	Local.SpecialtyDining		特色餐饮 / Specialty Dining	特色餐饮 / Specialty Dining	0.2.1	1.1.2.7				
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	RealLights			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	TImprove			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	TimberUi			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	eMka.ModSettings			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	Harmony			
-3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42	1.1.2.4	ModdableToolGroups			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42.1	1.1.2.4	RealLights			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42.1	1.1.2.4	TImprove			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42.1	1.1.2.4	TimberUi			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42.1	1.1.2.4	eMka.ModSettings			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42.1	1.1.2.4	Harmony			
+3831742477	Barbara.MerryChristmasBeavers		Merry Christmas Beavers	Merry Christmas Beavers	0.1.42.1	1.1.2.4	ModdableToolGroups			
 3831818394	com.cybertaco.sciencequeue		Science Queue	Science Queue	0.5.0	1.1.0	Harmony	2.4.1		
 3831924093	Timberborn.FabianPnke.ChessPlanter		Chess Planter	Chess Planter	0.1.0	1.1.0.0				
 3832517231	ConstructionSiteImports	version-1.1	Construction Site Imports	Construction Site Imports	1.0.0	1.1.2.8	ModdableTimberborn	11.1.0		
@@ -2489,7 +2489,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.2.0	1.1.0.0			timberatlas	
 3833530963	BeaverOuthouses		Beaver Outhouses	Beaver Outhouses	0.0.5	1.1.2.8				
 3833894969	ArkonWarrior.Pathworks		Pathworks	Pathworks	0.1.0	1.1.2.8	Harmony	2.4.1		
-3834122180	acasperw.WillItLast		Will It Last?	Will It Last?	1.1.1	1.1.0.0				
+3834122180	acasperw.WillItLast		Will It Last?	Will It Last?	1.2.0	1.1.0.0				
 3834303954	PasteSettingsPainter	version-1.1	Paste Settings Painter	Paste Settings Painter	1.1.2.0	1.1.2.0	Harmony			
 3834906975	BirthControl	version-1.1	Birth Control	Birth Control	1.0.0	1.1.1	Harmony			
 3834906975	BirthControl	version-1.1	Birth Control	Birth Control	1.0.0	1.1.1	eMka.ModSettings			
@@ -2503,3 +2503,5 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3835783155	Timberborn.ARandomDiamond.FoodStallModify		Food Stall Modifier	Food Stall Modifier	1.0.0.0	1.0.0.0	Timberborn.ARandomDiamond.FoodStall			
 3835783155	Timberborn.ARandomDiamond.FoodStallModify		Food Stall Modifier	Food Stall Modifier	1.0.0.0	1.0.0.0			Timberborn.ARandomDiamond.FoodStall	
 3835800501	Titan.JapaneseResidentialWalls		Japanese Decorations	Japanese Decorations	0.2.3	1.1.2.8	ModdableToolGroups			
+3836039641	SteamEngineExpansion		Steam Engine Expansion	Steam Engine Expansion	0.1.0	1.1.0.0				
+3836481333	ice_cracked.DemolitionPlus		Demolition Plus	Demolition Plus	1.0.0	1.1.0.0	Harmony	2.4.1		
