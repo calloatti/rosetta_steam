@@ -373,9 +373,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.11	1.0.12.0	Harmony	2.3.3		
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.11	1.0.12.0	eMka.ModSettings	1.0.6.0		
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.11	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.11.0	1.1.1.1	Harmony	2.3.3		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.11.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.11.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.12.0	1.1.1.1	Harmony	2.3.3		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.12.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.12.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
 3331500753	Tobbert.FerrisWheel		Ferris Wheel	Ferris Wheel	3.0.0	1.0.0.0				
 3334584916	Cordial.Mods.CutterTool	version-0.7	Cutter Tool	Cutter Tool	0.7.1.0	0.7.0.0	TimberApi	0.7.11.0		
 3334584916	Cordial.Mods.CutterTool	version-0.7	Cutter Tool	Cutter Tool	0.7.1.0	0.7.0.0	TimberApi.UIBuilder	1.0.0.1		
@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.6	1.1.1.0	BobingaboutScriptPack	1.1.2.5		
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.6	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.100	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.110	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	KnatteAnka.Materials	2.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-0.7.9	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	7.0.0	0.7.9.0	TimberApi	0.7.5.0		
@@ -1212,8 +1212,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3561058276	PlottingTool	version-1.0	Plotting Tool	Plotting Tool [Works with Map Editor]	10.0.1	0.7.0.0				
 3562731295	EarthquakeWeather	version-0.7	Earthquake Weather	Earthquake Weather [U7 ✅]	7.1.0	0.7.0.0	ModdableWeather			
 3562731295	EarthquakeWeather	version-0.7	Earthquake Weather	Earthquake Weather [U7 ✅]	7.1.0	0.7.0.0	BuildingHP	7.1.0		
-3562952077	Timberborn.IgorZ.AutomationForModdableWeather	version-1.0	Automation+ModdableWeather	Automation+ModdableWeather	1.1.1	1.0.6.0	Timberborn.IgorZ.Automation	3.2.0		
-3562952077	Timberborn.IgorZ.AutomationForModdableWeather	version-1.0	Automation+ModdableWeather	Automation+ModdableWeather	1.1.1	1.0.6.0	ModdableWeathers	10.0.5		
+3562952077	Timberborn.IgorZ.AutomationForModdableWeather	version-1.0	Automation+ModdableWeather	DEPRECATED! Automation+ModdableWeather	1.1.1	1.0.6.0	Timberborn.IgorZ.Automation	3.2.0		
+3562952077	Timberborn.IgorZ.AutomationForModdableWeather	version-1.0	Automation+ModdableWeather	DEPRECATED! Automation+ModdableWeather	1.1.1	1.0.6.0	ModdableWeathers	10.0.5		
 3564692866	RubbleSatisfactidy	version-0.7	Satisfactidy (Rubble Edition)	Satisfactidy (Rubble Edition)	7.0.1	0.7.0.0	TimberUi			
 3564692866	RubbleSatisfactidy	version-1.0	Satisfactidy (Rubble Edition)	Satisfactidy (Rubble Edition)	10.0.0	1.0.0	TimberUi			
 3564692866	RubbleSatisfactidy	version-1.1	Satisfactidy (Rubble Edition)	Satisfactidy (Rubble Edition)	11.0.0	1.0.0	TimberUi			
@@ -1731,8 +1731,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3710048403	MapFilter		Map Filter	Map Filter	1.0.0.0	1.0.0.0	Harmony			
 3710952757	DistroStorage	version-1.0	Distro Storages	Distro Storages	10.0.1	1.0.0	eMka.ModSettings			
 3710952757	DistroStorage	version-1.0	Distro Storages	Distro Storages	10.0.1	1.0.0	ModdableTimberborn			
-3710952757	DistroStorage	version-1.1	Distro Storages	Distro Storages	11.0.1	1.1.0	eMka.ModSettings			
-3710952757	DistroStorage	version-1.1	Distro Storages	Distro Storages	11.0.1	1.1.0	ModdableTimberborn			
+3710952757	DistroStorage	version-1.1	Distro Storages	Distro Storages	11.0.2	1.1.0	eMka.ModSettings			
+3710952757	DistroStorage	version-1.1	Distro Storages	Distro Storages	11.0.2	1.1.0	ModdableTimberborn			
 3712101149	AutoScaffold	version-1.0	AutoScaffold	AutoScaffold	1.0.0.6	1.0.0.0	Harmony			
 3712101149	AutoScaffold	version-1.1	AutoScaffold	AutoScaffold	1.1.0.1	1.1.0.0	Harmony			
 3713115935	Adaptors	version-1.0.8.1	zxuiji -m- Adaptors (AD)	zxuiji -m- Adaptors (AD)	1.0.9.15	1.0.12.0	XtraPlzNoCrashes	11.2.0		
@@ -2057,10 +2057,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3764852972	UnstableCoreChallenge	version-1.1	Unstable Core Challenge	Unstable Core Challenge	11.0.0	1.1.0	DistroStorage			
 3764926973	BruceTheLoon.ForestPath	version-1.0	Forest Path	Forest Path	1.0.1.1	1.0.6.0			grauschweif.crappyrope	
 3764926973	BruceTheLoon.ForestPath	version-1.1	Forest Path	Forest Path	1.0.1.1	1.1.0.0			grauschweif.crappyrope	
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.1.0	1.0.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.1.0	1.0.0.0	TimberUi	10.1.6		
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.1.0	1.1.0.0	Harmony	2.4.1		
-3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.1.0	1.1.0.0	TimberUi	11.0.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.1.1	1.0.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.0	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.1.1	1.0.0.0	TimberUi	10.1.6		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.1.1	1.1.0.0	Harmony	2.4.1		
+3765935439	Aoernis.ChooChoo	version-1.1	Choo!Choo! - Full Steam Ahead	Choo!Choo! - Full Steam Ahead	2.1.1	1.1.0.0	TimberUi	11.0.1		
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.2	1.1.1	TimberUi			
 3766893705	PowerLines	version-1.1	Power Lines	Power Lines	11.1.2	1.1.1	Harmony			
 3767230586	ExampleBuilding.WaterFilter		Water Filter	Water Filter	0.2	1.1.0.0				
@@ -2274,8 +2274,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3807986512	Arthur.BeaverNameList		Beaver Name List	Beaver Name List	1.0.0	1.1.0.0				
 3808363949	Bedna.BuildQueueChange	version-1.1	Build Queue Change	Build Queue Change	0.1.9	1.1.0.0	Harmony	2.4.1		
 3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System	Alternative Weather System	1.8.2	1.0.0	TimberUi	11.0.1		
-3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.117	1.1.2.4	ModdableToolGroups	10.4.0		
-3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.117	1.1.2.4	Harmony	2.3.3		
+3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.119	1.1.2.4	ModdableToolGroups	10.4.0		
+3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.119	1.1.2.4	Harmony	2.3.3		
 3808938815	acalc79.UITweaks		UI Tweaks (UIT)	UI Tweaks (UIT)	0.6.3	1.1.2.0	Harmony	2.4.1		
 3808938815	acalc79.UITweaks		UI Tweaks (UIT)	UI Tweaks (UIT)	0.6.3	1.1.2.0	eMka.ModSettings	1.1.1.0		
 3808938815	acalc79.UITweaks		UI Tweaks (UIT)	UI Tweaks (UIT)	0.6.3	1.1.2.0	TimberUi	11.0.1		
@@ -2371,7 +2371,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3821969740	ChooChooModified	version-1.0	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.0.0.0	TimberUi	10.1.6		
 3821969740	ChooChooModified	version-1.1	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.1.0.0	Harmony	2.4.1		
 3821969740	ChooChooModified	version-1.1	Choo-choo! Full steam ahead! - Personal Edit	Choo-choo! Full steam ahead! - Personal Edit个人修改版	1.4.0	1.1.0.0	TimberUi	11.0.1		
-3822219277	acalc79.TimeInMapEditor		Time in Map Editor (TiME)	Time in Map Editor (TiME)	0.1.7	1.1.2.0	Harmony	2.4.1		
+3822219277	acalc79.TimeInMapEditor		Time in Map Editor (TiME)	Time in Map Editor (TiME)	0.1.8	1.1.2.0	Harmony	2.4.1		
 3822220938	acalc79.BetterMapEditor		Better Map Editor (BME)	Better Map Editor (BME)	0.1.12	1.1.2.0	Harmony	2.4.1		
 3822220938	acalc79.BetterMapEditor		Better Map Editor (BME)	Better Map Editor (BME)	0.1.12	1.1.2.0	acalc79.TimeInMapEditor	0.1.5		
 3822318165	Hospital		Field Hospital	Field Hospital	0.5.40	1.1.2.0				
@@ -2467,7 +2467,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3831818394	com.cybertaco.sciencequeue		Science Queue	Science Queue	0.5.0	1.1.0	Harmony	2.4.1		
 3831924093	Timberborn.FabianPnke.ChessPlanter		Chess Planter	Chess Planter	0.1.0	1.1.0.0				
 3832517231	ConstructionSiteImports	version-1.1	Construction Site Imports	Construction Site Imports	1.0.0	1.1.2.8	ModdableTimberborn	11.1.0		
-3832530249	WaterPipes		Water Pipes	Water Pipes	0.9.0	1.1.0.0				
+3832530249	WaterPipes		Water Pipes	Water Pipes	0.9.1	1.1.0.0				
 3832644967	Rockmandew.StaticTubeways		Static Tubeways	Static Tubeways	0.3.1.0	1.1.2.8	Harmony	2.4.1		
 3832870871	ConstructionSupply		Construction Supply	Construction Supply	0.1.0	1.1.2.8				
 3832872210	Decoration		Folktails Village Decor	Folktails Village Decor	0.9.1	1.1.2.8				
@@ -2480,7 +2480,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3833222532	Titan.StoneFloodgate.Test		Japanese Stone Waterworks	Japanese Stone Waterworks	0.3.2	1.1.2.8	ModdableToolGroups			
 3833349246	Rockmandew.VerticalFarming		Vertical Farming	Vertical Farming	0.1.19.1	1.1.2.8	Harmony	2.4.1		
 3833445667	BeaverDiary		Beaver Diary	Beaver Diary	1.1	1.1.0.0	eMka.ModSettings	1.1.1.0		
-3833452669	BeaverCarts		Beaver Carts	Beaver Carts	0.4.1	1.1.2.8				
+3833452669	BeaverCarts		Beaver Carts	Beaver Carts (Folktails & Iron Teeth)	0.5.4	1.1.2.8				
 3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.2.0	1.1.0.0	Harmony			
 3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.2.0	1.1.0.0			beaverbuddies	
 3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.2.0	1.1.0.0			gamemodes	
@@ -2488,7 +2488,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.2.0	1.1.0.0			acalc79.AlternativeWeatherSystem	
 3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.2.0	1.1.0.0			timberatlas	
 3833530963	BeaverOuthouses		Beaver Outhouses & Bathhouse	Beaver Outhouses & Bathhouse	0.0.8	1.1.2.8				
-3833894969	ArkonWarrior.Pathworks		PathWorks	PathWorks	0.1.18	1.0.0.0	Harmony	2.4.1		
+3833894969	ArkonWarrior.Pathworks		PathWorks	PathWorks	0.1.19	1.0.0.0	Harmony	2.4.1		
 3834122180	acasperw.WillItLast		Will It Last?	Will It Last?	1.2.0	1.1.0.0				
 3834303954	PasteSettingsPainter	version-1.1	Paste Settings Painter	Paste Settings Painter	1.1.2.0	1.1.2.0	Harmony			
 3834906975	BirthControl	version-1.1	Birth Control	Birth Control	1.0.0	1.1.1	Harmony			
@@ -2509,12 +2509,20 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3837267513	thewarmaster.PausableRecipes	version-1.0	Pausable Recipes	Pausable Recipes	0.1.1	1.0.0.0	Harmony	2.4.1		
 3837504744	acalc79.UltimatePlantingTools		Ultimate Planting Tools (UPT)	Ultimate Planting Tools (UPT)	0.1.0	1.1.2.0	Harmony	2.4.1		
 3837504744	acalc79.UltimatePlantingTools		Ultimate Planting Tools (UPT)	Ultimate Planting Tools (UPT)	0.1.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
-3837510526	ArkonWarrior.Bridgeworks		BridgeWorks	BridgeWorks	0.2.18	1.0.0.0	Harmony	2.4.1		
-3837510868	ArkonWarrior.DamWorks		DamWorks	DamWorks	0.1.7	1.0.0.0	Harmony	2.4.1		
-3837511014	ArkonWarrior.DecoWorks		DecoWorks	DecoWorks	0.6.2	1.0.0.0	Harmony	2.4.1		
-3837511309	ArkonWarrior.ElevatorWorks		ElevatorWorks	ElevatorWorks	0.5.1	1.0.0.0	Harmony	2.4.1		
-3837511496	ArkonWarrior.LadderWorks		LadderWorks	LadderWorks	0.3.5	1.0.0.0	Harmony	2.4.1		
-3837511657	ArkonWarrior.LeveeWorks		LeveeWorks	LeveeWorks	0.2.3	1.0.0.0	Harmony	2.4.1		
-3837511808	ArkonWarrior.PlatformWorks		PlatformWorks	PlatformWorks	0.3.2	1.0.0.0	Harmony	2.4.1		
-3837511954	ArkonWarrior.StairWorks		StairWorks	StairWorks	0.1.12	1.0.0.0	Harmony	2.4.1		
-3837512204	ArkonWarrior.TimberWorks		TimberWorks Complete	TimberWorks Complete	0.1.0	1.0.0.0	Harmony	2.4.1		
+3837510526	ArkonWarrior.Bridgeworks		BridgeWorks	BridgeWorks	0.2.19	1.0.0.0	Harmony	2.4.1		
+3837510868	ArkonWarrior.DamWorks		DamWorks	DamWorks	0.1.8	1.0.0.0	Harmony	2.4.1		
+3837511014	ArkonWarrior.DecoWorks		DecoWorks	DecoWorks	0.6.3	1.0.0.0	Harmony	2.4.1		
+3837511309	ArkonWarrior.ElevatorWorks		ElevatorWorks	ElevatorWorks	0.5.2	1.0.0.0	Harmony	2.4.1		
+3837511496	ArkonWarrior.LadderWorks		LadderWorks	LadderWorks	0.3.6	1.0.0.0	Harmony	2.4.1		
+3837511657	ArkonWarrior.LeveeWorks		LeveeWorks	LeveeWorks	0.2.4	1.0.0.0	Harmony	2.4.1		
+3837511808	ArkonWarrior.PlatformWorks		PlatformWorks	PlatformWorks	0.3.3	1.0.0.0	Harmony	2.4.1		
+3837511954	ArkonWarrior.StairWorks		StairWorks	StairWorks	0.1.13	1.0.0.0	Harmony	2.4.1		
+3837512204	ArkonWarrior.TimberWorks		TimberWorks Complete	TimberWorks Complete	0.1.1	1.0.0.0	Harmony	2.4.1		
+3837719134	Spiritveil.MVP		灵溪宗 · 修仙海狸 (Spiritveil Clan)	Spiritveil Clan(BETA)灵溪宗 · 修仙海狸(测试版)	0.01	1.1.0.0	Harmony	2.4.1		
+3837823563	CargoZipline		Cargo Zipline	Cargo Zipline	0.6.2	1.1.2.8				
+3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	eMka.ModSettings	1.1.1.0		
+3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	Harmony	2.4.1		
+3838063747	Titan.JapaneseStorage		Japanese Storage Collection	Japanese Storage Collection	0.2.14	1.1.2.7	Harmony			
+3838063747	Titan.JapaneseStorage		Japanese Storage Collection	Japanese Storage Collection	0.2.14	1.1.2.7	ModdableToolGroups			
+3838095434	MadreBobry		Smart Beavers (Mądre Bobry)	Smart Beavers (Mądre Bobry)	1.4.0	1.1.0.0	Harmony	2.0.0		
+3838095434	MadreBobry		Smart Beavers (Mądre Bobry)	Smart Beavers (Mądre Bobry)	1.4.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
