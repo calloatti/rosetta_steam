@@ -373,9 +373,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.11	1.0.12.0	Harmony	2.3.3		
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.11	1.0.12.0	eMka.ModSettings	1.0.6.0		
 3324234282	Timberborn.IgorZ.Automation	version-1.0	Advanced Automation	Automation	4.0.11	1.0.12.0	Timberborn.IgorZ.CustomTools	1.1.1		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.12.0	1.1.1.1	Harmony	2.3.3		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.12.0	1.1.1.1	eMka.ModSettings	1.0.6.0		
-3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.12.0	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.12.1	1.1.1.1	Harmony	2.3.3		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.12.1	1.1.1.1	eMka.ModSettings	1.0.6.0		
+3324234282	Timberborn.IgorZ.Automation	version-1.1	Advanced Automation	Automation	4.12.1	1.1.1.1	Timberborn.IgorZ.CustomTools	1.1.1		
 3331500753	Tobbert.FerrisWheel		Ferris Wheel	Ferris Wheel	3.0.0	1.0.0.0				
 3334584916	Cordial.Mods.CutterTool	version-0.7.2.1	Cutter Tool	Cutter Tool	0.7.1.1	0.7.2.1	TimberApi	0.7.12.0		
 3334584916	Cordial.Mods.CutterTool	version-0.7.2.1	Cutter Tool	Cutter Tool	0.7.1.1	0.7.2.1	TimberApi.UIBuilder	1.0.0.1		
@@ -466,7 +466,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3346318229	Emberpelts	version-1.0	Emberpelts	Emberpelts	1.0.13.2	1.0.12.0			Lapantouflemagic.1x1x2Storage	
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.6	1.1.1.0	BobingaboutScriptPack	1.1.2.5		
 3346318229	Emberpelts	version-1.1	Emberpelts	Emberpelts	1.1.2.6	1.1.1.0			Lapantouflemagic.1x1x2Storage	
-3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.120	0.1				
+3346918947	Timberborn.universal.Translate		zzz Mods Universal Translate	Mods Universal Translate	2026.11.130	0.1				
 3348036578	hamsterwk.more-chinese-name		更多中文命名池（MoreChineseNameForBeavers）	更多中文命名池（MoreChineseNameForBeavers）	1.1	0.6.0.0				
 3357125391	KnatteAnka.damdecoration_decorationextention	version-1.0.0	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	1.0.0.7	1.0.8.0	KnatteAnka.Materials	1.0.1.0		
 3357125391	KnatteAnka.damdecoration_decorationextention	version-1.0.0	DamDecorations_DecorationExtention	DamDecorations_DecorationExtention	1.0.0.7	1.0.8.0	ModdableToolGroups	10.1.0		
@@ -731,7 +731,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3430551639	BobingaboutVerticalTPowerShafts	version-0.7.6	Bobingabout	Bobingabout Vertical T Power Shafts [Depreciated]	0.7.6.1	0.7.6.0				
 3430626620	TimberUi	version-0.7	TimberUi	TimberUi	7.8.7	0.7.0.0				
 3430626620	TimberUi	version-1.0	TimberUi	TimberUi	10.1.6	1.0.0				
-3430626620	TimberUi	version-1.1	TimberUi	TimberUi	11.0.2	1.1.1				
+3430626620	TimberUi	version-1.1	TimberUi	TimberUi	11.0.3	1.1.1				
 3430634046	DevModeButton	version-0.7	Dev Mode Button	[For modders] Dev Mode Button	7.0.0	0.7.0.0	TimberUi	7.0.0		
 3431421822	KnatteAnka.waterextention.PowerEdition	version-1.0.0	Water Extention PowerEdition	Water Extention PowerEdition	1.0.1.4	1.0.13.0	KnatteAnka.Materials	1.0.1.0		
 3431421822	KnatteAnka.waterextention.PowerEdition	version-0.7.9	Water Extention PowerEdition	Water Extention PowerEdition	7.0.2	0.7.9.0	KnatteAnka.Materials	2.0.0		
@@ -2426,7 +2426,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3826022028	Aoernis.ChooChooPassengerCarriages		Choo! Choo! Passenger Carriages 客车追加版 (BETA)	Choo! Choo! Passenger Carriages 客车追加版 (BETA)	1.4.12	1.1.0.0	Aoernis.ChooChoo	1.4.2		
 3827752680		colony-info/goods		TimberColonyInfo						
 3828086979	GrowthVisuals		Growth Visuals	Growth Visuals	1.1.0.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3828809784	HighDensityBoxFarm		High-Density Box Farm — 3x3x1 Indoor Stackable Farm	High-Density Box Farm — 3x3x1 Indoor Stackable Farm	2.5.11	1.0.0.0				
+3828809784	HighDensityBoxFarm		High-Density Box Farm — 3x3x1 Indoor Stackable Farm	High-Density Box Farm — 3x3x1 Indoor Stackable Farm	2.6.0	1.0.0.0				
 3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.10.3.0	1.1.2.8	Redic.NewStyles	0.1		
 3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.10.3.0	1.1.2.8	Harmony	2.4.1		
 3829081035	DeepFrontier	version-1.1	Deep Frontier	Deep Frontier	0.10.3.0	1.1.2.8	ModdableTimberborn	11.1.3		
@@ -2478,7 +2478,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3833219546	Titan.JapaneseHousing		Japanese Housing	Japanese Housing	0.9.3	1.1.2.7	ModdableToolGroups			
 3833222532	Titan.StoneFloodgate.Test		Japanese Stone Waterworks	Japanese Stone Waterworks	0.3.2	1.1.2.8	Titan.JapaneseLevee			
 3833222532	Titan.StoneFloodgate.Test		Japanese Stone Waterworks	Japanese Stone Waterworks	0.3.2	1.1.2.8	ModdableToolGroups			
-3833349246	Rockmandew.VerticalFarming		Vertical Farming	Vertical Farming	0.1.19.1	1.1.2.8	Harmony	2.4.1		
+3833349246	Rockmandew.VerticalFarming		Vertical Farming	Vertical Farming	0.1.19.2	1.1.2.8	Harmony	2.4.1		
 3833445667	BeaverDiary		Beaver Diary	Beaver Diary	1.1	1.1.0.0	eMka.ModSettings	1.1.1.0		
 3833452669	BeaverCarts		Beaver Carts	Beaver Carts (Folktails & Iron Teeth)	0.5.4	1.1.2.8				
 3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.2.0	1.1.0.0	Harmony			
@@ -2503,7 +2503,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3835783155	Timberborn.ARandomDiamond.FoodStallModify		Food Stall Modifier	Food Stall Modifier	1.0.0.0	1.0.0.0	Timberborn.ARandomDiamond.FoodStall			
 3835783155	Timberborn.ARandomDiamond.FoodStallModify		Food Stall Modifier	Food Stall Modifier	1.0.0.0	1.0.0.0			Timberborn.ARandomDiamond.FoodStall	
 3835800501	Titan.JapaneseResidentialWalls		Japanese Decorations	Japanese Decorations	0.2.3	1.1.2.8	ModdableToolGroups			
-3836039641	SteamEngineExpansion		Steam Engine Expansion	Steam Engine Expansion	0.1.0	1.1.0.0				
+3836039641	SteamEngineExpansion		Steam Engine Expansion	Steam Engine Expansion — 12 worker-free steam engines for Folktails & Iron Teeth	0.1.0	1.1.0.0				
 3836481333	ice_cracked.DemolitionPlus		Demolition Plus	Demolition Plus	1.0.0	1.1.0.0	Harmony	2.4.1		
 3836659699	EEC.ProjetoGenese		Projeto Gênese	Projeto Gênese	1.0.4	1.1.2.8	Harmony			
 3837267513	thewarmaster.PausableRecipes	version-1.0	Pausable Recipes	Pausable Recipes	0.1.1	1.0.0.0	Harmony	2.4.1		
@@ -2518,12 +2518,17 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3837511808	ArkonWarrior.PlatformWorks		PlatformWorks	PlatformWorks	0.3.3	1.0.0.0	Harmony	2.4.1		
 3837511954	ArkonWarrior.StairWorks		StairWorks	StairWorks	0.1.13	1.0.0.0	Harmony	2.4.1		
 3837512204	ArkonWarrior.TimberWorks		TimberWorks Complete	TimberWorks Complete	0.1.1	1.0.0.0	Harmony	2.4.1		
-3837719134	Spiritveil.MVP		灵溪宗 · 修仙海狸 (Spiritveil Clan)	Spiritveil Clan(BETA)灵溪宗 · 修仙海狸(测试版)	0.01	1.1.0.0	Harmony	2.4.1		
+3837719134	Spiritveil.MVP		灵溪宗 · 修仙海狸 (Spiritveil Clan)	灵溪宗 · 修仙海狸 (Spiritveil Clan)	0.06	1.1.0.0	Harmony	2.4.1		
 3837823563	CargoZipline		Cargo Zipline & Tubeway	Cargo Zipline & Tubeway	0.7.0	1.1.2.8				
 3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	eMka.ModSettings	1.1.1.0		
 3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	Harmony	2.4.1		
-3838063747	Titan.JapaneseStorage		Japanese Storage Collection	Japanese Storage Collection	0.2.14	1.1.2.7	Harmony			
-3838063747	Titan.JapaneseStorage		Japanese Storage Collection	Japanese Storage Collection	0.2.14	1.1.2.7	ModdableToolGroups			
+3838063747	Titan.JapaneseStorage		Japanese Storage Collection	Japanese Storage Collection	0.2.15	1.1.2.7	Harmony			
+3838063747	Titan.JapaneseStorage		Japanese Storage Collection	Japanese Storage Collection	0.2.15	1.1.2.7	ModdableToolGroups			
 3838095434	MadreBobry		Smart Beavers (Mądre Bobry)	Smart Beavers (Mądre Bobry)	1.4.0	1.1.0.0	Harmony	2.0.0		
 3838095434	MadreBobry		Smart Beavers (Mądre Bobry)	Smart Beavers (Mądre Bobry)	1.4.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3838695858	JigglyPanda.Pandaborn		Pandaborn	Pandaborn	7.0.0	1.0.0.0			eMka.ModSettings	
+3838695858	JigglyPanda.Pandaborn		Pandaborn	Pandaborn - Panda Reskin	7.0.0	1.0.0.0			eMka.ModSettings	
+3838700481	Panda.PopulationControl		Population Control	Population Control	1.0.0	1.0.0.0	Harmony			
+3839115040	ModdableAlternativeBuildingStyle	version-1.1	Moddable Alternative Building Style	Moddable Alternative Building Style	11.0.0	1.1.1	ModdableTimberborn			
+3839115894	AlternativeFactionBuildingStyles	version-1.1	Alternative Faction Building Styles	Alternative Faction Building Styles	11.0.0	1.1.1	ModdableAlternativeBuildingStyle			
+3839115894	AlternativeFactionBuildingStyles	version-1.1	Alternative Faction Building Styles	Alternative Faction Building Styles	11.0.0	1.1.1	XtraPlzNoCrashes			
+3839252221	Eurymachus.TwitchBorn		TwitchBorn	TwitchBorn	0.1.0	1.0.0.0	eMka.ModSettings			
