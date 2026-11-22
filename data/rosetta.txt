@@ -1330,8 +1330,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3608113524	AllGoodsInWarehouses	version-1.0	All Goods In Warehouses	All Goods In Warehouses	10.1.0	0.7.0	ModdableTimberborn			
 3608113524	AllGoodsInWarehouses	version-0.7	All Goods In Warehouses	All Goods In Warehouses	10.0.0	0.7.0	ModdableTimberborn			
 3608973092	l9m2.EnduranceDifficulty		EnduranceDifficulty	Endurance Difficulty	0.1	1.0.2.0				
-3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.4	1.0.3.0			acalc79.HardcoreSettings	1.0.0
-3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties	Extreme Difficulties	1.3.4	1.0.3.0			acalc79.AlternativeWeatherSystem	1.8.0
+3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties (ED)	Extreme Difficulties (ED)	1.3.5	1.0.3.0			acalc79.HardcoreSettings	1.0.0
+3609234228	acalc79.ExtremeDifficulties		Extreme Difficulties (ED)	Extreme Difficulties (ED)	1.3.5	1.0.3.0			acalc79.AlternativeWeatherSystem	2.0.0
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	Harmony	0.6.0.0		
 3609443372	TonWolfe.AllWeatherDrill	version-1.0.11.2	All Weather Drill	All Weather Drill	1.0.4	1.0.11.2	eMka.ModSettings			
 3609485646	tangbohu.jzlfzzl	version-1.0	建造栏分组整理(放最底下)	Grouping and organizing the construction column (placed at the bottom)	1.1.1.6	1.0.5				
@@ -2256,7 +2256,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3802527199	Calloatti.ImpermeableWall	Version-1.1	Impermeable Wall	Impermeable Wall	1.2.2	1.1.2.4	Harmony			
 3802546420	yakovenko.mark.WorkSchedule		Work Schedule	Work Schedule	3.1	1.1.2.4	Harmony			
 3804487147	Barbara.RollerCoaster		RollerCoaster	RollerCoaster	1.4.69	1.1.2.4				
-3804719473	acalc79.HardcoreSettings		Hardcore Settings	Hardcore Settings	1.5.0	1.0.0	TimberUi	11.0.1		
+3804719473	acalc79.HardcoreSettings		Hardcore Settings (HS)	Hardcore Settings (HS)	1.5.1	1.0.0	TimberUi	11.0.1		
 3804840160	YourName.NoDevPanel		No Dev Panel	Disable dev mode	1.0.0	1.0				
 3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.20	1.1.2.4	ModdableToolGroups			
 3804864938	Barbara.FolktailsPlayground		Folktails Playground	Folktails Playground	1.7.20	1.1.2.4	ModdableTimberborn	11.1.2		
@@ -2280,8 +2280,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3807732545	Sikstus.RisingSea	version-1.1	Highgnaw	Highgnaw Scenario	0.4.0	1.1.2.4				
 3807986512	Arthur.BeaverNameList		Beaver Name List	Beaver Name List	1.0.0	1.1.0.0				
 3808363949	Bedna.BuildQueueChange	version-1.1	Build Queue Change	Build Queue Change	0.1.9	1.1.0.0	Harmony	2.4.1		
-3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System (AWS)	Alternative Weather System (AWS)	2.0.1	1.0.0	TimberUi	11.0.1		
-3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System (AWS)	Alternative Weather System (AWS)	2.0.1	1.0.0	Harmony	2.4.1		
+3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System (AWS)	Alternative Weather System (AWS)	2.0.2	1.0.0	TimberUi	11.0.1		
+3808626629	acalc79.AlternativeWeatherSystem		Alternative Weather System (AWS)	Alternative Weather System (AWS)	2.0.2	1.0.0	Harmony	2.4.1		
 3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.121	1.1.2.4	ModdableToolGroups	10.4.0		
 3808754822	Barbara.Timberbar		Timberbar	Timberbar	0.0.121	1.1.2.4	Harmony	2.3.3		
 3808938815	acalc79.UITweaks		UI Tweaks (UIT)	UI Tweaks (UIT)	0.6.3	1.1.2.0	Harmony	2.4.1		
@@ -2323,9 +2323,10 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.18.0	1.1.0.0			beaverbuddies	
 3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.18.0	1.1.0.0			archipelago	
 3814012422	timberempires	version-1.1	Timber Empires	Timber Empires	1.1.0-0.18.0	1.1.0.0			timberatlas	
-3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.1	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
-3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.1	1.1.2.0	Emberpelts	1.1.2.3		
-3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.1	1.1.2.0	TimberUi	11.0.1		
+3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.2	1.1.2.0	acalc79.AlternativeWeatherSystem	1.7.1		
+3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.2	1.1.2.0	Emberpelts	1.1.2.3		
+3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.2	1.1.2.0	TimberUi	11.0.1		
+3814697992	acalc79.AWSForEmberpelts		AWS for Emberpelts	AWS for Emberpelts	0.1.2	1.1.2.0	Harmony	2.4.1		
 3814700131	CargoZiplines		Cargo Ziplines	Cargo Ziplines	1.0.1	1.1.0.0				
 3814712635	Helpik.HoneyTime.Emberpelts		Honey Time Reworked for Emberpelts [unofficial]	Honey Time Reworked for Emberpelts [unofficial]	1.0.0.0	1.0.0.0	Helpik.HoneyTime			
 3814712635	Helpik.HoneyTime.Emberpelts		Honey Time Reworked for Emberpelts [unofficial]	Honey Time Reworked for Emberpelts [unofficial]	1.0.0.0	1.0.0.0	Emberpelts			
@@ -2376,8 +2377,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3821518592	de.schopfritz.advancedpumps		Advanced Transport System	Advanced Transport System	1.5.24	1.1.2.4				
 3821598148	Sans.BiggerMap	version-1.1	Sans Bigger Map	Sans Bigger Map	0.6.0	1.1.0.0	Harmony	2.4.1		
 3822219277	acalc79.TimeInMapEditor		Time in Map Editor (TiME)	Time in Map Editor (TiME)	0.1.8	1.1.2.0	Harmony	2.4.1		
-3822220938	acalc79.BetterMapEditor		Better Map Editor (BME)	Better Map Editor (BME)	0.1.12	1.1.2.0	Harmony	2.4.1		
-3822220938	acalc79.BetterMapEditor		Better Map Editor (BME)	Better Map Editor (BME)	0.1.12	1.1.2.0	acalc79.TimeInMapEditor	0.1.5		
+3822220938	acalc79.BetterMapEditor		Better Map Editor (BME)	Better Map Editor (BME)	0.1.13	1.1.2.0	Harmony	2.4.1		
+3822220938	acalc79.BetterMapEditor		Better Map Editor (BME)	Better Map Editor (BME)	0.1.13	1.1.2.0	acalc79.TimeInMapEditor	0.1.5		
 3822318165	Hospital		Field Hospital	Field Hospital	0.5.40	1.1.2.0				
 3822390559	TimberSeasons	version-1.0	Timber Seasons	Timber Seasons	1.2.0	1.0.0	Harmony			
 3822390559	TimberSeasons	version-1.0	Timber Seasons	Timber Seasons	1.2.0	1.0.0	eMka.ModSettings			
@@ -2448,9 +2449,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3829290985	othermod.Spurge		Spurge	Spurge (produces badwater)	0.1.0	1.1.0.0				
 3830028880	timberatlas	version-1.1	TimberAtlas	TimberAtlas	1.1.0-0.1.0	1.1.0.0	Harmony			
 3830028880	timberatlas	version-1.1	TimberAtlas	TimberAtlas	1.1.0-0.1.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3830961792	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.0	1.1.2.0	Harmony	2.4.1		
-3830961792	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.0	1.1.2.0	T3MP	1.2.5		
-3830961792	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
+3830961792	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.1	1.1.2.0	Harmony	2.4.1		
+3830961792	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.1	1.1.2.0	T3MP	1.2.5		
+3830961792	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.1	1.1.2.0	eMka.ModSettings	1.1.1.0		
 3831217281	Mirco.Pfadfinder		Pfadfinder (smart path tool)	Pfadfinder (smart path tool)	1.0.0	1.1.1.0	Harmony			
 3831217281	Mirco.Pfadfinder		Pfadfinder (smart path tool)	Pfadfinder (smart path tool)	1.0.0	1.1.1.0	eMka.ModSettings			
 3831219249	Vextryyn.MoreZiplineLeafCoats	version-1.1	More Ziplines for LeafCoats	More Ziplines for LeafCoats	1.0.0	1.1.2.4	LeafCoats	1.0.0		
@@ -2512,8 +2513,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3836481333	ice_cracked.DemolitionPlus		Demolition Plus	Demolition Plus	1.0.0	1.1.0.0	Harmony	2.4.1		
 3836659699	EEC.ProjetoGenese		Projeto Gênese	Projeto Gênese	1.0.4	1.1.2.8	Harmony			
 3837267513	thewarmaster.PausableRecipes	version-1.0	Pausable Recipes	Pausable Recipes	0.1.1	1.0.0.0	Harmony	2.4.1		
-3837504744	acalc79.UltimatePlantingTools		Ultimate Planting Tools (UPT)	Ultimate Planting Tools (UPT)	0.1.0	1.1.2.0	Harmony	2.4.1		
-3837504744	acalc79.UltimatePlantingTools		Ultimate Planting Tools (UPT)	Ultimate Planting Tools (UPT)	0.1.0	1.1.2.0	eMka.ModSettings	1.1.1.0		
+3837504744	acalc79.UltimatePlantingTools		Ultimate Planting Tools (UPT)	Ultimate Planting Tools (UPT)	0.1.1	1.1.2.0	Harmony	2.4.1		
+3837504744	acalc79.UltimatePlantingTools		Ultimate Planting Tools (UPT)	Ultimate Planting Tools (UPT)	0.1.1	1.1.2.0	eMka.ModSettings	1.1.1.0		
 3837510526	ArkonWarrior.Bridgeworks		BridgeWorks	BridgeWorks	0.2.32	1.0.0.0	Harmony	2.4.1		
 3837510868	ArkonWarrior.DamWorks		DamWorks	DamWorks	0.1.21	1.0.0.0	Harmony	2.4.1		
 3837511014	ArkonWarrior.DecoWorks		DecoWorks	DecoWorks	0.6.16	1.0.0.0	Harmony	2.4.1		
@@ -2577,8 +2578,14 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3841880132	ResourceCounterHysteresis	version-1.1	Resource Counter: Two Thresholds	Resource Counter: Two Thresholds	1.1.2.8	1.1.2.8	Harmony	2.4.1		
 3842113856	AutoGameSpeed		Auto Game Speed	Auto Game Speed	1.2.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
 3842973278	Local.IronTeethBadwaterRig		IronTeeth Badwater Rig	IronTeeth Badwater Rig	2.0	1.0.0.0				
-3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.1	1.1.0.0	Harmony			
-3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.1	1.1.0.0			Tobbert.Ladder	
+3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.2	1.1.0.0	Harmony			
+3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.2	1.1.0.0			Tobbert.Ladder	
 3843111693	Victor7996.PatreonBeaverNames		Patreon Beaver Names	Patreon Beaver Names	1.0.0	1.0.0.0			eMka.ModSettings	1.0.0.0
 3843114017	Rockmandew.CityPlanner		City Planner	City Planner	0.1.0.0	1.1.2.8	Harmony	2.4.1		
 3843197312	Lucas.Escoras		Escoras	Shoring	1.0.0	1.1.0.0	Harmony			
+3843336391	ClearAndBuild.PlantQueue	version-1.1	Clear & Build	Clear & Build	0.2.1	1.1.0.0	Harmony	2.4.1		
+3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	Harmony	2.4.1		
+3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
+3843472082	RobLynn.MaximumWellbeing		Maximum Wellbeing	Maximum Wellbeing	1.0.1	1.1.0.0	Harmony	2.4.1		
+3843549763	OverheadPowerShaft	version-1.1	Overhead Power Shaft	Overhead Power Shaft	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
+3843830165	Lucas.DoisPovos		Two Peoples	Two Peoples	0.12.0	1.1.0.0	Harmony			
