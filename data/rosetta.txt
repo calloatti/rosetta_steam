@@ -1817,7 +1817,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3717481545	Aaron.HydratingSwim		Hydrating Swim [ModContest1]	Hydrating Swim [ModContest1]	1.0.3.0	1.0.0.0				
 3718022736	CustomDifficulty		Save Custom Difficulties [ModContest1]	Save Custom Difficulties [ModContest1]	1.0.0	0.0.0.0				
 3718140204	Aaron.ConfigurableTime		Configurable Time [ModContest1]	Configurable Time [ModContest1]	1.1.0.10	1.0.0.0	eMka.ModSettings			
-3719087842	Ygo.WatertPurification		Water Purification	Water Purification	0.9.3.0	1.0.0.0	ModdableTimberborn			
+3719087842	Ygo.WatertPurification		Water Purification	Water Purification	0.9.3.1	1.0.0.0	ModdableTimberborn			
+3719087842	Ygo.WatertPurification		Water Purification	Water Purification	0.9.3.1	1.0.0.0			LeafCoats	
+3719087842	Ygo.WatertPurification		Water Purification	Water Purification	0.9.3.1	1.0.0.0			Emberpelts	
 3719172121	andrumods.grawitationalwaterpumps		Grawitational Water Pump [ModContest1]	Grawitational Water Pump [ModContest1]	1.0.0.2	1.1.0.0				
 3719272939	TailsAndBanners.Test		Beaver of the season [ModContest1]	Beaver of the season [ModContest1]	0.1	1.0.0.0				
 3720105868	TailsAndBanners.MedivalBeaverBanners		Medival Beaver Banners	Medival Beaver Banners [ModContest1]	0.1	1.0.0.0				
@@ -2505,7 +2507,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3835418339	BobingaboutBeaverFactionPopulationStatistics	version-1.1	Beaver Faction Population Statistics	Beaver Faction Population Statistics	1.1.2.0	1.1.0.0	Harmony			
 3835434644	MechanicalWaterPump		Mechanical Water Pump	Mechanical Water Pump	0.2.5	1.1.0.0				
 3835527497	TailsAndBanners.PolskaPack		POLSKA PACK	POLSKA PACK	0.1	1.0.0.0				
-3835769849	Titan.JapaneseButtresses		Dam Buttresses	Dam Buttresses	1.2.2	1.1.2.8	ModdableToolGroups			
+3835769849	Titan.JapaneseButtresses		Dam Buttresses	Dam Buttresses	1.6.0	1.1.2.8	ModdableToolGroups			
 3835783155	Timberborn.ARandomDiamond.FoodStallModify		Food Stall Modifier	Food Stall Modifier	1.0.0.0	1.0.0.0	Timberborn.ARandomDiamond.FoodStall			
 3835783155	Timberborn.ARandomDiamond.FoodStallModify		Food Stall Modifier	Food Stall Modifier	1.0.0.0	1.0.0.0			Timberborn.ARandomDiamond.FoodStall	
 3835800501	Titan.JapaneseResidentialWalls		Japanese Decorations	Japanese Decorations	0.3.0	1.1.2.8	ModdableToolGroups			
@@ -2524,7 +2526,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3837511808	ArkonWarrior.PlatformWorks		PlatformWorks	PlatformWorks	0.3.16	1.0.0.0	Harmony	2.4.1		
 3837511954	ArkonWarrior.StairWorks		StairWorks	StairWorks	0.1.26	1.0.0.0	Harmony	2.4.1		
 3837512204	ArkonWarrior.TimberWorks		TimberWorks Complete	TimberWorks Complete	0.4.7	1.0.0.0	Harmony	2.4.1		
-3837719134	Spiritveil.MVP		灵溪宗 · 修仙海狸 (Spiritveil Clan)	灵溪宗 · 修仙海狸 (Spiritveil Clan)	0.08	1.1.0.0	Harmony	2.4.1		
+3837719134	Spiritveil.MVP		灵溪宗 · 修仙海狸 (Spiritveil Clan)	灵溪宗 · 修仙海狸 (Spiritveil Clan)	0.09	1.1.0.0	Harmony	2.4.1		
 3837823563	CargoZipline		Cargo Zipline & Tubeway	Cargo Zipline & Tubeway	0.7.4	1.1.2.8				
 3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	eMka.ModSettings	1.1.1.0		
 3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	Harmony	2.4.1		
@@ -2554,8 +2556,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3840122650	ArkonWarrior.DockWorks		DockWorks	DockWorks	0.1.12	1.0.0.0	Harmony	2.4.1		
 3840123096	ArkonWarrior.RoofWorks		RoofWorks	RoofWorks	0.3.10	1.0.0.0	Harmony	2.4.1		
 3840310601	FogTower.MistTowers		集雾器 / Fog Collector	集雾器 / Fog Collector	0.03	1.1.0.0	Harmony	2.4.1		
-3840324758	LowPolyHouses		Woodland Homes	Woodland Homes	0.1.11	1.1.0.0	Harmony			
-3840324758	LowPolyHouses		Woodland Homes	Woodland Homes	0.1.11	1.1.0.0	ModdableToolGroups	10.4.0		
+3840324758	LowPolyHouses		Woodland Homes	Woodland Homes	0.1.20	1.1.2.4	Harmony			
+3840324758	LowPolyHouses		Woodland Homes	Woodland Homes	0.1.20	1.1.2.4	ModdableToolGroups	10.4.0		
 3840332838	Jove.VisualTerrainBlock		Visual Terrain Block	Visual Terrain Block	0.5.0	1.1.0.0	Harmony	2.4.1		
 3840694923	CouncilHall.Decrees		公约 / Decrees	Decrees / 公约	0.01	1.1.0.0	Harmony	2.4.1		
 3840799761	TimberbornTrainer.Core		Timberborn Trainer / 海狸浮生记修改器	Timberborn Trainer / 海狸浮生记修改器	0.6.0	1.1.2.8				
@@ -2577,15 +2579,29 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3841490261	MechanizedManufactory	version-1.1	Mechanized Manufactory	Mechanized Manufactory	11.0.0	1.1.1	eMka.ModSettings			
 3841880132	ResourceCounterHysteresis	version-1.1	Resource Counter: Two Thresholds	Resource Counter: Two Thresholds	1.1.2.8	1.1.2.8	Harmony	2.4.1		
 3842113856	AutoGameSpeed		Auto Game Speed	Auto Game Speed	1.2.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
-3842973278	Local.IronTeethBadwaterRig		IronTeeth Badwater Rig	IronTeeth Badwater Rig	2.0	1.0.0.0				
+3842973278	Local.IronTeethBadwaterRig		铁牙派系可造恶水钻井	铁牙派系可造恶水钻井	2.1	1.0.0.0				
 3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.2	1.1.0.0	Harmony			
 3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.2	1.1.0.0			Tobbert.Ladder	
 3843111693	Victor7996.PatreonBeaverNames		Patreon Beaver Names	Patreon Beaver Names	1.0.0	1.0.0.0			eMka.ModSettings	1.0.0.0
 3843114017	Rockmandew.CityPlanner		City Planner	City Planner	0.1.0.0	1.1.2.8	Harmony	2.4.1		
 3843197312	Lucas.Escoras		Escoras	Shoring	1.0.0	1.1.0.0	Harmony			
-3843336391	ClearAndBuild.PlantQueue	version-1.1	Clear & Build	Clear & Build	0.2.1	1.1.0.0	Harmony	2.4.1		
+3843336391	ClearAndBuild.PlantQueue	version-1.1	Clear & Build	Clear & Build	0.3.0	1.1.0.0	Harmony	2.4.1		
 3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	Harmony	2.4.1		
 3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
 3843472082	RobLynn.MaximumWellbeing		Maximum Wellbeing	Maximum Wellbeing	1.0.1	1.1.0.0	Harmony	2.4.1		
 3843549763	OverheadPowerShaft	version-1.1	Overhead Power Shaft	Overhead Power Shaft	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
-3843830165	Lucas.DoisPovos		Two Peoples	Two Peoples	0.12.0	1.1.0.0	Harmony			
+3843830165	Lucas.DoisPovos		Two Peoples	Two Peoples	1.2.5	1.1.0.0	Harmony			
+3843977514	AutoSettlementName.MapDate	version-1.1	Auto Settlement Name	Auto Settlement Name	0.1.1	1.1.0.0	Harmony	2.4.1		
+3844012422	Local.AllDemolishable		均可拆除	均可拆除	2.0	1.0.0.0				
+3844013611	Local.SixteenLayerSuperDynamite		16层超级炸弹	16层超级炸弹	1.1	1.0.0.0				
+3844142024	Copi.AnnoBorn	version-1.1	Anno-born	Anno-born	0.2.0	1.0.0	Harmony			
+3844142024	Copi.AnnoBorn	version-1.1	Anno-born	Anno-born	0.2.0	1.0.0	eMka.ModSettings			
+3844142024	Copi.AnnoBorn	version-1.1	Anno-born	Anno-born	0.2.0	1.0.0	TimberUi			
+3844188997	acasperw.Headcount		Headcount	Headcount	0.6.0	1.1.0.0				
+3844369588	com.cybertaco.beavertraits		Beaver Traits & Personalities	Beaver Traits & Personalities	0.11.0	1.1.0	Harmony	2.4.1		
+3844369588	com.cybertaco.beavertraits		Beaver Traits & Personalities	Beaver Traits & Personalities	0.11.0	1.1.0	eMka.ModSettings	1.1.1.0		
+3844374531	Local.UnstableCoreDynamite		核弹	核弹	1.0	1.0.0.0				
+3844423373	ChainDrives		Chain Drives	Chain Drives	1.1.0	1.1.0.0			ModdableToolGroups	
+3844496968	MorePlatforms.ExtraFactions		More Platforms - Emberpelts & Leaf Coats	More Platforms - Emberpelts & Leaf Coats	1.4.0	1.1.2.4	Tobbert.MorePlatforms			
+3844496968	MorePlatforms.ExtraFactions		More Platforms - Emberpelts & Leaf Coats	More Platforms - Emberpelts & Leaf Coats	1.4.0	1.1.2.4			Emberpelts	
+3844496968	MorePlatforms.ExtraFactions		More Platforms - Emberpelts & Leaf Coats	More Platforms - Emberpelts & Leaf Coats	1.4.0	1.1.2.4			LeafCoats	
