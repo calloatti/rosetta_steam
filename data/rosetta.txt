@@ -2451,6 +2451,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3829290985	othermod.Spurge		Spurge	Spurge (produces badwater)	0.1.0	1.1.0.0				
 3830028880	timberatlas	version-1.1	TimberAtlas	TimberAtlas	1.1.0-0.1.0	1.1.0.0	Harmony			
 3830028880	timberatlas	version-1.1	TimberAtlas	TimberAtlas	1.1.0-0.1.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
+3830837811	WillerZ.SafetyGear		Safety Gear	Safety Gear	0.2	1.0.0.0				
 3830961792	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.1	1.1.2.0	Harmony	2.4.1		
 3830961792	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.1	1.1.2.0	T3MP	1.2.5		
 3830961792	acalc79.PerformancePlus		Performance Plus (P+)	Performance Plus (P+)	1.0.1	1.1.2.0	eMka.ModSettings	1.1.1.0		
@@ -2526,7 +2527,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3837511808	ArkonWarrior.PlatformWorks		PlatformWorks	PlatformWorks	0.3.16	1.0.0.0	Harmony	2.4.1		
 3837511954	ArkonWarrior.StairWorks		StairWorks	StairWorks	0.1.26	1.0.0.0	Harmony	2.4.1		
 3837512204	ArkonWarrior.TimberWorks		TimberWorks Complete	TimberWorks Complete	0.4.7	1.0.0.0	Harmony	2.4.1		
-3837719134	Spiritveil.MVP		灵溪宗 · 修仙海狸 (Spiritveil Clan)	灵溪宗 · 修仙海狸 (Spiritveil Clan)	0.09	1.1.0.0	Harmony	2.4.1		
+3837719134	Spiritveil.MVP		灵溪宗 · 修仙海狸 (Spiritveil Clan)	灵溪宗 · 修仙海狸 (Spiritveil Clan)	0.10	1.1.0.0	Harmony	2.4.1		
 3837823563	CargoZipline		Cargo Zipline & Tubeway	Cargo Zipline & Tubeway	0.7.4	1.1.2.8				
 3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	eMka.ModSettings	1.1.1.0		
 3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	Harmony	2.4.1		
@@ -2540,6 +2541,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3839115894	AlternativeFactionBuildingStyles	version-1.1	Alternative Faction Building Styles	Alternative Faction Building Styles	11.0.0	1.1.1	ModdableAlternativeBuildingStyle			
 3839115894	AlternativeFactionBuildingStyles	version-1.1	Alternative Faction Building Styles	Alternative Faction Building Styles	11.0.0	1.1.1	XtraPlzNoCrashes			
 3839252221	Eurymachus.TwitchBorn		TwitchBorn	TwitchBorn	0.2.0	1.0.0.0	eMka.ModSettings			
+3839641342	WillerZ.HseApproved		HSE Approved	HSE Approved	0.2	1.0.0.0	WillerZ.SafetyGear	0.2		
 3839769632	BeaverBellStatue	version-1.1	Beaver Bell Statue	Beaver Bell Statue	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
 3839811021	Lucas.TraducoesPTBR		Traduções PT-BR	Traduções PT-BR	1.1.0	1.1.0.0	Harmony			
 3839811021	Lucas.TraducoesPTBR		Traduções PT-BR	Traduções PT-BR	1.1.0	1.1.0.0			AutoScaffold	
@@ -2585,12 +2587,12 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3843111693	Victor7996.PatreonBeaverNames		Patreon Beaver Names	Patreon Beaver Names	1.0.0	1.0.0.0			eMka.ModSettings	1.0.0.0
 3843114017	Rockmandew.CityPlanner		City Planner	City Planner	0.1.0.0	1.1.2.8	Harmony	2.4.1		
 3843197312	Lucas.Escoras		Escoras	Shoring	1.0.0	1.1.0.0	Harmony			
-3843336391	ClearAndBuild.PlantQueue	version-1.1	Clear & Build	Clear & Build	0.3.0	1.1.0.0	Harmony	2.4.1		
+3843336391	ClearAndBuild.PlantQueue	version-1.1	Clear & Build	Clear & Build	0.3.2	1.1.0.0	Harmony	2.4.1		
 3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	Harmony	2.4.1		
 3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
 3843472082	RobLynn.MaximumWellbeing		Maximum Wellbeing	Maximum Wellbeing	1.0.1	1.1.0.0	Harmony	2.4.1		
 3843549763	OverheadPowerShaft	version-1.1	Overhead Power Shaft	Overhead Power Shaft	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
-3843830165	Lucas.DoisPovos		Two Peoples	Two Peoples	1.2.5	1.1.0.0	Harmony			
+3843830165	Lucas.DoisPovos		Two Peoples	Two Peoples	1.3.0	1.1.0.0	Harmony			
 3843977514	AutoSettlementName.MapDate	version-1.1	Auto Settlement Name	Auto Settlement Name	0.1.1	1.1.0.0	Harmony	2.4.1		
 3844012422	Local.AllDemolishable		均可拆除	均可拆除	2.0	1.0.0.0				
 3844013611	Local.SixteenLayerSuperDynamite		16层超级炸弹	16层超级炸弹	1.1	1.0.0.0				
@@ -2601,7 +2603,14 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3844369588	com.cybertaco.beavertraits		Beaver Traits & Personalities	Beaver Traits & Personalities	0.11.0	1.1.0	Harmony	2.4.1		
 3844369588	com.cybertaco.beavertraits		Beaver Traits & Personalities	Beaver Traits & Personalities	0.11.0	1.1.0	eMka.ModSettings	1.1.1.0		
 3844374531	Local.UnstableCoreDynamite		核弹	核弹	1.0	1.0.0.0				
-3844423373	ChainDrives		Chain Drives	Chain Drives	1.1.0	1.1.0.0			ModdableToolGroups	
+3844423373	ChainDrives		Chain Drives	Chain Drives	1.2.0	1.1.0.0			ModdableToolGroups	
 3844496968	MorePlatforms.ExtraFactions		More Platforms - Emberpelts & Leaf Coats	More Platforms - Emberpelts & Leaf Coats	1.4.0	1.1.2.4	Tobbert.MorePlatforms			
 3844496968	MorePlatforms.ExtraFactions		More Platforms - Emberpelts & Leaf Coats	More Platforms - Emberpelts & Leaf Coats	1.4.0	1.1.2.4			Emberpelts	
 3844496968	MorePlatforms.ExtraFactions		More Platforms - Emberpelts & Leaf Coats	More Platforms - Emberpelts & Leaf Coats	1.4.0	1.1.2.4			LeafCoats	
+3844601044	Local.UnstableCoreDynamite		核弹	核弹	1.2	1.0.0.0				
+3844644875	Local.GiantSucculent		变异树	变异树	1.1	1.0.0.0				
+3844735187	ToriiLanterns		Torii Gates and Lanterns (Continued)	Torii Gates and Lanterns (Continued)	3.1.0	1.1.1.0	eMka.ModSettings	1.1.1.0		
+3844735187	ToriiLanterns		Torii Gates and Lanterns (Continued)	Torii Gates and Lanterns (Continued)	3.1.0	1.1.1.0			ModdableToolGroups	
+3844974078	thewarmaster.RecipeDetails	version-1.0	Recipe Details	Recipe Details	0.1.0	1.0.0.0	Harmony	2.4.1		
+3845101166	thewarmaster.ConstructionOutlines	version-1.0	Construction Outlines	Construction Outlines	0.1.0	1.0.0.0	Harmony	2.4.1		
+3845103590	thewarmaster.PlacementLock	version-1.0	Placement Lock	Placement Lock	0.1.0	1.0.0.0	Harmony	2.4.1		

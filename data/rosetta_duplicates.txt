@@ -25,7 +25,11 @@ PublishedFileID	Id	Creator	Title
 3801376937	LadderJsonMod	76561198029730516	Ladder JSON Mod
 3508401248	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction U7
 3647584961	Lapantoufleagic.WhitepawsFaction	76561198038769501	Whitepaws Faction 1.1
+3844374531	Local.UnstableCoreDynamite	76561199525883887	核弹
+3844601044	Local.UnstableCoreDynamite	76561199525883887	核弹
 3744280602	MrFallBoy.TimberMover	76561199805216121	TimberMover
 3799011066	MrFallBoy.TimberMover	76561198153338585	TimberMover
 3434076453	sp1um.GoodTracing	76561198133654242	Goods Tracing
 3775544925	sp1um.GoodTracing	76561198985494039	Goods Tracing (v1.x Compatibility Fork)
+3370688565	ToriiLanterns	76561198119868269	Torii Gates and Lanterns
+3844735187	ToriiLanterns	76561198048223431	Torii Gates and Lanterns (Continued)
