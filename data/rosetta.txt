@@ -2420,8 +2420,8 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3823421087	ChooChooSmartMarker		Choo!!Choo!! Smart Marker	Choo!!Choo!! Smart Marker	1.1.4	1.1.0.0	Aoernis.ChooChoo	1.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	Harmony	2.4.1		
 3823468349	TreeHarvestByproduct		Tree Harvest Byproduct & Banner Control	砍伐时掉落副产物/Tree Harvest Byproduct & Banner Control	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
-3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.198.0	1.1.2.4	ModdableToolGroups	10.4.0		
-3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.198.0	1.1.2.4	Harmony			
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.201.0	1.1.2.4	ModdableToolGroups	10.4.0		
+3823907570	Barbara.ModuloCucinaFondo		Beavers Cozy World — New Generation	Beavers Cozy World — New Generation	0.1.201.0	1.1.2.4	Harmony			
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	Harmony	2.4.1		
 3824002632	BotDeteriorationModes		机器人耐久模式 / Bot Deterioration Modes	机器人不会损坏 / The robot is indestructible	1.1.0	1.1.0.0	eMka.ModSettings	1.1.1.0		
 3824497958	Jelitko.DamItStinks		Dam It Stinks	Dam It Stinks [BETA]	0.9.8.5	1.1.0.0				
@@ -2499,7 +2499,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3833473083	archipelago	version-1.1	Archipelago	Archipelago	1.1.0-0.2.0	1.1.0.0			timberatlas	
 3833530963	BeaverOuthouses		Beaver Outhouses & Bathhouse	Beaver Outhouses & Bathhouse	0.0.8	1.1.2.8				
 3833894969	ArkonWarrior.Pathworks		PathWorks	PathWorks	0.1.32	1.0.0.0	Harmony	2.4.1		
-3834122180	acasperw.WillItLast		Will It Last?	Will It Last?	1.3.5	1.1.0.0				
+3834122180	acasperw.WillItLast		Will It Last?	Will It Last?	1.4.0	1.1.0.0				
 3834303954	PasteSettingsPainter	version-1.1	Paste Settings Painter	Paste Settings Painter	1.1.2.0	1.1.2.0	Harmony			
 3834906975	BirthControl	version-1.1	Birth Control	Birth Control	1.0.0	1.1.1	Harmony			
 3834906975	BirthControl	version-1.1	Birth Control	Birth Control	1.0.0	1.1.1	eMka.ModSettings			
@@ -2563,7 +2563,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3840324758	LowPolyHouses		Woodland Homes	Woodland Homes	0.1.20	1.1.2.4	Harmony			
 3840324758	LowPolyHouses		Woodland Homes	Woodland Homes	0.1.20	1.1.2.4	ModdableToolGroups	10.4.0		
 3840332838	Jove.VisualTerrainBlock		Visual Terrain Block	Visual Terrain Block	0.5.0	1.1.0.0	Harmony	2.4.1		
-3840694923	CouncilHall.Decrees		公约 / Decrees	Decrees / 公约	0.01	1.1.0.0	Harmony	2.4.1		
+3840694923	CouncilHall.Decrees		法令 / Decrees	法令 / Decrees	0.02	1.1.0.0	Harmony	2.4.1		
 3840799761	TimberbornTrainer.Core		Timberborn Trainer / 海狸浮生记修改器	Timberborn Trainer / 海狸浮生记修改器	0.6.0	1.1.2.8				
 3841014535	KnatteAnka.damdecoration_blockdecoration	version-1.1.0	DamDecoration_BlockDecoration	DamDecoration BlockDecoration	1.0.1.0	1.0.7.0	ModdableToolGroups	10.1.0		
 3841014535	KnatteAnka.damdecoration_blockdecoration	version-1.1.0	DamDecoration_BlockDecoration	DamDecoration BlockDecoration	1.0.1.0	1.0.7.0			KnatteAnka.damdecoration	
@@ -2584,17 +2584,17 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3841880132	ResourceCounterHysteresis	version-1.1	Resource Counter: Two Thresholds	Resource Counter: Two Thresholds	1.1.2.8	1.1.2.8	Harmony	2.4.1		
 3842113856	AutoGameSpeed		Auto Game Speed	Auto Game Speed	1.2.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
 3842973278	Local.IronTeethBadwaterRig		铁牙派系可造恶水钻井	铁牙派系可造恶水钻井	2.1	1.0.0.0				
-3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.5	1.1.0.0	Harmony			
-3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.5	1.1.0.0			Tobbert.Ladder	
+3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.6	1.1.0.0	Harmony			
+3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.6	1.1.0.0			Tobbert.Ladder	
 3843111693	Victor7996.PatreonBeaverNames		Patreon Beaver Names	Patreon Beaver Names	1.0.0	1.0.0.0			eMka.ModSettings	1.0.0.0
 3843114017	Rockmandew.CityPlanner		City Planner	City Planner	0.1.0.0	1.1.2.8	Harmony	2.4.1		
-3843197312	Lucas.Escoras		Escoras	Shoring	1.0.0	1.1.0.0	Harmony			
+3843197312	Lucas.Escoras		Escoras	Escoras	1.1.0	1.1.0.0	Harmony			
 3843336391	ClearAndBuild.PlantQueue	version-1.1	Clear & Build	Clear & Build	0.3.2	1.1.0.0	Harmony	2.4.1		
 3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	Harmony	2.4.1		
 3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
 3843472082	RobLynn.MaximumWellbeing		Maximum Wellbeing	Maximum Wellbeing	1.0.1	1.1.0.0	Harmony	2.4.1		
 3843549763	OverheadPowerShaft	version-1.1	Overhead Power Shaft	Overhead Power Shaft	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
-3843830165	Lucas.DoisPovos		Two Peoples	Two Peoples	1.3.5	1.1.0.0	Harmony			
+3843830165	Lucas.DoisPovos		Two Peoples	Two Peoples	1.3.6	1.1.0.0	Harmony			
 3843977514	AutoSettlementName.MapDate	version-1.1	Auto Settlement Name	Auto Settlement Name	0.1.1	1.1.0.0	Harmony	2.4.1		
 3844012422	Local.AllDemolishable		均可拆除	均可拆除	2.0	1.0.0.0				
 3844013611	Local.SixteenLayerSuperDynamite		16层超级炸弹	16层超级炸弹	1.1	1.0.0.0				
@@ -2618,3 +2618,6 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3845103590	thewarmaster.PlacementLock	version-1.0	Placement Lock	Placement Lock	0.1.0	1.0.0.0	Harmony	2.4.1		
 3845203056	thewarmaster.Trailblazer	version-1.0	Trailblazer	Trailblazer	0.1.0	1.0.0.0	Harmony	2.4.1		
 3845587489	Vexsy.BeaverNames		NameThatBeaver	NameThatBeaver	0.2.0	1.1.0				
+3845685313	TimberboneMod.WaterfallSounds		Waterfall Sounds	Waterfall Sounds	0.5.1	1.1.2.9	eMka.ModSettings	1.1.1.0		
+3845897643	Stardrifters		Stardrifters	Stardrifters	1.0.0	1.1.0.0	Harmony			
+3846064135	ice_cracked.FreshWaterSourceCap		Fresh Water Source Cap	Fresh Water Source Cap	2.0.0	1.1.0.0	Harmony	2.4.1		
