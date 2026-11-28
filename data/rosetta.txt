@@ -2529,7 +2529,7 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3837511808	ArkonWarrior.PlatformWorks		PlatformWorks	PlatformWorks	0.3.16	1.0.0.0	Harmony	2.4.1		
 3837511954	ArkonWarrior.StairWorks		StairWorks	StairWorks	0.1.26	1.0.0.0	Harmony	2.4.1		
 3837512204	ArkonWarrior.TimberWorks		TimberWorks Complete	TimberWorks Complete	0.4.7	1.0.0.0	Harmony	2.4.1		
-3837719134	Spiritveil.MVP		灵溪宗 · 修仙海狸 (Spiritveil Clan)	灵溪宗 · 修仙海狸 (Spiritveil Clan)	0.11	1.1.0.0	Harmony	2.4.1		
+3837719134	Spiritveil.MVP		灵溪宗 · 修仙海狸 (Spiritveil Clan)	灵溪宗 · 修仙海狸 (Spiritveil Clan)BETA	0.11	1.1.0.0	Harmony	2.4.1		
 3837823563	CargoZipline		Cargo Zipline & Tubeway	Cargo Zipline & Tubeway	0.7.4	1.1.2.8				
 3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	eMka.ModSettings	1.1.1.0		
 3838016132	Glass.GlassBlock		Glass	Glass	0.3	1.0.0.0	Harmony	2.4.1		
@@ -2551,8 +2551,9 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3839811021	Lucas.TraducoesPTBR		Traduções PT-BR	Traduções PT-BR	1.1.0	1.1.0.0			EzShaft	
 3839812029	Lucas.MaisAutosaves		Mais Saves Automáticos	More Autosaves	1.2.0	1.1.0.0	Harmony			
 3839812029	Lucas.MaisAutosaves		Mais Saves Automáticos	More Autosaves	1.2.0	1.1.0.0			eMka.ModSettings	
-3839812698	Lucas.AjustesMWP		Ajustes da Bomba Mecânica	Ajustes da Bomba Mecânica	1.1.0	1.1.0.0	Harmony			
-3839812698	Lucas.AjustesMWP		Ajustes da Bomba Mecânica	Ajustes da Bomba Mecânica	1.1.0	1.1.0.0	MechanicalWaterPump			
+3839812698	Lucas.AjustesMWP		Ajustes da Bomba Mecânica	Ajustes da Bomba Mecânica	1.2.0	1.1.0.0	Harmony			
+3839812698	Lucas.AjustesMWP		Ajustes da Bomba Mecânica	Ajustes da Bomba Mecânica	1.2.0	1.1.0.0	MechanicalWaterPump			
+3839812698	Lucas.AjustesMWP		Ajustes da Bomba Mecânica	Ajustes da Bomba Mecânica	1.2.0	1.1.0.0			TimberPipes	
 3839958941	Titan.JapaneseWaterworks		Japanese Waterworks	Japanese Waterworks	0.1.0	1.1.2.8				
 3839959412	Titan.JapaneseIndustrial		Japanese Industrial	Japanese Industrial	0.2.0	1.1.2.8				
 3839959761	Titan.JapaneseFarmhouse		Japanese Farmhouse	Japanese Farmhouse	0.1.0	1.1.2.8				
@@ -2584,23 +2585,23 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3841880132	ResourceCounterHysteresis	version-1.1	Resource Counter: Two Thresholds	Resource Counter: Two Thresholds	1.1.2.8	1.1.2.8	Harmony	2.4.1		
 3842113856	AutoGameSpeed		Auto Game Speed	Auto Game Speed	1.2.0	1.1.0.0	eMka.ModSettings	1.1.0.0		
 3842973278	Local.IronTeethBadwaterRig		铁牙派系可造恶水钻井	铁牙派系可造恶水钻井	2.1	1.0.0.0				
-3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.6	1.1.0.0	Harmony			
-3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.6	1.1.0.0			Tobbert.Ladder	
+3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.7	1.1.0.0	Harmony			
+3843022847	Lucas.PlataformasAutomaticas		Plataformas Automáticas	Plataformas Automáticas	1.0.7	1.1.0.0			Tobbert.Ladder	
 3843111693	Victor7996.PatreonBeaverNames		Patreon Beaver Names	Patreon Beaver Names	1.0.0	1.0.0.0			eMka.ModSettings	1.0.0.0
 3843114017	Rockmandew.CityPlanner		City Planner	City Planner	0.1.0.0	1.1.2.8	Harmony	2.4.1		
 3843197312	Lucas.Escoras		Escoras	Escoras	1.1.0	1.1.0.0	Harmony			
-3843336391	ClearAndBuild.PlantQueue	version-1.1	Clear & Build	Clear & Build	0.3.2	1.1.0.0	Harmony	2.4.1		
+3843336391	ClearAndBuild.PlantQueue	version-1.1	Clear & Build	Clear & Build	0.3.6	1.1.0.0	Harmony	2.4.1		
 3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	Harmony	2.4.1		
 3843410388	thewarmaster.HidableBuildingPanel	version-1.0	Hidable Building Panel	Hidable Building Panel	0.1.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
-3843472082	RobLynn.MaximumWellbeing		Maximum Wellbeing	Maximum Wellbeing	1.0.1	1.1.0.0	Harmony	2.4.1		
+3843472082	RobLynn.MaximumWellbeing		Maximum Wellbeing	Maximum Wellbeing	1.0.2	1.1.0.0	Harmony	2.4.1		
 3843549763	OverheadPowerShaft	version-1.1	Overhead Power Shaft	Overhead Power Shaft	11.0.0	1.1.1			ModdedFactionsBuildingSupport	
-3843830165	Lucas.DoisPovos		Two Peoples	Two Peoples	1.3.8	1.1.0.0	Harmony			
+3843830165	Lucas.DoisPovos		Two Peoples	Two Peoples	1.4.0	1.1.0.0	Harmony			
 3843977514	AutoSettlementName.MapDate	version-1.1	Auto Settlement Name	Auto Settlement Name	0.1.1	1.1.0.0	Harmony	2.4.1		
 3844012422	Local.AllDemolishable		均可拆除	均可拆除	2.0	1.0.0.0				
 3844013611	Local.SixteenLayerSuperDynamite		16层超级炸弹	16层超级炸弹	1.1	1.0.0.0				
-3844142024	Copi.AnnoBorn	version-1.1	Anno-born	Anno-born	0.2.0	1.0.0	Harmony			
-3844142024	Copi.AnnoBorn	version-1.1	Anno-born	Anno-born	0.2.0	1.0.0	eMka.ModSettings			
-3844142024	Copi.AnnoBorn	version-1.1	Anno-born	Anno-born	0.2.0	1.0.0	TimberUi			
+3844142024	Copi.AnnoBorn	version-1.1	Anno-born	Anno-born	0.3.0	1.0.0	Harmony			
+3844142024	Copi.AnnoBorn	version-1.1	Anno-born	Anno-born	0.3.0	1.0.0	eMka.ModSettings			
+3844142024	Copi.AnnoBorn	version-1.1	Anno-born	Anno-born	0.3.0	1.0.0	TimberUi			
 3844188997	acasperw.Headcount		Headcount	Headcount	0.7.0	1.1.0.0				
 3844369588	com.cybertaco.beavertraits		Beaver Traits & Personalities	Beaver Traits & Personalities	0.11.0	1.1.0	Harmony	2.4.1		
 3844369588	com.cybertaco.beavertraits		Beaver Traits & Personalities	Beaver Traits & Personalities	0.11.0	1.1.0	eMka.ModSettings	1.1.1.0		
@@ -2623,3 +2624,13 @@ PublishedFileID	Id	Directory_Name	Name	Title	Version	MinimumGameVersion	Required
 3845897643	Stardrifters		Stardrifters	Stardrifters	1.0.0	1.1.0.0	Harmony			
 3846064135	ice_cracked.FreshWaterSourceCap		Fresh Water Source Cap	Fresh Water Source Cap	2.0.0	1.1.0.0	Harmony	2.4.1		
 3846353304	HarvestFestival		Harvest Festival	Harvest Festival	0.1.0.0	1.1.2.8				
+3846528684	JustinAutoHaulers		Auto Haulers	Auto Haulers	0.2.0	1.1.1.0	eMka.ModSettings			
+3846528684	JustinAutoHaulers		Auto Haulers	Auto Haulers	0.2.0	1.1.1.0	Harmony			
+3846564438	thewarmaster.Wayfinder	version-1.0	Wayfinder	Wayfinder	0.1.0	1.0.0.0	Harmony	2.4.1		
+3846564438	thewarmaster.Wayfinder	version-1.0	Wayfinder	Wayfinder	0.1.0	1.0.0.0	eMka.ModSettings	1.0.13.0		
+3846585469	thewarmaster.GravityBatteryPreview	version-1.0	Gravity Battery Preview	Gravity Battery Preview	0.1.0	1.0.0.0				
+3846651248	TimberboneMod.FolktailsCanteen		Folktails Canteen	Folktails Canteen	0.2.3	1.1.2.9				
+3846721390	Oiltanker.ShowMeTheActivations	version-1.1	Show Me the Activations	Show Me the Activations	1.0.0	1.1.1	Harmony	2.3.0		
+3846721390	Oiltanker.ShowMeTheActivations	version-1.1	Show Me the Activations	Show Me the Activations	1.0.0	1.1.1	eMka.ModSettings	1.1.1.0		
+3847044310	othermod.DeepWell		Deep Well	Deep Well	0.1.0	1.1.0.0				
+3847144666	FoodWaterForecast		粮水余量预测 (Food & Water Forecast)	Food & Water Forecast(粮水余量预测)	0.01	1.1.0.0	Harmony	2.4.1		
